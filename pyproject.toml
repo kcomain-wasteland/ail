@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ail_poe"
+version = "0.1.0"
+description = ""
+authors = ["Cassie Cheung <me@soopy.moe>"]
+readme = "README.md"
+license = "Unlicense"
+packages = [
+	{ include = "ail_poe" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
