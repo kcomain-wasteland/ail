@@ -1,0 +1,222 @@
+{
+  "type": "refrigerator",
+  "products": [
+    {
+      "price": "$198",
+      "name": "MH-208 Mini Humidifier",
+      "description": "1)AC100-240V Universal Voltage 2)Approx. transpiration :100ml/hour",
+      "url": "https://www.fortress.com.hk/en/product/mh-208-mini-humidifier/p/12546406",
+      "releaseDate": "2021-10-21T16:00:00+0000"
+    },
+    {
+      "price": "$399",
+      "name": "HUM025 Humidifier",
+      "description": "2 cool mist modes: Continuous & Intermittent,325ml volume adequate for 12 hr operation,Can use with aromatherapy liquid to relax & de-stress,Soft mood light creates a zen & serene relaxing ambience,USB powered,Ultrasonic silent mist.",
+      "url": "https://www.fortress.com.hk/en/product/hum025-humidifier/p/12239107",
+      "releaseDate": "2020-12-22T16:00:00+0000"
+    },
+    {
+      "price": "$114",
+      "name": "A7531 Demineralization Cartridge",
+      "description": "2-in-1 Water Filter for all BONECO Ultrasonic Humidifiers (except U7146).",
+      "url": "https://www.fortress.com.hk/en/product/a7531-demineralization-cartridge/p/11933156",
+      "releaseDate": "2019-10-24T16:00:00+0000"
+    },
+    {
+      "price": "$398",
+      "name": "Mist Stand Ultrasonic Humidifier",
+      "description": "2023 LUMENA MIST STAND offers dual wireless humidification for daytime dryness prevention and elegant table lighting for creating a sophisticated nighttime mood. It's a versatile solution for both.",
+      "url": "https://www.fortress.com.hk/en/product/mist-stand-ultrasonic-humidifier/p/13117945",
+      "releaseDate": "2023-10-11T16:00:00+0000"
+    },
+    {
+      "price": "$348",
+      "name": "H2X Ultrasonic Humidifier",
+      "description": "2023 New color,humidification can be adjusted from 50ml/hr (2-level intermittent) up to 100ml/hr (1-level).Featuring a 500ml tank, it offers up to12 hours of use (based on 2-level settings).It also supports wireless operation.",
+      "url": "https://www.fortress.com.hk/en/product/h2x-ultrasonic-humidifier/p/13117831",
+      "releaseDate": "2023-10-11T16:00:00+0000"
+    },
+    {
+      "price": "$398",
+      "name": "H3X Dual Ultrasonic Humidifier",
+      "description": "2023 New color. 700ml Capacity, Dual Spray Rich humidification up to 160ml per hour,with a high quality 4000mAh battery and wireless method up to 12 hours .Auto power off when no water.",
+      "url": "https://www.fortress.com.hk/en/product/h3x-dual-ultrasonic-humidifier/p/13130015",
+      "releaseDate": "2023-10-09T16:00:00+0000"
+    },
+    {
+      "price": "$398",
+      "name": "H3X Dual Ultrasonic Humidifier",
+      "description": "2023 New color. 700ml Capacity, Dual Spray Rich humidification up to 160ml per hour,with a high quality 4000mAh battery and wireless method up to 12 hours .Auto power off when no water.",
+      "url": "https://www.fortress.com.hk/en/product/h3x-dual-ultrasonic-humidifier/p/13130007",
+      "releaseDate": "2023-10-15T16:00:00+0000"
+    },
+    {
+      "price": "$398",
+      "name": "H3X Dual Ultrasonic Humidifier",
+      "description": "2023 New color. 700ml Capacity, Dual Spray Rich humidification up to 160ml per hour,with a high quality 4000mAh battery and wireless method up to 12 hours .Auto power off when no water.",
+      "url": "https://www.fortress.com.hk/en/product/h3x-dual-ultrasonic-humidifier/p/13129997",
+      "releaseDate": "2023-10-16T16:00:00+0000"
+    },
+    {
+      "price": "$368",
+      "name": "N9-H2Plus Humidifier",
+      "description": "500ml Capacity, Rich humidification up to 100ml per hour.Humidifiers can be used in any room, indoors or outdoors, with a high quality 2500mAh battery and wireless method up to 12 hours .Auto power off when no water.",
+      "url": "https://www.fortress.com.hk/en/product/n9-h2plus-humidifier/p/12547425",
+      "releaseDate": "2021-10-28T16:00:00+0000"
+    },
+    {
+      "price": "$332",
+      "name": "IAC-24U Humidifier",
+      "description": "Auto shut-down when water level low, water tank capacity: 240ml",
+      "url": "https://www.fortress.com.hk/en/product/iac-24u-humidifier/p/12076942",
+      "releaseDate": "2020-08-21T16:00:00+0000"
+    },
+    {
+      "price": "$198",
+      "name": "Bear Humidifier Gift Set",
+      "description": "Colorful LED Night Light, Adjustable Water Spray Setting, Water Filling Capacity: 200ml, Mist Timing: Around 4 - 8 Hours, Rated Voltage: DC 5V 1A, Spray Volume: 35-40 ml/Hour",
+      "url": "https://www.fortress.com.hk/en/product/bear-humidifier-gift-set/p/13139036",
+      "releaseDate": "2023-11-06T16:00:00+0000"
+    },
+    {
+      "price": "$274",
+      "name": "BON-X200 Thermo-Hygrometer",
+      "description": "Digital indicator of room temperature and relative humidity",
+      "url": "https://www.fortress.com.hk/en/product/bon-x200-thermo-hygrometer/p/12491919",
+      "releaseDate": "2021-09-07T16:00:00+0000"
+    },
+    {
+      "price": "$368",
+      "name": "TAD-926 Elegant Electronic Ultrasonic Humidifier",
+      "description": "Easy for carry,Used with water-soluble aroma or aroma oil,Elegant design with sensor touch control,Color changing LED light,Max. 5-hour whisper quiet operation,Capacity:140ml,Auto shut-off when water is empty",
+      "url": "https://www.fortress.com.hk/en/product/tad-926-elegant-electronic-ultrasonic-humidifier/p/12819742",
+      "releaseDate": "2022-11-23T16:00:00+0000"
+    },
+    {
+      "price": "$159",
+      "name": "MIF19 Crystal Ball Humidifier",
+      "description": "Fast and efficient nano atomization humidification, built-in rechargeable battery of about 1200mAh, usable time of about 6 hours",
+      "url": "https://www.fortress.com.hk/en/product/mif19-crystal-ball-humidifier/p/13164186",
+      "releaseDate": "2023-11-21T16:00:00+0000"
+    },
+    {
+      "price": "$159",
+      "name": "MIF19 Crystal Ball Humidifier",
+      "description": "Fast and efficient nano atomization humidification, built-in rechargeable battery of about 1200mAh, usable time of about 6 hours",
+      "url": "https://www.fortress.com.hk/en/product/mif19-crystal-ball-humidifier/p/13167328",
+      "releaseDate": "2023-11-21T16:00:00+0000"
+    },
+    {
+      "price": "$860",
+      "name": "HTU600 Heater & Humidifier 2-in-1",
+      "description": "Heater & Humidifier,PTC heating element keeps you warm without dehydrating,600W PTC Ceramic Heating,Use with Aromatherapy for Relaxation,400ml Large Capacity Water Tank,Mini and Portable",
+      "url": "https://www.fortress.com.hk/en/product/htu600-heater-humidifier-2-in-1/p/12231181",
+      "releaseDate": "2020-12-17T16:00:00+0000"
+    },
+    {
+      "price": "$199",
+      "name": "HM-100 Relaxi Humidifier",
+      "description": "Humidifier with Nature & Music Sound, Breathing Ambient Light, Water Filling Capacity: 400ml Max, 20 Minutes Bird Song,  Adjustable 3 Levels Volume, Rated Voltage: DC 5V 0.5A, Power Power: 2W",
+      "url": "https://www.fortress.com.hk/en/product/hm-100-relaxi-humidifier/p/13115430",
+      "releaseDate": "2023-10-15T16:00:00+0000"
+    },
+    {
+      "price": "$499",
+      "name": "WP8110 Nano Hydrogen Water Beauty and Moisture Sprayer",
+      "description": "Hydrogen-rich water protects skin from free radicals damage,0.3 microns water molecules enhances moisture penetration,multi-usage e.g.before facial toner, after home facial, final makeup,etc.,easy to use tap water is OK,light and portable",
+      "url": "https://www.fortress.com.hk/en/product/wp8110-nano-hydrogen-water-beauty-and-moisture-sprayer/p/12099280",
+      "releaseDate": "2020-09-24T16:00:00+0000"
+    },
+    {
+      "price": "$250",
+      "name": "BON-A7017 Humidifier",
+      "description": "Inhibits microbial growth in your humidifier. Use: only intended for humidifiers.Suitable for all Boneco humidifier (except U7146 and S200/250/450).",
+      "url": "https://www.fortress.com.hk/en/product/bon-a7017-humidifier/p/11931492",
+      "releaseDate": "2019-06-30T16:00:00+0000"
+    },
+    {
+      "price": "$268",
+      "name": "Q2 Double Spray Humidifier",
+      "description": "MACHINO’s new Q2 dual-spray humidifier can help you. It has a capacity of 1000ml and can operate for up to 4-7 hours to dehumidify. Double-spray humidification can quickly keep the room moist and comfortable.",
+      "url": "https://www.fortress.com.hk/en/product/q2-double-spray-humidifier/p/13117822",
+      "releaseDate": "2022-10-18T16:00:00+0000"
+    },
+    {
+      "price": "$199",
+      "name": "MH-100 Relaxi Humidifier",
+      "description": "Mini humidifier with nature and music sounds, soft breathing night light, tank capacity: max. 400 ml, 20 minutes of birdsong sound, adjustable 3-level volume, 6-hour mist time setting, rated voltage: DC 5V 0.5 A, Power supply: 2W",
+      "url": "https://www.fortress.com.hk/en/product/mh-100-relaxi-humidifier/p/13115421",
+      "releaseDate": "2023-10-15T16:00:00+0000"
+    },
+    {
+      "price": "$328",
+      "name": "WT-H25 Humidifier",
+      "description": "Nanospray design, no water droplets appears around/BPA FREE, safe material/Anti-leakage design, even if it has been overturned/7 colors light changes/30db low noise operation",
+      "url": "https://www.fortress.com.hk/en/product/wt-h25-humidifier/p/12095705",
+      "releaseDate": "2020-09-22T16:00:00+0000"
+    },
+    {
+      "price": "$418",
+      "name": "U7146  Ultrasonic Humidifier",
+      "description": "Our handy Travel Humidifier lets you enjoy good air quality not only at home or in the office, but also when out and about! The compact Humidifier fits snugly into any piece of luggage to provide you with well humidified air.",
+      "url": "https://www.fortress.com.hk/en/product/u7146-ultrasonic-humidifier/p/11930705",
+      "releaseDate": "2019-10-24T16:00:00+0000"
+    },
+    {
+      "price": "$398",
+      "name": "HM50 Travel Night Light Humidifier",
+      "description": "The Kusa HM50 Travel Night Light Humidifier for Mineral Water Bottles is simple and convenient to use.  It is small and compact for traveling or home use  it also has a warm night light to add color to your life.",
+      "url": "https://www.fortress.com.hk/en/product/hm50-travel-night-light-humidifier/p/12895323",
+      "releaseDate": "2023-02-14T16:00:00+0000"
+    },
+    {
+      "price": "$1,048",
+      "name": "BON-U200 Ultrasonic Humidifier",
+      "description": "The high humidification output guarantees optimal humidification with a low energy consumption of 20 W. The integrated Ionic Silver Stick® and the demineralisation cartridge keep the water fresh and free of minerals.",
+      "url": "https://www.fortress.com.hk/en/product/bon-u200-ultrasonic-humidifier/p/11930983",
+      "releaseDate": "2019-10-24T16:00:00+0000"
+    },
+    {
+      "price": "$388",
+      "name": "PR-HF040 Rechargeable Cordless Humidifier",
+      "description": "The portable and rechargeable wireless humidifier and a LED light have become one. The LED light is detachable. It is also available to be put on a wall. As a humidifier, or as a light, you can separately use it depending on scenes.",
+      "url": "https://www.fortress.com.hk/en/product/pr-hf040-rechargeable-cordless-humidifier/p/12188805",
+      "releaseDate": "2020-11-16T16:00:00+0000"
+    },
+    {
+      "price": "$84",
+      "name": "Nano facial mist",
+      "description": "This award-winning nano facial mist has an incredibly compact size with an ultra-light weight of 35 grams. Rechargeable and allows up to 80 times spray per charge. Ideal for frequent travellers who need deep down hydration.",
+      "url": "https://www.fortress.com.hk/en/product/nano-facial-mist/p/11965297",
+      "releaseDate": "2020-01-31T16:00:00+0000"
+    },
+    {
+      "price": "$84",
+      "name": "Nano facial mist",
+      "description": "This award-winning nano facial mist has an incredibly compact size with an ultra-light weight of 35 grams. Rechargeable and allows up to 80 times spray per charge. Ideal for frequent travellers who need deep down hydration.",
+      "url": "https://www.fortress.com.hk/en/product/nano-facial-mist/p/11965318",
+      "releaseDate": "2020-01-31T16:00:00+0000"
+    },
+    {
+      "price": "$617",
+      "name": "BON-U100 Ultrasonic Humidifier",
+      "description": "U100 lets you enjoy good air quality anywhere, but also when out and about!  Just pop on a PET bottle, connect the appliance and enjoy healthy air in your room. The variable output control lets you set the humidity output just as you like.",
+      "url": "https://www.fortress.com.hk/en/product/bon-u100-ultrasonic-humidifier/p/12182227",
+      "releaseDate": "2020-11-11T16:00:00+0000"
+    },
+    {
+      "price": "$1,733",
+      "name": "BON-U350 Humidifier",
+      "description": "U350 ultrasonic humidifier, received the Red Dot Design Award (an intl. recognized quality label for excellence in design). \"AUTO\" mode automatically and without worry humidifies the room air to an optimum relative humidity of 50%.",
+      "url": "https://www.fortress.com.hk/en/product/bon-u350-humidifier/p/11930617",
+      "releaseDate": "2019-10-24T16:00:00+0000"
+    },
+    {
+      "price": "$315",
+      "name": "BON-U50WH Humidifier",
+      "description": "When the room air is dry in winter as well as during the warm season in air-conditioned rooms, the personal Ultrasonic Humidifier U50 ensures pleasant humidity immediately around you.",
+      "url": "https://www.fortress.com.hk/en/product/bon-u50wh-humidifier/p/11943135",
+      "releaseDate": "2019-11-14T16:00:00+0000"
+    }
+  ]
+}
