@@ -22,7 +22,7 @@ def params(category: Categories, sort: Sorting = Sorting.bestseller, count: int 
         "pageSize": count,
         "sort": sort.value,
         "ignoreSort": False,
-        "query": f":category:{category}"
+        "query": f":${sort.value}:category:{category}"
     }
 
 if __name__ == "__main__":
@@ -32,22 +32,24 @@ if __name__ == "__main__":
 
     things = [
         Categories.aircon,
-        # Categories.refrigerator,
-        # Categories.vacuum,
+        Categories.refrigerator,
+        Categories.vacuum,
     ]
     
     for thing in things:
         _params = params(thing.value)
         logger.debug(_params)
-        print(f"Getting {thing.name}")
+        
+        logger.debug(f"getting {thing.name}")
         res = requests.get(
             BASE_URL,
             _params,
             headers = {
-                "accept": "application/json"
+                "accept": "application/json",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/125.0",
             }
         )
         
-        print("Writing %s", thing.name)
-        with open(f"src/kb/fortress_{thing.name}", "w+") as f:
+        logger.info("writing %s", thing.name)
+        with open(f"src/kb/fortress_{thing.name}.txt", "wb+") as f:
             f.write(res.content)
