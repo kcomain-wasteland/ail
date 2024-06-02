@@ -2,6 +2,7 @@ import json
 import logging
 from argparse import ArgumentParser
 from enum import Enum, StrEnum
+from typing import Iterable
 
 import requests
 
@@ -31,7 +32,7 @@ def params(category: Categories, sort: Sorting = Sorting.bestseller, count: int 
 
 
 # https://stackoverflow.com/q/11092511
-def unique_list(filter_key: str, iterable: iter):
+def unique_list(filter_key: str, iterable: Iterable):
     return list({item[filter_key]: item for item in iterable}.values())
 
 
@@ -74,7 +75,7 @@ if __name__ == "__main__":
     ]
 
     for thing in things:
-        _params = params(thing.value, count=9999)
+        _params = params(thing.value, count=50) # type: ignore
         logger.debug(_params)
 
         logger.debug(f"getting {thing.name}")
