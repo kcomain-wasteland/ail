@@ -8,11 +8,8 @@
 ail: AI Literacy Chatbot 2nd Generation
 """
 
-from transformers import QuantoConfig
-
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 ### Constants
-MODEL = "CohereForAI/c4ai-command-r-v01"
-TEMPERATURE = 0.2
-QUANTIZER = QuantoConfig(weight="float8")
+MODEL = "command-r"
+TEMPERATURE = 0.1

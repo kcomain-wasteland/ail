@@ -8,12 +8,16 @@
 ail.logging: Logging Utilities
 """
 
-from transformers.utils import logging
+import logging
 
+ROOT_LOGGER = logging.getLogger("app")
+VERBOSITY = [logging.WARNING, logging.INFO, logging.DEBUG]
 
-def configure_logging():
-    logging.set_verbosity_warning()
-
+def configure_logging(args):
+    logging.basicConfig(
+        format="[%(asctime)s %(name)s:%(levelname)s] %(message)s",
+        level=VERBOSITY[min(len(VERBOSITY), args.verbose)],
+    )
 
 def get_logger(name: str):
-    return logging.get_logger(name)
+    return ROOT_LOGGER.getChild(name)
