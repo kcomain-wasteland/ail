@@ -8,11 +8,14 @@
 ail: AI Literacy Chatbot 2nd Generation
 """
 
-from transformers import QuantoConfig
+from . import state, logging, tokenizer, model
 
-__version__ = "0.1.0"
 
-### Constants
-MODEL = "CohereForAI/c4ai-command-r-v01"
-TEMPERATURE = 0.2
-QUANTIZER = QuantoConfig(weight="float8")
+## Code
+def app():
+    logging.configure_logging()
+    tokenizer.initialize_tokenizer()
+
+    state.push({"role": "user", "content": "Hello!"})
+
+    model.initialize_model()

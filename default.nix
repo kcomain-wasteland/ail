@@ -1,9 +1,14 @@
 with import <nixpkgs> {}; mkShellNoCC {
     packages = [
-        python3Packages.transformers
+        (python3Packages.transformers.overrideAttrs (final: {
+            dependencies = final.dependencies ++ [
+                python3Packages.bitsandbytes
+            ];
+        }))
         python3Packages.pytorch
         python3Packages.requests
         python3Packages.accelerate
+        python3Packages.bitsandbytes
         (python3Packages.buildPythonPackage rec {
             pname = "quanto";
             version = "0.2.0";
