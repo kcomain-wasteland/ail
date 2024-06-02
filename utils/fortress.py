@@ -51,6 +51,7 @@ def reduce_junk(orig: bytes):
                     "release_date": prod.get("releaseDate"),
                     "rating": prod.get("averageRating", 2.5),
                     "price": prod.get("price").get("formattedValue"),
+                    "link": "https://www.fortress.com.hk/en" + prod.get("url"),
                 },
                 old_data.get("products", {}),
             ),

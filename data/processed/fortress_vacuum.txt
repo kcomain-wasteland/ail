@@ -5,6 +5,7 @@ Brand: Mi
 Release_Date: 2023-03-15T16:00:00+0000
 Rating: 4.94
 Price: $999
+Link: https://www.fortress.com.hk/en/product/bhr6186en-vacuum-cleaner-g9-plus/p/12962338
 
 --
 Name: BHR6183EN G10 Plus Vacuum Cleaner
@@ -14,6 +15,7 @@ Brand: Mi
 Release_Date: 2023-03-31T16:00:00+0000
 Rating: 4.91
 Price: $1,499
+Link: https://www.fortress.com.hk/en/product/bhr6183en-g10-plus-vacuum-cleaner/p/12971550
 
 --
 Name: Digital Slim Origin vacuum
@@ -23,6 +25,7 @@ Brand: DYSON
 Release_Date: 2023-06-22T16:00:00+0000
 Rating: 4.56
 Price: $2,980
+Link: https://www.fortress.com.hk/en/product/digital-slim-origin-vacuum/p/13017362
 
 --
 Name: BHR8125EN Robot Vacuum X20+
@@ -32,6 +35,7 @@ Brand: Mi
 Release_Date: 2024-04-01T16:00:00+0000
 Rating: 5.0
 Price: $2,999
+Link: https://www.fortress.com.hk/en/product/bhr8125en-robot-vacuum-x20/p/13249411
 
 --
 Name: V12 Origin vacuum cleaner
@@ -41,6 +45,7 @@ Brand: DYSON
 Release_Date: 2023-06-20T16:00:00+0000
 Rating: 4.95
 Price: $3,880
+Link: https://www.fortress.com.hk/en/product/v12-origin-vacuum-cleaner/p/13017371
 
 --
 Name: BHR6559GL Robot Vacuum X10+ Mop Pad
@@ -50,6 +55,7 @@ Brand: Mi
 Release_Date: 2022-12-13T16:00:00+0000
 Rating: 5.0
 Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr6559gl-robot-vacuum-x10-mop-pad/p/12826361
 
 --
 Name: BHR6366EN Robot Vacuum-Mop S10+
@@ -59,6 +65,7 @@ Brand: Mi
 Release_Date: 2022-10-16T16:00:00+0000
 Rating: 4.83
 Price: $1,499
+Link: https://www.fortress.com.hk/en/product/bhr6366en-robot-vacuum-mop-s10/p/12773289
 
 --
 Name: BHR8090EN X20 Robot Vacuum
@@ -68,6 +75,7 @@ Brand: Mi
 Release_Date: 2023-11-21T16:00:00+0000
 Rating: 4.81
 Price: $2,299
+Link: https://www.fortress.com.hk/en/product/bhr8090en-x20-robot-vacuum/p/13149103
 
 --
 Name: BHR6262EN Ultra Light Vacuum Cleaner
@@ -77,6 +85,7 @@ Brand: Mi
 Release_Date: 2022-10-16T16:00:00+0000
 Rating: 4.82
 Price: $1,599
+Link: https://www.fortress.com.hk/en/product/bhr6262en-ultra-light-vacuum-cleaner/p/12773545
 
 --
 Name: A9KMAX CordZero™ A9Komp 3-in-1 Cordless Vacuum Cleaner
@@ -86,24 +95,7 @@ Brand: LG
 Release_Date: 2021-12-12T16:00:00+0000
 Rating: 4.88
 Price: $3,780
-
---
-Name: BHR4681CN Vacuum Cleaner mini HEPA Filter (2-Pack)
-Description: H11 HEPA Filter Intercepts 0.3 -10µm Particles
-Country: China
-Brand: Mijia
-Release_Date: 2020-12-16T16:00:00+0000
-Rating: 4.74
-Price: $39
-
---
-Name: FC9570/61 Bagless Vacuum Cleaner
-Description: Maximum performance with PowerCyclone 7. The Philips Bagless Vacuum 5000 Series is our most powerful compact vacuum. Achieve maximum deep cleaning results with minimum effort thanks to PowerCyclone 7 technology and TriActive nozzle which features 3 cleaning actions in one.
-Country: China
-Brand: PHILIPS
-Release_Date: 2019-09-11T16:00:00+0000
-Rating: 4.63
-Price: $1,098
+Link: https://www.fortress.com.hk/en/product/a9kmax-cordzero™-a9komp-3-in-1-cordless-vacuum-cleaner/p/12634246
 
 --
 Name: A9N-LITE CordZero 3-in-1 Cordless Vacuum Cleaner
@@ -113,6 +105,27 @@ Brand: LG
 Release_Date: 2023-03-29T16:00:00+0000
 Rating: 4.76
 Price: $2,180
+Link: https://www.fortress.com.hk/en/product/a9n-lite-cordzero-3-in-1-cordless-vacuum-cleaner/p/12974443
+
+--
+Name: FC9570/61 Bagless Vacuum Cleaner
+Description: Maximum performance with PowerCyclone 7. The Philips Bagless Vacuum 5000 Series is our most powerful compact vacuum. Achieve maximum deep cleaning results with minimum effort thanks to PowerCyclone 7 technology and TriActive nozzle which features 3 cleaning actions in one.
+Country: China
+Brand: PHILIPS
+Release_Date: 2019-09-11T16:00:00+0000
+Rating: 4.63
+Price: $1,098
+Link: https://www.fortress.com.hk/en/product/fc9570-61-bagless-vacuum-cleaner/p/11929860
+
+--
+Name: BHR4681CN Vacuum Cleaner mini HEPA Filter (2-Pack)
+Description: H11 HEPA Filter Intercepts 0.3 -10µm Particles
+Country: China
+Brand: Mijia
+Release_Date: 2020-12-16T16:00:00+0000
+Rating: 4.74
+Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr4681cn-vacuum-cleaner-mini-hepa-filter-2-pack/p/12231092
 
 --
 Name: BHR6365EN Robot Vacuum X10+
@@ -122,15 +135,7 @@ Brand: Mi
 Release_Date: 2022-07-08T16:00:00+0000
 Rating: 4.68
 Price: $2,999
-
---
-Name: BHR6279EN Truclean W10 Pro Wet Dry Vacuum
-Description: 3 in 1 Cleaning Function: Vacuuming, Mopping and Washing  Large hassle-free Roller Brush Design  90 Adjustable Angle for Easy Cleaning  Intelligent Dirt Detection to Adjust Cleaning Power Automatically  35-min Long Battery Life
-Country: China
-Brand: Mi
-Release_Date: 2022-08-06T16:00:00+0000
-Rating: 4.58
-Price: $1,799
+Link: https://www.fortress.com.hk/en/product/bhr6365en-robot-vacuum-x10/p/12706060
 
 --
 Name: RO3E Micro Cleanse Portable Mini Vacuum Cleaner
@@ -140,6 +145,17 @@ Brand: Momax
 Release_Date: 2023-03-30T16:00:00+0000
 Rating: 4.83
 Price: $368
+Link: https://www.fortress.com.hk/en/product/ro3e-micro-cleanse-portable-mini-vacuum-cleaner/p/12979375
+
+--
+Name: BHR6279EN Truclean W10 Pro Wet Dry Vacuum
+Description: 3 in 1 Cleaning Function: Vacuuming, Mopping and Washing  Large hassle-free Roller Brush Design  90 Adjustable Angle for Easy Cleaning  Intelligent Dirt Detection to Adjust Cleaning Power Automatically  35-min Long Battery Life
+Country: China
+Brand: Mi
+Release_Date: 2022-08-06T16:00:00+0000
+Rating: 4.58
+Price: $1,799
+Link: https://www.fortress.com.hk/en/product/bhr6279en-truclean-w10-pro-wet-dry-vacuum/p/12722879
 
 --
 Name: ZB3513DB ERGORAPIDO 18V LI-ION 2-in-1 Cordless Vacuum Cleaner
@@ -149,6 +165,7 @@ Brand: ELECTROLUX
 Release_Date: 2020-08-30T16:00:00+0000
 Rating: 4.83
 Price: $1,397
+Link: https://www.fortress.com.hk/en/product/zb3513db-ergorapido-18v-li-ion-2-in-1-cordless-vacuum-cleaner/p/12076352
 
 --
 Name: EFP71515 Lightweight Handstick Vacuum Cleaner
@@ -158,6 +175,7 @@ Brand: ELECTROLUX
 Release_Date: 2023-05-31T16:00:00+0000
 Rating: 5.0
 Price: $3,180
+Link: https://www.fortress.com.hk/en/product/efp71515-lightweight-handstick-vacuum-cleaner/p/13005151
 
 --
 Name: V12s Detect Slim Submarine wet and dry vacuum cleaner
@@ -167,6 +185,7 @@ Brand: DYSON
 Release_Date: 2023-06-12T16:00:00+0000
 Rating: 5.0
 Price: $5,580
+Link: https://www.fortress.com.hk/en/product/v12s-detect-slim-submarine-wet-and-dry-vacuum-cleaner/p/13005020
 
 --
 Name: BHR6257EN Truclean W10 Ultra Wet Dry Vacuum
@@ -176,24 +195,7 @@ Brand: Mi
 Release_Date: 2022-07-08T16:00:00+0000
 Rating: 4.62
 Price: $2,599
-
---
-Name: FC6726/61 SpeedPro Cordless Stick Vacuum Cleaner
-Description: The new SpeedPro cordless vacuum cleaner provides a fast clean, with powerful reach. It's equipped with the 180 degree suction nozzle for precise dirt pick-up, even in the toughest spots - close to walls, furniture and in the corners.
-Country: China
-Brand: PHILIPS
-Release_Date: 2019-08-11T16:00:00+0000
-Rating: 4.62
-Price: $2,198
-
---
-Name: DY-108 Mini Wireless Vacuum Cleaner
-Description: 13Kpa ultra-large suction power, 550g ultra-light body, compact and portable, Type-C data cable charging, dual-use for home and car, Yohome's Mini Wireless Vacuum is everything you need from a vacuum.
-Country: China
-Brand: Yohome
-Release_Date: 2021-05-03T16:00:00+0000
-Rating: 4.78
-Price: $549
+Link: https://www.fortress.com.hk/en/product/bhr6257en-truclean-w10-ultra-wet-dry-vacuum/p/12706078
 
 --
 Name: VCCLX50BFR All-in-one Lightweight Cordless Vacuum Cleaner
@@ -203,6 +205,27 @@ Brand: TOSHIBA
 Release_Date: 2022-07-12T16:00:00+0000
 Rating: 4.7
 Price: $1,798
+Link: https://www.fortress.com.hk/en/product/vcclx50bfr-all-in-one-lightweight-cordless-vacuum-cleaner/p/12723222
+
+--
+Name: FC6726/61 SpeedPro Cordless Stick Vacuum Cleaner
+Description: The new SpeedPro cordless vacuum cleaner provides a fast clean, with powerful reach. It's equipped with the 180 degree suction nozzle for precise dirt pick-up, even in the toughest spots - close to walls, furniture and in the corners.
+Country: China
+Brand: PHILIPS
+Release_Date: 2019-08-11T16:00:00+0000
+Rating: 4.62
+Price: $2,198
+Link: https://www.fortress.com.hk/en/product/fc6726-61-speedpro-cordless-stick-vacuum-cleaner/p/11908815
+
+--
+Name: DY-108 Mini Wireless Vacuum Cleaner
+Description: 13Kpa ultra-large suction power, 550g ultra-light body, compact and portable, Type-C data cable charging, dual-use for home and car, Yohome's Mini Wireless Vacuum is everything you need from a vacuum.
+Country: China
+Brand: Yohome
+Release_Date: 2021-05-03T16:00:00+0000
+Rating: 4.78
+Price: $549
+Link: https://www.fortress.com.hk/en/product/dy-108-mini-wireless-vacuum-cleaner/p/12327238
 
 --
 Name: VL1602 Bagless Vacuum Cleaner
@@ -212,6 +235,7 @@ Brand: WHIRLPOOL
 Release_Date: 2013-04-28T16:00:00+0000
 Rating: 4.52
 Price: $768
+Link: https://www.fortress.com.hk/en/product/vl1602-bagless-vacuum-cleaner/p/11153483
 
 --
 Name: WQ61-1OGG Well Q6 cordless vacuum cleaner
@@ -221,6 +245,7 @@ Brand: ELECTROLUX
 Release_Date: 2020-11-19T16:00:00+0000
 Rating: 4.7
 Price: $1,898
+Link: https://www.fortress.com.hk/en/product/wq61-1ogg-well-q6-cordless-vacuum-cleaner/p/12232191
 
 --
 Name: XW7110/01 AquaTrio Cordless Wet & Dry Vacuum Cleaner 7000 Series
@@ -230,15 +255,7 @@ Brand: PHILIPS
 Release_Date: 2023-09-06T16:00:00+0000
 Rating: 0.0
 Price: $3,998
-
---
-Name: C3MLW Bagged Vacuum Cleaner
-Description: None
-Country: Germany
-Brand: MIELE
-Release_Date: 2015-02-15T16:00:00+0000
-Rating: 5.0
-Price: $3,388
+Link: https://www.fortress.com.hk/en/product/xw7110-01-aquatrio-cordless-wet-dry-vacuum-cleaner-7000-series/p/13073612
 
 --
 Name: BHR6687GL Robot Vacuum X10+/S10+/X10 Side Brush
@@ -248,15 +265,17 @@ Brand: Mi
 Release_Date: 2022-12-13T16:00:00+0000
 Rating: 5.0
 Price: $29
+Link: https://www.fortress.com.hk/en/product/bhr6687gl-robot-vacuum-x10-s10-x10-side-brush/p/12826379
 
 --
-Name: BHR6404EN Robot Vacuum X10
-Description: Auto Cleaning and Washing  Advanced LDS Navigation System  Dual Air Canals for Auto Dust Bag Emptying  4000Pa Super Suction  5200mAh Long Battery Life
-Country: China
-Brand: Mi
-Release_Date: 2022-08-06T16:00:00+0000
-Rating: 4.87
-Price: $1,999
+Name: C3MLW Bagged Vacuum Cleaner
+Description: None
+Country: Germany
+Brand: MIELE
+Release_Date: 2015-02-15T16:00:00+0000
+Rating: 5.0
+Price: $3,388
+Link: https://www.fortress.com.hk/en/product/c3mlw-bagged-vacuum-cleaner/p/11346461
 
 --
 Name: Tapo RV30 Plus LiDAR Navigation Robot Vacuum & Mop
@@ -266,6 +285,7 @@ Brand: TP-Link
 Release_Date: 2023-04-13T16:00:00+0000
 Rating: 5.0
 Price: $1,999
+Link: https://www.fortress.com.hk/en/product/tapo-rv30-plus-lidar-navigation-robot-vacuum-mop/p/12983921
 
 --
 Name: V8 Focus Mattress™ handheld vacuum
@@ -275,33 +295,7 @@ Brand: DYSON
 Release_Date: 2023-07-16T16:00:00+0000
 Rating: 5.0
 Price: $2,380
-
---
-Name: BHR4916GL Vacuum Cleaner mini
-Description: Weights 0.5 kg only；13000Pa Strong Suction Power；2 Extra Cleaner Heads for Different Areas； Easy to Empty the Dust Bin；HEPA Filter, Avoid Secondary Pollution
-Country: China
-Brand: Mi
-Release_Date: 2024-04-21T16:00:00+0000
-Rating: 5.0
-Price: $259
-
---
-Name: DY-XC06 Pro Portable Wireless Vacuum Cleaner
-Description: DAEWOO's vacuum cleaner adopts brushless motor, 90w high power, 14000pa super suction, the main unit is only about 555g, small and light, the product is equipped with a variety of  accessories, which is very convenient for home or car use.
-Country: China
-Brand: DAEWOO
-Release_Date: 2023-12-27T16:00:00+0000
-Rating: 4.25
-Price: $539
-
---
-Name: C3-AR2 Bagged Vacuum Cleaner
-Description: Made in Germany, Miele vacuum cleaners are manufactured to the very highest standards and rigorous quality controls. Each Miele vacuum cleaner must pass stringent tests and is made to last for 20 years.
-Country: Germany
-Brand: MIELE
-Release_Date: 2018-11-01T16:00:00+0000
-Rating: 4.2
-Price: $2,898
+Link: https://www.fortress.com.hk/en/product/v8-focus-mattress™-handheld-vacuum/p/13035181
 
 --
 Name: V12 Detect™ Slim Fluffy vacuum (2023 version)
@@ -311,6 +305,47 @@ Brand: DYSON
 Release_Date: 2023-08-29T16:00:00+0000
 Rating: 5.0
 Price: $4,680
+Link: https://www.fortress.com.hk/en/product/v12-detect™-slim-fluffy-vacuum-2023-version/p/13062690
+
+--
+Name: BHR6404EN Robot Vacuum X10
+Description: Auto Cleaning and Washing  Advanced LDS Navigation System  Dual Air Canals for Auto Dust Bag Emptying  4000Pa Super Suction  5200mAh Long Battery Life
+Country: China
+Brand: Mi
+Release_Date: 2022-08-06T16:00:00+0000
+Rating: 4.87
+Price: $1,999
+Link: https://www.fortress.com.hk/en/product/bhr6404en-robot-vacuum-x10/p/12723880
+
+--
+Name: C3-AR2 Bagged Vacuum Cleaner
+Description: Made in Germany, Miele vacuum cleaners are manufactured to the very highest standards and rigorous quality controls. Each Miele vacuum cleaner must pass stringent tests and is made to last for 20 years.
+Country: Germany
+Brand: MIELE
+Release_Date: 2018-11-01T16:00:00+0000
+Rating: 4.2
+Price: $2,898
+Link: https://www.fortress.com.hk/en/product/c3-ar2-bagged-vacuum-cleaner/p/11813103
+
+--
+Name: BHR4916GL Vacuum Cleaner mini
+Description: Weights 0.5 kg only；13000Pa Strong Suction Power；2 Extra Cleaner Heads for Different Areas； Easy to Empty the Dust Bin；HEPA Filter, Avoid Secondary Pollution
+Country: China
+Brand: Mi
+Release_Date: 2024-04-21T16:00:00+0000
+Rating: 5.0
+Price: $259
+Link: https://www.fortress.com.hk/en/product/bhr4916gl-vacuum-cleaner-mini/p/13271512
+
+--
+Name: DY-XC06 Pro Portable Wireless Vacuum Cleaner
+Description: DAEWOO's vacuum cleaner adopts brushless motor, 90w high power, 14000pa super suction, the main unit is only about 555g, small and light, the product is equipped with a variety of  accessories, which is very convenient for home or car use.
+Country: China
+Brand: DAEWOO
+Release_Date: 2023-12-27T16:00:00+0000
+Rating: 4.25
+Price: $539
+Link: https://www.fortress.com.hk/en/product/dy-xc06-pro-portable-wireless-vacuum-cleaner/p/13169649
 
 --
 Name: BHR6557GL Robot Vacuum X10+/S10+ Brush
@@ -320,15 +355,7 @@ Brand: Mi
 Release_Date: 2022-11-21T16:00:00+0000
 Rating: 5.0
 Price: $39
-
---
-Name: DC-001 wireless dry and wet washing whole house off the ground cleaning machine 2.0 Pro
-Description: 1. Rear water spray design, efficient cleaning without time-consuming  2. Wireless and portable to achieve multi-purpose whole-house cleaning with one machine  3. Self-cleaning of the dirt in the hose  4. Large-capacity water tank
-Country: China
-Brand: Double Clean
-Release_Date: 2022-12-13T16:00:00+0000
-Rating: 5.0
-Price: $669
+Link: https://www.fortress.com.hk/en/product/bhr6557gl-robot-vacuum-x10-s10-brush/p/12826387
 
 --
 Name: MSC-01 Multi-function HandHeld steam cleaner
@@ -338,15 +365,17 @@ Brand: DAEWOO
 Release_Date: 2023-02-19T16:00:00+0000
 Rating: 4.78
 Price: $438
+Link: https://www.fortress.com.hk/en/product/msc-01-multi-function-handheld-steam-cleaner/p/12842838
 
 --
-Name: BHR6388GB Robot Vacuum S10
-Description: LDS laser navigation  4000Pa super powerful suction  Z-shaped and Y-shaped cleaning routes  Multiple sensors to identify the environment  Smart water tank protect the floor  Connecting to Mijia APP for cleaning mode customization
+Name: DC-001 wireless dry and wet washing whole house off the ground cleaning machine 2.0 Pro
+Description: 1. Rear water spray design, efficient cleaning without time-consuming  2. Wireless and portable to achieve multi-purpose whole-house cleaning with one machine  3. Self-cleaning of the dirt in the hose  4. Large-capacity water tank
 Country: China
-Brand: Mi
-Release_Date: 2023-03-15T16:00:00+0000
-Rating: 4.85
-Price: $1,299
+Brand: Double Clean
+Release_Date: 2022-12-13T16:00:00+0000
+Rating: 5.0
+Price: $669
+Link: https://www.fortress.com.hk/en/product/dc-001-wireless-dry-and-wet-washing-whole-house-off-the-ground-cleaning-machine-2.0-pro/p/12823901
 
 --
 Name: MC800 3-in-1 UV Mite Removal Vacuum Cleaner
@@ -356,6 +385,17 @@ Brand: Power Living
 Release_Date: 2022-12-15T16:00:00+0000
 Rating: 4.38
 Price: $418
+Link: https://www.fortress.com.hk/en/product/mc800-3-in-1-uv-mite-removal-vacuum-cleaner/p/12823979
+
+--
+Name: BHR6388GB Robot Vacuum S10
+Description: LDS laser navigation  4000Pa super powerful suction  Z-shaped and Y-shaped cleaning routes  Multiple sensors to identify the environment  Smart water tank protect the floor  Connecting to Mijia APP for cleaning mode customization
+Country: China
+Brand: Mi
+Release_Date: 2023-03-15T16:00:00+0000
+Rating: 4.85
+Price: $1,299
+Link: https://www.fortress.com.hk/en/product/bhr6388gb-robot-vacuum-s10/p/12962346
 
 --
 Name: MC-CG370 Bagged type Vacuum Cleaner
@@ -365,33 +405,7 @@ Brand: PANASONIC
 Release_Date: 2017-05-09T16:00:00+0000
 Rating: 4.47
 Price: $446
-
---
-Name: MC-YL631 1700W Business Use Vacuum Cleaner
-Description: Business Use Vacuum Cleaner (1700W)
-Country: Malaysia
-Brand: PANASONIC
-Release_Date: 2021-05-04T16:00:00+0000
-Rating: 4.69
-Price: $1,070
-
---
-Name: Lightweight Cordless Vacuum Cleaner
-Description: Thoroughly clean your floors in one go with the Philips Cordless Vacuum 3000 Series. Our LED nozzle reveals hidden dust and dirt before capturing it with PowerCyclone 8 technology. Up to 60 minutes of runtime makes cleaning your home easy.
-Country: China
-Brand: PHILIPS
-Release_Date: 2024-02-29T16:00:00+0000
-Rating: 0.0
-Price: $1,798
-
---
-Name: Z1231 CompactGo Cyclonic Vacuum Cleaner
-Description: CompactGo Cyclonic Vacuum Cleaner
-Country: China
-Brand: ELECTROLUX
-Release_Date: 2021-01-13T16:00:00+0000
-Rating: 4.8
-Price: $798
+Link: https://www.fortress.com.hk/en/product/mc-cg370-bagged-type-vacuum-cleaner/p/11656398
 
 --
 Name: VS20T7538T5/SH Jet 75 premium Jet Stick Vacuum Cleaner
@@ -401,6 +415,37 @@ Brand: SAMSUNG
 Release_Date: 2020-10-29T16:00:00+0000
 Rating: 4.71
 Price: $2,880
+Link: https://www.fortress.com.hk/en/product/vs20t7538t5-sh-jet-75-premium-jet-stick-vacuum-cleaner/p/12174227
+
+--
+Name: Z1231 CompactGo Cyclonic Vacuum Cleaner
+Description: CompactGo Cyclonic Vacuum Cleaner
+Country: China
+Brand: ELECTROLUX
+Release_Date: 2021-01-13T16:00:00+0000
+Rating: 4.8
+Price: $798
+Link: https://www.fortress.com.hk/en/product/z1231-compactgo-cyclonic-vacuum-cleaner/p/12254649
+
+--
+Name: MC-YL631 1700W Business Use Vacuum Cleaner
+Description: Business Use Vacuum Cleaner (1700W)
+Country: Malaysia
+Brand: PANASONIC
+Release_Date: 2021-05-04T16:00:00+0000
+Rating: 4.69
+Price: $1,070
+Link: https://www.fortress.com.hk/en/product/mc-yl631-1700w-business-use-vacuum-cleaner/p/12337241
+
+--
+Name: Lightweight Cordless Vacuum Cleaner
+Description: Thoroughly clean your floors in one go with the Philips Cordless Vacuum 3000 Series. Our LED nozzle reveals hidden dust and dirt before capturing it with PowerCyclone 8 technology. Up to 60 minutes of runtime makes cleaning your home easy.
+Country: China
+Brand: PHILIPS
+Release_Date: 2024-02-29T16:00:00+0000
+Rating: 0.0
+Price: $1,798
+Link: https://www.fortress.com.hk/en/product/lightweight-cordless-vacuum-cleaner/p/13207457
 
 --
 Name: BBH3ZOOGB 25.2V (28V max) 2-in-1 Vacuum Cleaner
@@ -410,24 +455,7 @@ Brand: BOSCH
 Release_Date: 2023-02-17T16:00:00+0000
 Rating: 4.44
 Price: $1,698
-
---
-Name: ZB6218STM 18V Handheld Vacuum Cleaner
-Description: Rapido 18V Handheld Vacuum Cleaner
-Country: China
-Brand: ELECTROLUX
-Release_Date: 2021-07-25T16:00:00+0000
-Rating: 4.4
-Price: $798
-
---
-Name: FC6149/62 10.8V Handheld Cordless Vacuum Cleaner
-Description: Bagless cyclonic airflow ensures high suction power and lasting cleaning performance
-Country: Multiple
-Brand: PHILIPS
-Release_Date: 2021-11-16T16:00:00+0000
-Rating: 4.88
-Price: $738
+Link: https://www.fortress.com.hk/en/product/bbh3zoogb-25.2v-28v-max-2-in-1-vacuum-cleaner/p/12877256
 
 --
 Name: Gen5Detect™ Absolute cordless Vacuum Cleaner
@@ -437,6 +465,7 @@ Brand: DYSON
 Release_Date: 2022-11-24T16:00:00+0000
 Rating: 5.0
 Price: $5,980
+Link: https://www.fortress.com.hk/en/product/gen5detect™-absolute-cordless-vacuum-cleaner/p/12787285
 
 --
 Name: BHR6560GL Robot Vacuum X10+/X10 Disposable Bag
@@ -446,24 +475,7 @@ Brand: Mi
 Release_Date: 2022-12-13T16:00:00+0000
 Rating: 5.0
 Price: $89
-
---
-Name: M1C Portable Vacuum Cleaner Set
-Description: Mite removal/vacuuming/hair removal/sterilization, easy to deal with small cleaning. Dual motor operation, removes mites by suction, effectively removes allergens, dust and bacteria.
-Country: China
-Brand: Basa
-Release_Date: 2024-01-09T16:00:00+0000
-Rating: 4.0
-Price: $599
-
---
-Name: BHN24L Move Lithium 21.6V (24Vmax) Rechargeable Handheld Vacuum Cleaner
-Description: Move Lithium 21.6V (24Vmax) Rechargeable Handheld vacuum cleaner with great performance. High Airflow System with efficient dust-separation and runtime upto 45mins.
-Country: China
-Brand: BOSCH
-Release_Date: 2021-04-07T16:00:00+0000
-Rating: 4.58
-Price: $998
+Link: https://www.fortress.com.hk/en/product/bhr6560gl-robot-vacuum-x10-x10-disposable-bag/p/12826395
 
 --
 Name: EC-SC95H-H Cordless Vacuum Cleaner
@@ -473,42 +485,47 @@ Brand: SHARP
 Release_Date: 2023-10-10T16:00:00+0000
 Rating: 5.0
 Price: $2,180
+Link: https://www.fortress.com.hk/en/product/ec-sc95h-h-cordless-vacuum-cleaner/p/13113477
 
 --
-Name: VX MAX Handheld Vacuum Cleaner
-Description: Meet AutoBot VX max, your new cleaning assistant. The VX max brings smart technology into a high-performance cordless vacuum cleaner for a completely new and convenient cleaning experience at home, in the car or wherever you can imagine.
+Name: M1C Portable Vacuum Cleaner Set
+Description: Mite removal/vacuuming/hair removal/sterilization, easy to deal with small cleaning. Dual motor operation, removes mites by suction, effectively removes allergens, dust and bacteria.
 Country: China
-Brand: Autobot
-Release_Date: 2021-08-19T16:00:00+0000
-Rating: 4.33
-Price: $799
+Brand: Basa
+Release_Date: 2024-01-09T16:00:00+0000
+Rating: 4.0
+Price: $599
+Link: https://www.fortress.com.hk/en/product/m1c-portable-vacuum-cleaner-set/p/13171896
 
 --
-Name: BHR5326TY Robot Vacuum-Mop/2 Pro+/2/2 Ultra Filter
-Description: Effectively Filter 0.3µm Particles
+Name: ZB6218STM 18V Handheld Vacuum Cleaner
+Description: Rapido 18V Handheld Vacuum Cleaner
 Country: China
-Brand: Mi
-Release_Date: 2022-11-29T16:00:00+0000
-Rating: 5.0
-Price: $39
+Brand: ELECTROLUX
+Release_Date: 2021-07-25T16:00:00+0000
+Rating: 4.4
+Price: $798
+Link: https://www.fortress.com.hk/en/product/zb6218stm-18v-handheld-vacuum-cleaner/p/12476698
 
 --
-Name: BHR5923TY Robot Vacuum-Mop P/2 Pro/2 Lite Filter
-Description: Effectively Filter Particles
-Country: China
-Brand: Mi
-Release_Date: 2022-11-29T16:00:00+0000
-Rating: 4.89
-Price: $39
+Name: FC6149/62 10.8V Handheld Cordless Vacuum Cleaner
+Description: Bagless cyclonic airflow ensures high suction power and lasting cleaning performance
+Country: Multiple
+Brand: PHILIPS
+Release_Date: 2021-11-16T16:00:00+0000
+Rating: 4.88
+Price: $738
+Link: https://www.fortress.com.hk/en/product/fc6149-62-10.8v-handheld-cordless-vacuum-cleaner/p/12567830
 
 --
-Name: BHR5325TY Robot Vacuum-Mop/2 Pro+/2/2 Ultra Brush
-Description: 0.1mm Bristles Made no Harms During Floor Cleaning
+Name: BHN24L Move Lithium 21.6V (24Vmax) Rechargeable Handheld Vacuum Cleaner
+Description: Move Lithium 21.6V (24Vmax) Rechargeable Handheld vacuum cleaner with great performance. High Airflow System with efficient dust-separation and runtime upto 45mins.
 Country: China
-Brand: Mi
-Release_Date: 2022-11-29T16:00:00+0000
-Rating: 5.0
-Price: $39
+Brand: BOSCH
+Release_Date: 2021-04-07T16:00:00+0000
+Rating: 4.58
+Price: $998
+Link: https://www.fortress.com.hk/en/product/bhn24l-move-lithium-21.6v-24vmax-rechargeable-handheld-vacuum-cleaner/p/12310903
 
 --
 Name: BHR6558GL Robot Vacuum X10+/S10+ Brush Cover
@@ -518,6 +535,7 @@ Brand: Mi
 Release_Date: 2022-12-13T16:00:00+0000
 Rating: 5.0
 Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr6558gl-robot-vacuum-x10-s10-brush-cover/p/12826352
 
 --
 Name: BHR6847GL Truclean W10 Pro Wet Dry Vacuum Roller Brush
@@ -527,6 +545,7 @@ Brand: Mi
 Release_Date: 2022-12-15T16:00:00+0000
 Rating: 5.0
 Price: $229
+Link: https://www.fortress.com.hk/en/product/bhr6847gl-truclean-w10-pro-wet-dry-vacuum-roller-brush/p/12826424
 
 --
 Name: Tapo RV30 LiDAR Navigation Robot Vacuum & Mop
@@ -536,6 +555,7 @@ Brand: TP-Link
 Release_Date: 2023-04-13T16:00:00+0000
 Rating: 4.86
 Price: $1,599
+Link: https://www.fortress.com.hk/en/product/tapo-rv30-lidar-navigation-robot-vacuum-mop/p/12983948
 
 --
 Name: LG CordZero™ A9 All-in-One Tower™ A9T-CORE Vacuum Cleaner
@@ -545,15 +565,7 @@ Brand: LG
 Release_Date: 2023-05-31T16:00:00+0000
 Rating: 5.0
 Price: $4,780
-
---
-Name: TW3233 Bagless Vacuum Cleaner
-Description: None
-Country: China
-Brand: TEFAL
-Release_Date: 2016-03-22T16:00:00+0000
-Rating: 4.29
-Price: $698
+Link: https://www.fortress.com.hk/en/product/lg-cordzero™-a9-all-in-one-tower™-a9t-core-vacuum-cleaner/p/13001571
 
 --
 Name: VS15T7033R4/SH Jet 70 easy Jet Stick Vacuum Cleaner
@@ -563,6 +575,57 @@ Brand: SAMSUNG
 Release_Date: 2020-10-29T16:00:00+0000
 Rating: 4.9
 Price: $2,099
+Link: https://www.fortress.com.hk/en/product/vs15t7033r4-sh-jet-70-easy-jet-stick-vacuum-cleaner/p/12174235
+
+--
+Name: VX MAX Handheld Vacuum Cleaner
+Description: Meet AutoBot VX max, your new cleaning assistant. The VX max brings smart technology into a high-performance cordless vacuum cleaner for a completely new and convenient cleaning experience at home, in the car or wherever you can imagine.
+Country: China
+Brand: Autobot
+Release_Date: 2021-08-19T16:00:00+0000
+Rating: 4.33
+Price: $799
+Link: https://www.fortress.com.hk/en/product/vx-max-handheld-vacuum-cleaner/p/12474203
+
+--
+Name: BHR5326TY Robot Vacuum-Mop/2 Pro+/2/2 Ultra Filter
+Description: Effectively Filter 0.3µm Particles
+Country: China
+Brand: Mi
+Release_Date: 2022-11-29T16:00:00+0000
+Rating: 5.0
+Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr5326ty-robot-vacuum-mop-2-pro-2-2-ultra-filter/p/12816955
+
+--
+Name: BHR5923TY Robot Vacuum-Mop P/2 Pro/2 Lite Filter
+Description: Effectively Filter Particles
+Country: China
+Brand: Mi
+Release_Date: 2022-11-29T16:00:00+0000
+Rating: 4.89
+Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr5923ty-robot-vacuum-mop-p-2-pro-2-lite-filter/p/12816971
+
+--
+Name: BHR5325TY Robot Vacuum-Mop/2 Pro+/2/2 Ultra Brush
+Description: 0.1mm Bristles Made no Harms During Floor Cleaning
+Country: China
+Brand: Mi
+Release_Date: 2022-11-29T16:00:00+0000
+Rating: 5.0
+Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr5325ty-robot-vacuum-mop-2-pro-2-2-ultra-brush/p/12817026
+
+--
+Name: TW3233 Bagless Vacuum Cleaner
+Description: None
+Country: China
+Brand: TEFAL
+Release_Date: 2016-03-22T16:00:00+0000
+Rating: 4.29
+Price: $698
+Link: https://www.fortress.com.hk/en/product/tw3233-bagless-vacuum-cleaner/p/11520221
 
 --
 Name: VW2101 wireless self-cleaning self-drying antibacterial dry and wet sweeping vacuum cleaner
@@ -572,6 +635,7 @@ Brand: Double Clean
 Release_Date: 2022-04-27T16:00:00+0000
 Rating: 4.5
 Price: $1,699
+Link: https://www.fortress.com.hk/en/product/vw2101-wireless-self-cleaning-self-drying-antibacterial-dry-and-wet-sweeping-vacuum-cleaner/p/12739865
 
 --
 Name: Tapo RV10 Robot Vacuum & Mop
@@ -581,6 +645,7 @@ Brand: TP-Link
 Release_Date: 2023-04-13T16:00:00+0000
 Rating: 5.0
 Price: $1,099
+Link: https://www.fortress.com.hk/en/product/tapo-rv10-robot-vacuum-mop/p/12983930
 
 --
 Name: WINBOTW1PRO Window Cleaning Robot
@@ -590,6 +655,7 @@ Brand: Ecovacs
 Release_Date: 2023-05-02T16:00:00+0000
 Rating: 0.0
 Price: $2,099
+Link: https://www.fortress.com.hk/en/product/winbotw1pro-window-cleaning-robot/p/12992975
 
 --
 Name: 2832E CrossWave X7 Cordless Pet
@@ -599,6 +665,7 @@ Brand: Bissell
 Release_Date: 2023-12-03T16:00:00+0000
 Rating: 0.0
 Price: $2,880
+Link: https://www.fortress.com.hk/en/product/2832e-crosswave-x7-cordless-pet/p/13166510
 
 --
 Name: VCCL3000XBFR 2-in-1 Cordless Vacuum Cleaner
@@ -608,6 +675,7 @@ Brand: TOSHIBA
 Release_Date: 2022-03-30T16:00:00+0000
 Rating: 5.0
 Price: $1,980
+Link: https://www.fortress.com.hk/en/product/vccl3000xbfr-2-in-1-cordless-vacuum-cleaner/p/12682133
 
 --
 Name: BBH3230GB 21.6V (23V max) 2-in-1 Vacuum Cleaner
@@ -617,6 +685,7 @@ Brand: BOSCH
 Release_Date: 2022-07-31T16:00:00+0000
 Rating: 5.0
 Price: $1,698
+Link: https://www.fortress.com.hk/en/product/bbh3230gb-21.6v-23v-max-2-in-1-vacuum-cleaner/p/12739751
 
 --
 Name: BBZ41FGALL Dust Bag
@@ -626,105 +695,7 @@ Brand: BOSCH
 Release_Date: 2015-12-15T16:00:00+0000
 Rating: 4.68
 Price: $100
-
---
-Name: XC8043/61 Cordless Stick vacuum cleaner
-Description: 360° Suction Nozzle Up to 70 min, 28 min of Turbo Mini Turbo Brush
-Country: China
-Brand: PHILIPS
-Release_Date: 2021-06-30T16:00:00+0000
-Rating: 4.53
-Price: $2,888
-
---
-Name: XXLPK3DGN XXL-pack GN dustbag (16 Dustbag)
-Description: XXL-pack GN dustbag (16 Dustbag)
-Country: Belgium
-Brand: MIELE
-Release_Date: 2022-08-23T16:00:00+0000
-Rating: 0.0
-Price: $540
-
---
-Name: BAK808-PWH Handy USB 2-in-1 Vacuum Cleaner
-Description: Wireless, portable vacuum enables effortless one-handed home cleaning//With a 2200 mAh battery, it takes around 3.5 hours to fully charge via USB Type-C and offers 13-30 minutes of use/Featuring a HEPA and a washable metallic mesh filter
-Country: China
-Brand: BRUNO
-Release_Date: 2023-10-19T16:00:00+0000
-Rating: 5.0
-Price: $898
-
---
-Name: MC-CG371 Bagged type Vacuum Cleaner
-Description: Bagged type Vacuum Cleaner (1600W)
-Country: Malaysia
-Brand: PANASONIC
-Release_Date: 2017-05-09T16:00:00+0000
-Rating: 3.5
-Price: $588
-
---
-Name: CX1E-LW Bagless Vacuum Cleaner
-Description: Trust the Miele Blizzard CX1.  The bagless vacuum cleaner with innovative Vortex Technology.  Miele - For everything you really love.
-Country: Germany
-Brand: MIELE
-Release_Date: 2018-01-23T16:00:00+0000
-Rating: 4.6
-Price: $3,788
-
---
-Name: VS1809, 18V Stick Vacuum Cleaner
-Description: 2-in-1 Li-ion vacuum cleaner can be used in handheld or stick option with strong suction power. Cleaning up the dust is easy by simply removing the dust cup. Rotating brush helps to pick up the dust and hair quickly. Its self-standing parking with foldable handle is easy to store.
-Country: China
-Brand: WHIRLPOOL
-Release_Date: 2018-05-30T16:00:00+0000
-Rating: 4.53
-Price: $1,290
-
---
-Name: FC9350/61 Bagless Vacuum Cleaner
-Description: With the Philips Bagless Vacuum 3000 Series, compact design meets king-size performance. Enjoy thorough cleaning throughout your home thanks to PowerCyclone 5 technology and our MultiClean nozzle.
-Country: China
-Brand: PHILIPS
-Release_Date: 2018-12-17T16:00:00+0000
-Rating: 4.7
-Price: $998
-
---
-Name: VX/ V mini Vacuum Cleaner Accessory Set
-Description: Vacuum Cleaner Accessory Set
-Country: China
-Brand: Autobot
-Release_Date: 2020-08-20T16:00:00+0000
-Rating: 4.25
-Price: $138
-
---
-Name: 339481 22.2V 2-in-1 Cordless Cyclonic Vacuum Cleaner
-Description: 2-in-1 Cordless Cyclonic Vacuum Cleaner, 22.2V
-Country: China
-Brand: PRINCESS
-Release_Date: 2019-12-26T16:00:00+0000
-Rating: 4.33
-Price: $840
-
---
-Name: Digital Slim Submarine wet and dry vacuum cleaner
-Description: Versatile cleaning. Now washes hard floors. All in one machine. Lightweight wet and dry vacuum cleaner.
-Country: China
-Brand: DYSON
-Release_Date: 2024-04-08T16:00:00+0000
-Rating: 0.0
-Price: $3,980
-
---
-Name: TY2079 X-Force Flex 9.60 Vacuum Cleaner
-Description: 250W Suction power, 1.1kg, battery running time up to 45 minutes, Automatic suction power adjustment, Smart Control Display, 99.9% filtration, Flex tube design, Power LED vision, Animal care accessories
-Country: China
-Brand: TEFAL
-Release_Date: 2024-04-09T16:00:00+0000
-Rating: 0.0
-Price: $2,998
+Link: https://www.fortress.com.hk/en/product/bbz41fgall-dust-bag/p/11505012
 
 --
 Name: TY6837 X-PERT 6.60 Cordless Stick Vacuum Cleaner
@@ -734,240 +705,117 @@ Brand: TEFAL
 Release_Date: 2023-05-14T16:00:00+0000
 Rating: 5.0
 Price: $1,498
+Link: https://www.fortress.com.hk/en/product/ty6837-x-pert-6.60-cordless-stick-vacuum-cleaner/p/12996175
 
 --
-Name: LG CordZero™ A9Komp with All-in-One Tower™ A9T-Ultra Vacuum Cleaner
-Description: Axial Turbo Cyclone™ “3-in-1” vacuuming & mopping   Auto Empty, UVC LED   Washable Cyclones and Filters, 5-step Filtration   Dual Battery Packs   Kompressor™   10-year motor warranty
-Country: Korea, Republic of
-Brand: LG
-Release_Date: 2021-11-28T16:00:00+0000
-Rating: 4.86
-Price: $5,999
+Name: BAK808-PWH Handy USB 2-in-1 Vacuum Cleaner
+Description: Wireless, portable vacuum enables effortless one-handed home cleaning//With a 2200 mAh battery, it takes around 3.5 hours to fully charge via USB Type-C and offers 13-30 minutes of use/Featuring a HEPA and a washable metallic mesh filter
+Country: China
+Brand: BRUNO
+Release_Date: 2023-10-19T16:00:00+0000
+Rating: 5.0
+Price: $898
+Link: https://www.fortress.com.hk/en/product/bak808-pwh-handy-usb-2-in-1-vacuum-cleaner/p/13129321
 
 --
-Name: XC8347/61 3-in-1 Cordless Vacuum with Wipe
-Description: Cleans beyond dust. Captures up to 99.7% of dirt with one stroke. Unique Aqua nozzle, to vacuum and wet wipes in one go. Auto-adjusting nozzle to boost performance
+Name: 339481 22.2V 2-in-1 Cordless Cyclonic Vacuum Cleaner
+Description: 2-in-1 Cordless Cyclonic Vacuum Cleaner, 22.2V
+Country: China
+Brand: PRINCESS
+Release_Date: 2019-12-26T16:00:00+0000
+Rating: 4.33
+Price: $840
+Link: https://www.fortress.com.hk/en/product/339481-22.2v-2-in-1-cordless-cyclonic-vacuum-cleaner/p/11951653
+
+--
+Name: VX/ V mini Vacuum Cleaner Accessory Set
+Description: Vacuum Cleaner Accessory Set
+Country: China
+Brand: Autobot
+Release_Date: 2020-08-20T16:00:00+0000
+Rating: 4.25
+Price: $138
+Link: https://www.fortress.com.hk/en/product/vx-v-mini-vacuum-cleaner-accessory-set/p/12067421
+
+--
+Name: XC8043/61 Cordless Stick vacuum cleaner
+Description: 360° Suction Nozzle Up to 70 min, 28 min of Turbo Mini Turbo Brush
 Country: China
 Brand: PHILIPS
-Release_Date: 2022-03-29T16:00:00+0000
+Release_Date: 2021-06-30T16:00:00+0000
+Rating: 4.53
+Price: $2,888
+Link: https://www.fortress.com.hk/en/product/xc8043-61-cordless-stick-vacuum-cleaner/p/12567400
+
+--
+Name: XXLPK3DGN XXL-pack GN dustbag (16 Dustbag)
+Description: XXL-pack GN dustbag (16 Dustbag)
+Country: Belgium
+Brand: MIELE
+Release_Date: 2022-08-23T16:00:00+0000
 Rating: 0.0
-Price: $4,998
+Price: $540
+Link: https://www.fortress.com.hk/en/product/xxlpk3dgn-xxl-pack-gn-dustbag-16-dustbag/p/12738715
 
 --
-Name: BHR5627TY Robot Vacuum-Mop 2 Side Brush
-Description: 0.2mm Bristles Clean Thoroughly the Floor Gaps
-Country: China
-Brand: Mi
-Release_Date: 2022-11-29T16:00:00+0000
-Rating: 4.75
-Price: $39
-
---
-Name: BHR5922TY Robot Vacuum-Mop 2 Pro/2 Lite Mop Pads
-Description: High Density Fiber Evenly Penetrates Water and Dry the Floor Quickly
-Country: China
-Brand: Mi
-Release_Date: 2022-11-29T16:00:00+0000
-Rating: 4.25
-Price: $39
-
---
-Name: BHR5328TY Robot Vacuum-Mop/2 Pro+/2 Mop Pad
-Description: High Density Fiber Evenly Penetrates Water and Dry the Floor Quickly
-Country: China
-Brand: Mi
-Release_Date: 2022-11-29T16:00:00+0000
-Rating: 5.0
-Price: $39
-
---
-Name: PV-X85M Stick Handy Type Vacuum Cleaner
-Description: Stick Handy Type Vacuum Cleaner
-Country: China
-Brand: HITACHI
-Release_Date: 2022-11-22T16:00:00+0000
-Rating: 4.88
-Price: $1,190
-
---
-Name: BCS71PETGB Unlimited 7 Bendable Vacuum Cleaner
-Description: TurboSpin Motor: Made in Germany with 10y motor guarantee. AllFloor DynamicPower Brush with integrated floor lights. 99.9% Metal Mesh Filtration System. RotationClean. 90° bendable Flex Tube. All flexibility.
-Country: Germany
-Brand: BOSCH
-Release_Date: 2023-02-17T16:00:00+0000
-Rating: 4.9
-Price: $3,198
-
---
-Name: VCA-WBA95/GL BESPOKE Jet™ Spray Spinning Sweeper
-Description: BESPOKE Jet™ Spray Spinning Sweeper
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2023-02-16T16:00:00+0000
-Rating: 0.0
-Price: $763
-
---
-Name: Braava jet m6 Robot Mop
-Description: Tackles sticky messes, grime*, and kitchen grease.-Ideal for multiple rooms and large spaces.-Wi-Fi® connected. The iRobot HOME App gives you complete control from anywhere.-Wet Mopping and Dry Sweeping modes
-Country: China
-Brand: Irobot
-Release_Date: 2023-03-16T16:00:00+0000
-Rating: 4.33
-Price: $3,699
-
---
-Name: LG CordZero™ A9TS with All-in-One Tower™ A9T Steam Vacuum Cleaner
-Description: Power Drive Steam Mop   Axial Turbo Cyclone™ “3-in-1” vacuuming & mopping   Auto Empty, UVC LED   Washable Cyclones and Filters, 5-step Filtration   Dual Battery Packs   Kompressor™   10-year motor warranty
-Country: Korea, Republic of
-Brand: LG
-Release_Date: 2023-05-31T16:00:00+0000
-Rating: 5.0
-Price: $7,288
-
---
-Name: BGL6PETGB ProAnimal Bagged vacuum cleaner
-Description: 99.9% dust pick-up, High performance thanks to up to 150 km/h airflow under the nozzle and the powerful motor.
-Country: Germany
-Brand: BOSCH
-Release_Date: 2023-08-10T16:00:00+0000
-Rating: 5.0
-Price: $2,398
-
---
-Name: 2234E PowerFresh Slim Steam
-Description: The BISSELL PowerFresh Slim Steam Mop goes above and beyond a traditional steam cleaner, literally. The slim, lightweight design and swivel steering lets you use the power of steam cleaning when and where you need it.
-Country: China
-Brand: Bissell
-Release_Date: 2023-12-21T16:00:00+0000
-Rating: 0.0
-Price: $1,498
-
---
-Name: Compatible Replacement HEPA Post filters for Dyson V7 V8 Series SV10 SV11 Vacuum Cleaner
-Description: Replacement HEPA Post filters for Dyson V7 V8 Animal Absolute Total Clean SV10 SV11 Vacuum Cleaners
-Country: China
-Brand: Pureburg
-Release_Date: 2024-01-31T16:00:00+0000
-Rating: 0.0
-Price: $95
-
---
-Name: Compatible Replacement Pre-filter for Dyson V6 V7 V8 SV10 SV11 DC58 DC59 DC61 DC62 Vacuum Cleaner
-Description: Replacement Pre-filter for Dyson V6 V7 V8 SV10 SV11 DC58 DC59 DC61 DC62 Vacuum Cleaners
-Country: China
-Brand: Pureburg
-Release_Date: 2024-01-31T16:00:00+0000
-Rating: 0.0
-Price: $70
-
---
-Name: DEEBOTX2COMBO Robotic Vacuum Cleaner + Handheld Vacuum
-Description: One-stop cleaning center
-Country: China
-Brand: Ecovacs
-Release_Date: 2024-03-22T16:00:00+0000
-Rating: 0.0
-Price: $8,499
-
---
-Name: MC-CG373 Bagged type Vacuum Cleaner
-Description: Bagged type Vacuum Cleaner(1800W). With full capture nozzle, it can completely suck off the dust and dirt on the wall.
+Name: MC-CG371 Bagged type Vacuum Cleaner
+Description: Bagged type Vacuum Cleaner (1600W)
 Country: Malaysia
 Brand: PANASONIC
 Release_Date: 2017-05-09T16:00:00+0000
-Rating: 4.5
-Price: $657
+Rating: 3.5
+Price: $588
+Link: https://www.fortress.com.hk/en/product/mc-cg371-bagged-type-vacuum-cleaner/p/11646510
 
 --
-Name: CV-975FC Commercial Use Vacuum Cleaner
-Description: Hitachi Vacuum Cleaner
-Country: Thailand
-Brand: HITACHI
-Release_Date: 2018-06-25T16:00:00+0000
-Rating: 4.33
-Price: $1,780
+Name: CX1E-LW Bagless Vacuum Cleaner
+Description: Trust the Miele Blizzard CX1.  The bagless vacuum cleaner with innovative Vortex Technology.  Miele - For everything you really love.
+Country: Germany
+Brand: MIELE
+Release_Date: 2018-01-23T16:00:00+0000
+Rating: 4.6
+Price: $3,788
+Link: https://www.fortress.com.hk/en/product/cx1e-lw-bagless-vacuum-cleaner/p/11710374
 
 --
-Name: FC6722/61 SpeedPro Cordless Stick Vacuum Cleaner
-Description: The new SpeedPro cordless vacuum cleaner provides a fast clean, with powerful reach. It's equipped with the 180° suction nozzle for precise dirt pick-up, even in the toughest spots - close to walls, furniture and in the corners.
-Country: China
-Brand: PHILIPS
-Release_Date: 2019-08-11T16:00:00+0000
-Rating: 4.67
-Price: $2,498
-
---
-Name: BHR4773GL Vacuum Cleaner G10/G9 HEPA Filter Kit
-Description: H12 HEPA Filter Intercepts 0.3µm Particles
-Country: China
-Brand: Mijia
-Release_Date: 2020-12-16T16:00:00+0000
-Rating: 4.5
-Price: $49
-
---
-Name: TW4871 550W Bagless Vacuum Cleaner
-Description: Compact Power XXL Bagless canister, cyclonic technology, 3 levels filtration,  dust container design, compact size, 550W.  Accessories : High efficiency head, parquet nozzle, 2 in 1 crevice tool, upholstery nozzle,  Mini motorized brush
-Country: China
-Brand: TEFAL
-Release_Date: 2021-01-31T16:00:00+0000
-Rating: 5.0
-Price: $1,098
-
---
-Name: XC2011/61 Lightweight Cordless Vacuum Cleaner
-Description: Clean your floors in one go with the Philips Cordless Vacuum 2000 Series. Our LED nozzle reveals hidden dust and dirt before capturing it with PowerCyclone 7 technology. Up to 40 minutes of runtime makes cleaning your home easy.
-Country: China
-Brand: PHILIPS
-Release_Date: 2024-02-29T16:00:00+0000
-Rating: 0.0
-Price: $1,398
-
---
-Name: BGC21X3GB Series 4 Bagless Vacuum Cleaner
-Description: Bosch Series 4 Bagless Vacuum Cleaner, 550W, Compact Design. 10 years motor guarantee   Washable HEPA hygienic filter   Power AirCycle Technology   Double filtration   EasyClean System.
-Country: Poland
-Brand: BOSCH
-Release_Date: 2022-03-31T16:00:00+0000
-Rating: 5.0
-Price: $1,598
-
---
-Name: FC8293/61 Bagged Vacuum Cleane
-Description: Philips PowerGo vacuum cleaner delivers 1800 W of cleaning performance with a multi-purpose nozzle for any type of floor. Keep the air in your home clean and healthy, too, thanks to our Super Clean Air filter.
-Country: China
-Brand: PHILIPS
-Release_Date: 2023-09-06T16:00:00+0000
-Rating: 5.0
-Price: $898
-
---
-Name: VH1806 Handheld Vacuum Cleaner
-Description: Rechargeable Handheld Vacuum Cleaner
+Name: VS1809, 18V Stick Vacuum Cleaner
+Description: 2-in-1 Li-ion vacuum cleaner can be used in handheld or stick option with strong suction power. Cleaning up the dust is easy by simply removing the dust cup. Rotating brush helps to pick up the dust and hair quickly. Its self-standing parking with foldable handle is easy to store.
 Country: China
 Brand: WHIRLPOOL
-Release_Date: 2014-10-05T16:00:00+0000
-Rating: 4.58
-Price: $738
+Release_Date: 2018-05-30T16:00:00+0000
+Rating: 4.53
+Price: $1,290
+Link: https://www.fortress.com.hk/en/product/vs1809-18v-stick-vacuum-cleaner/p/11751977
 
 --
-Name: NV2206 Cordless UV mite cleaner
-Description: 1.15 kg lightweight & cordless design, easy to use Rotating roller brush remove dust mites more effectively UVC 99.9% sterilization Clean bedding, quilt, and fabric sofa household items  UVC light has safe automatic shutdown function
+Name: FC9350/61 Bagless Vacuum Cleaner
+Description: With the Philips Bagless Vacuum 3000 Series, compact design meets king-size performance. Enjoy thorough cleaning throughout your home thanks to PowerCyclone 5 technology and our MultiClean nozzle.
 Country: China
-Brand: NOVEL
-Release_Date: 2023-09-18T16:00:00+0000
-Rating: 5.0
-Price: $738
+Brand: PHILIPS
+Release_Date: 2018-12-17T16:00:00+0000
+Rating: 4.7
+Price: $998
+Link: https://www.fortress.com.hk/en/product/fc9350-61-bagless-vacuum-cleaner/p/11826633
 
 --
-Name: BHN20L 18V (20Vmax) Rechargeable Handheld Vacuum Cleaner
-Description: Move Lithium 18V (20Vmax) Rechargeable Handheld vacuum cleaner with great performance. High Airflow System with efficient dust-separation and runtime upto 45mins.
+Name: TY2079 X-Force Flex 9.60 Vacuum Cleaner
+Description: 250W Suction power, 1.1kg, battery running time up to 45 minutes, Automatic suction power adjustment, Smart Control Display, 99.9% filtration, Flex tube design, Power LED vision, Animal care accessories
 Country: China
-Brand: BOSCH
-Release_Date: 2021-04-07T16:00:00+0000
-Rating: 5.0
-Price: $818
+Brand: TEFAL
+Release_Date: 2024-04-09T16:00:00+0000
+Rating: 0.0
+Price: $2,998
+Link: https://www.fortress.com.hk/en/product/ty2079-x-force-flex-9.60-vacuum-cleaner/p/13260426
+
+--
+Name: Digital Slim Submarine wet and dry vacuum cleaner
+Description: Versatile cleaning. Now washes hard floors. All in one machine. Lightweight wet and dry vacuum cleaner.
+Country: China
+Brand: DYSON
+Release_Date: 2024-04-08T16:00:00+0000
+Rating: 0.0
+Price: $3,980
+Link: https://www.fortress.com.hk/en/product/digital-slim-submarine-wet-and-dry-vacuum-cleaner/p/13253015
 
 --
 Name: TY1129 X-Nano Cordless Stick Vacuum Cleaner
@@ -977,96 +825,267 @@ Brand: TEFAL
 Release_Date: 2023-01-17T16:00:00+0000
 Rating: 5.0
 Price: $1,698
+Link: https://www.fortress.com.hk/en/product/ty1129-x-nano-cordless-stick-vacuum-cleaner/p/12836219
 
 --
-Name: VX PRO Handheld Vacuum Cleaner
-Description: The Upgraded AutoBot VX PRO vacuum cleaner is equipped with the FLIPCOVER system, which can be used for one-click turning and ashing. The new fan motor integrated machine can reach a suction power of 16000 pa.
+Name: PV-X85M Stick Handy Type Vacuum Cleaner
+Description: Stick Handy Type Vacuum Cleaner
 Country: China
-Brand: Autobot
-Release_Date: 2021-07-27T16:00:00+0000
-Rating: 4.36
-Price: $629
+Brand: HITACHI
+Release_Date: 2022-11-22T16:00:00+0000
+Rating: 4.88
+Price: $1,190
+Link: https://www.fortress.com.hk/en/product/pv-x85m-stick-handy-type-vacuum-cleaner/p/12823944
 
 --
-Name: ZB6307DB Rapido Wet & Dry Handheld Vacuum Cleaner
-Description: Rapido Wet & Dry Handheld Vacuum Cleaner
-Country: China
-Brand: ELECTROLUX
-Release_Date: 2021-07-25T16:00:00+0000
-Rating: 5.0
-Price: $788
-
---
-Name: SV-1788 "Smart Slim" Multi Cyclonic HEPA Vacuum Cleaner
-Description: Powerful cyclonic vacuum system Compact size for easy storage Washable HEPA H13 filter-filtering 99.9% fine dust Detachable and washable dust cup Accessories: floor brush, crevice nozzle, round brush, extension tube 220-240V- 50/60Hz,400W
-Country: China
-Brand: SMARTECH
-Release_Date: 2021-12-29T16:00:00+0000
-Rating: 5.0
-Price: $498
-
---
-Name: 4137/00 VAPORÌ JET Steam Gun
-Description: No corner of the house will be spared. With Ariete’s Vaporì Jet handheld steam cleaner you will manage to deep clean even the most awkward corners in your house, relying on the natural effectiveness of steam against germs and bacteria.
-Country: China
-Brand: Ariete
-Release_Date: 2022-02-27T16:00:00+0000
-Rating: 5.0
-Price: $480
-
---
-Name: VCCLS1BFR Ultra-Lightweight 2-in-1 Cordless Vacuum Cleaner
-Description: Ultra-Lightweight 2-in-1 Cordless Vacuum Cleaner
-Country: China
-Brand: TOSHIBA
-Release_Date: 2022-03-30T16:00:00+0000
-Rating: 4.83
-Price: $1,510
-
---
-Name: MC-SB52K Tangle-Free Stick Type Vacuum Cleaner
-Description: Tangle-Free power nozzle features dual conical brushes to prevent hair tangles and its double motors allow smooth movement to the dust box / Outstanding suction power 100W/ Light weighted 1.8 kg/ Dust sensor which detect tiny dust particles
-Country: China
-Brand: PANASONIC
-Release_Date: 2022-07-14T16:00:00+0000
-Rating: 5.0
-Price: $2,289
-
---
-Name: HX1FLW Triflex HX1 Stick Vacuum Cleaner
-Description: Made in Germany, Miele cordless stick vacuum cleaners are ready to use in an instant.  With no cord, they offer maxmium flexibility while a high-capacity rechargeable battery means they can clean large areas without interruption.
+Name: BCS71PETGB Unlimited 7 Bendable Vacuum Cleaner
+Description: TurboSpin Motor: Made in Germany with 10y motor guarantee. AllFloor DynamicPower Brush with integrated floor lights. 99.9% Metal Mesh Filtration System. RotationClean. 90° bendable Flex Tube. All flexibility.
 Country: Germany
-Brand: MIELE
-Release_Date: 2022-08-23T16:00:00+0000
-Rating: 0.0
-Price: $3,688
+Brand: BOSCH
+Release_Date: 2023-02-17T16:00:00+0000
+Rating: 4.9
+Price: $3,198
+Link: https://www.fortress.com.hk/en/product/bcs71petgb-unlimited-7-bendable-vacuum-cleaner/p/12877272
 
 --
-Name: BHR5919TY Robot Vacuum-Mop 2 Pro/2 Lite Side Brush
-Description: Bristles Clean Thoroughly the Floor Gaps
+Name: VCA-WBA95/GL BESPOKE Jet™ Spray Spinning Sweeper
+Description: BESPOKE Jet™ Spray Spinning Sweeper
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2023-02-16T16:00:00+0000
+Rating: 0.0
+Price: $763
+Link: https://www.fortress.com.hk/en/product/vca-wba95-gl-bespoke-jet™-spray-spinning-sweeper/p/12894435
+
+--
+Name: Braava jet m6 Robot Mop
+Description: Tackles sticky messes, grime*, and kitchen grease.-Ideal for multiple rooms and large spaces.-Wi-Fi® connected. The iRobot HOME App gives you complete control from anywhere.-Wet Mopping and Dry Sweeping modes
+Country: China
+Brand: Irobot
+Release_Date: 2023-03-16T16:00:00+0000
+Rating: 4.33
+Price: $3,699
+Link: https://www.fortress.com.hk/en/product/braava-jet-m6-robot-mop/p/12960640
+
+--
+Name: LG CordZero™ A9TS with All-in-One Tower™ A9T Steam Vacuum Cleaner
+Description: Power Drive Steam Mop   Axial Turbo Cyclone™ “3-in-1” vacuuming & mopping   Auto Empty, UVC LED   Washable Cyclones and Filters, 5-step Filtration   Dual Battery Packs   Kompressor™   10-year motor warranty
+Country: Korea, Republic of
+Brand: LG
+Release_Date: 2023-05-31T16:00:00+0000
+Rating: 5.0
+Price: $7,288
+Link: https://www.fortress.com.hk/en/product/lg-cordzero™-a9ts-with-all-in-one-tower™-a9t-steam-vacuum-cleaner/p/13001580
+
+--
+Name: BGL6PETGB ProAnimal Bagged vacuum cleaner
+Description: 99.9% dust pick-up, High performance thanks to up to 150 km/h airflow under the nozzle and the powerful motor.
+Country: Germany
+Brand: BOSCH
+Release_Date: 2023-08-10T16:00:00+0000
+Rating: 5.0
+Price: $2,398
+Link: https://www.fortress.com.hk/en/product/bgl6petgb-proanimal-bagged-vacuum-cleaner/p/13042584
+
+--
+Name: NV2206 Cordless UV mite cleaner
+Description: 1.15 kg lightweight & cordless design, easy to use Rotating roller brush remove dust mites more effectively UVC 99.9% sterilization Clean bedding, quilt, and fabric sofa household items  UVC light has safe automatic shutdown function
+Country: China
+Brand: NOVEL
+Release_Date: 2023-09-18T16:00:00+0000
+Rating: 5.0
+Price: $738
+Link: https://www.fortress.com.hk/en/product/nv2206-cordless-uv-mite-cleaner/p/13047422
+
+--
+Name: 2234E PowerFresh Slim Steam
+Description: The BISSELL PowerFresh Slim Steam Mop goes above and beyond a traditional steam cleaner, literally. The slim, lightweight design and swivel steering lets you use the power of steam cleaning when and where you need it.
+Country: China
+Brand: Bissell
+Release_Date: 2023-12-21T16:00:00+0000
+Rating: 0.0
+Price: $1,498
+Link: https://www.fortress.com.hk/en/product/2234e-powerfresh-slim-steam/p/13168881
+
+--
+Name: LG CordZero™ A9Komp with All-in-One Tower™ A9T-Ultra Vacuum Cleaner
+Description: Axial Turbo Cyclone™ “3-in-1” vacuuming & mopping   Auto Empty, UVC LED   Washable Cyclones and Filters, 5-step Filtration   Dual Battery Packs   Kompressor™   10-year motor warranty
+Country: Korea, Republic of
+Brand: LG
+Release_Date: 2021-11-28T16:00:00+0000
+Rating: 4.86
+Price: $5,999
+Link: https://www.fortress.com.hk/en/product/lg-cordzero™-a9komp-with-all-in-one-tower™-a9t-ultra-vacuum-cleaner/p/12577579
+
+--
+Name: XC8347/61 3-in-1 Cordless Vacuum with Wipe
+Description: Cleans beyond dust. Captures up to 99.7% of dirt with one stroke. Unique Aqua nozzle, to vacuum and wet wipes in one go. Auto-adjusting nozzle to boost performance
+Country: China
+Brand: PHILIPS
+Release_Date: 2022-03-29T16:00:00+0000
+Rating: 0.0
+Price: $4,998
+Link: https://www.fortress.com.hk/en/product/xc8347-61-3-in-1-cordless-vacuum-with-wipe/p/12646280
+
+--
+Name: BGC21X3GB Series 4 Bagless Vacuum Cleaner
+Description: Bosch Series 4 Bagless Vacuum Cleaner, 550W, Compact Design. 10 years motor guarantee   Washable HEPA hygienic filter   Power AirCycle Technology   Double filtration   EasyClean System.
+Country: Poland
+Brand: BOSCH
+Release_Date: 2022-03-31T16:00:00+0000
+Rating: 5.0
+Price: $1,598
+Link: https://www.fortress.com.hk/en/product/bgc21x3gb-series-4-bagless-vacuum-cleaner/p/12680074
+
+--
+Name: BHR5627TY Robot Vacuum-Mop 2 Side Brush
+Description: 0.2mm Bristles Clean Thoroughly the Floor Gaps
 Country: China
 Brand: Mi
 Release_Date: 2022-11-29T16:00:00+0000
-Rating: 4.33
-Price: $29
+Rating: 4.75
+Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr5627ty-robot-vacuum-mop-2-side-brush/p/12816947
 
 --
-Name: BHR5920TY Robot Vacuum-Mop 2 Pro/2 Lite Brush
-Description: Bristles Made no Harms During Floor Cleaning
+Name: BHR5922TY Robot Vacuum-Mop 2 Pro/2 Lite Mop Pads
+Description: High Density Fiber Evenly Penetrates Water and Dry the Floor Quickly
+Country: China
+Brand: Mi
+Release_Date: 2022-11-29T16:00:00+0000
+Rating: 4.25
+Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr5922ty-robot-vacuum-mop-2-pro-2-lite-mop-pads/p/12817042
+
+--
+Name: BHR5328TY Robot Vacuum-Mop/2 Pro+/2 Mop Pad
+Description: High Density Fiber Evenly Penetrates Water and Dry the Floor Quickly
 Country: China
 Brand: Mi
 Release_Date: 2022-11-29T16:00:00+0000
 Rating: 5.0
 Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr5328ty-robot-vacuum-mop-2-pro-2-mop-pad/p/12817069
 
 --
-Name: BHR5327TY Robot Vacuum-Mop/2 Pro+/2/2 Ultra Brush Cover
-Description: Strudy Structure and Anti-Wear
+Name: VH1806 Handheld Vacuum Cleaner
+Description: Rechargeable Handheld Vacuum Cleaner
 Country: China
-Brand: Mi
-Release_Date: 2022-11-29T16:00:00+0000
+Brand: WHIRLPOOL
+Release_Date: 2014-10-05T16:00:00+0000
+Rating: 4.58
+Price: $738
+Link: https://www.fortress.com.hk/en/product/vh1806-handheld-vacuum-cleaner/p/11303322
+
+--
+Name: MC-CG373 Bagged type Vacuum Cleaner
+Description: Bagged type Vacuum Cleaner(1800W). With full capture nozzle, it can completely suck off the dust and dirt on the wall.
+Country: Malaysia
+Brand: PANASONIC
+Release_Date: 2017-05-09T16:00:00+0000
+Rating: 4.5
+Price: $657
+Link: https://www.fortress.com.hk/en/product/mc-cg373-bagged-type-vacuum-cleaner/p/11646528
+
+--
+Name: CV-975FC Commercial Use Vacuum Cleaner
+Description: Hitachi Vacuum Cleaner
+Country: Thailand
+Brand: HITACHI
+Release_Date: 2018-06-25T16:00:00+0000
+Rating: 4.33
+Price: $1,780
+Link: https://www.fortress.com.hk/en/product/cv-975fc-commercial-use-vacuum-cleaner/p/11784875
+
+--
+Name: FC6722/61 SpeedPro Cordless Stick Vacuum Cleaner
+Description: The new SpeedPro cordless vacuum cleaner provides a fast clean, with powerful reach. It's equipped with the 180° suction nozzle for precise dirt pick-up, even in the toughest spots - close to walls, furniture and in the corners.
+Country: China
+Brand: PHILIPS
+Release_Date: 2019-08-11T16:00:00+0000
+Rating: 4.67
+Price: $2,498
+Link: https://www.fortress.com.hk/en/product/fc6722-61-speedpro-cordless-stick-vacuum-cleaner/p/11906879
+
+--
+Name: BHR4773GL Vacuum Cleaner G10/G9 HEPA Filter Kit
+Description: H12 HEPA Filter Intercepts 0.3µm Particles
+Country: China
+Brand: Mijia
+Release_Date: 2020-12-16T16:00:00+0000
+Rating: 4.5
+Price: $49
+Link: https://www.fortress.com.hk/en/product/bhr4773gl-vacuum-cleaner-g10-g9-hepa-filter-kit/p/12234509
+
+--
+Name: TW4871 550W Bagless Vacuum Cleaner
+Description: Compact Power XXL Bagless canister, cyclonic technology, 3 levels filtration,  dust container design, compact size, 550W.  Accessories : High efficiency head, parquet nozzle, 2 in 1 crevice tool, upholstery nozzle,  Mini motorized brush
+Country: China
+Brand: TEFAL
+Release_Date: 2021-01-31T16:00:00+0000
+Rating: 5.0
+Price: $1,098
+Link: https://www.fortress.com.hk/en/product/tw4871-550w-bagless-vacuum-cleaner/p/12267132
+
+--
+Name: BHN20L 18V (20Vmax) Rechargeable Handheld Vacuum Cleaner
+Description: Move Lithium 18V (20Vmax) Rechargeable Handheld vacuum cleaner with great performance. High Airflow System with efficient dust-separation and runtime upto 45mins.
+Country: China
+Brand: BOSCH
+Release_Date: 2021-04-07T16:00:00+0000
+Rating: 5.0
+Price: $818
+Link: https://www.fortress.com.hk/en/product/bhn20l-18v-20vmax-rechargeable-handheld-vacuum-cleaner/p/12310866
+
+--
+Name: FC8293/61 Bagged Vacuum Cleane
+Description: Philips PowerGo vacuum cleaner delivers 1800 W of cleaning performance with a multi-purpose nozzle for any type of floor. Keep the air in your home clean and healthy, too, thanks to our Super Clean Air filter.
+Country: China
+Brand: PHILIPS
+Release_Date: 2023-09-06T16:00:00+0000
+Rating: 5.0
+Price: $898
+Link: https://www.fortress.com.hk/en/product/fc8293-61-bagged-vacuum-cleane/p/13073647
+
+--
+Name: Compatible Replacement HEPA Post filters for Dyson V7 V8 Series SV10 SV11 Vacuum Cleaner
+Description: Replacement HEPA Post filters for Dyson V7 V8 Animal Absolute Total Clean SV10 SV11 Vacuum Cleaners
+Country: China
+Brand: Pureburg
+Release_Date: 2024-01-31T16:00:00+0000
 Rating: 0.0
-Price: $39
+Price: $95
+Link: https://www.fortress.com.hk/en/product/compatible-replacement-hepa-post-filters-for-dyson-v7-v8-series-sv10-sv11-vacuum-cleaner/p/13206497
+
+--
+Name: Compatible Replacement Pre-filter for Dyson V6 V7 V8 SV10 SV11 DC58 DC59 DC61 DC62 Vacuum Cleaner
+Description: Replacement Pre-filter for Dyson V6 V7 V8 SV10 SV11 DC58 DC59 DC61 DC62 Vacuum Cleaners
+Country: China
+Brand: Pureburg
+Release_Date: 2024-01-31T16:00:00+0000
+Rating: 0.0
+Price: $70
+Link: https://www.fortress.com.hk/en/product/compatible-replacement-pre-filter-for-dyson-v6-v7-v8-sv10-sv11-dc58-dc59-dc61-dc62-vacuum-cleaner/p/13206585
+
+--
+Name: DEEBOTX2COMBO Robotic Vacuum Cleaner + Handheld Vacuum
+Description: One-stop cleaning center
+Country: China
+Brand: Ecovacs
+Release_Date: 2024-03-22T16:00:00+0000
+Rating: 0.0
+Price: $8,499
+Link: https://www.fortress.com.hk/en/product/deebotx2combo-robotic-vacuum-cleaner-handheld-vacuum/p/13242826
+
+--
+Name: XC2011/61 Lightweight Cordless Vacuum Cleaner
+Description: Clean your floors in one go with the Philips Cordless Vacuum 2000 Series. Our LED nozzle reveals hidden dust and dirt before capturing it with PowerCyclone 7 technology. Up to 40 minutes of runtime makes cleaning your home easy.
+Country: China
+Brand: PHILIPS
+Release_Date: 2024-02-29T16:00:00+0000
+Rating: 0.0
+Price: $1,398
+Link: https://www.fortress.com.hk/en/product/xc2011-61-lightweight-cordless-vacuum-cleaner/p/13207449
 
 --
 Name: BHR6846GL Truclean W10 Pro Wet Dry Vacuum Filter 2-pack
@@ -1076,6 +1095,7 @@ Brand: Mi
 Release_Date: 2022-12-15T16:00:00+0000
 Rating: 0.0
 Price: $49
+Link: https://www.fortress.com.hk/en/product/bhr6846gl-truclean-w10-pro-wet-dry-vacuum-filter-2-pack/p/12826432
 
 --
 Name: GVC222R Cyclonic Cordless Multi-Functional Vacuum Cleaner
@@ -1085,6 +1105,7 @@ Brand: GEMINI
 Release_Date: 2023-02-19T16:00:00+0000
 Rating: 0.0
 Price: $748
+Link: https://www.fortress.com.hk/en/product/gvc222r-cyclonic-cordless-multi-functional-vacuum-cleaner/p/12842782
 
 --
 Name: H18 Cordless Automatic Wet and Dry Vacuum Cleaner
@@ -1094,6 +1115,7 @@ Brand: Power Living
 Release_Date: 2022-12-15T16:00:00+0000
 Rating: 4.75
 Price: $2,198
+Link: https://www.fortress.com.hk/en/product/h18-cordless-automatic-wet-and-dry-vacuum-cleaner/p/12823961
 
 --
 Name: VCA-ADB952 BESPOKE Jet™Clean Station Dust Bag (5ea)
@@ -1103,6 +1125,7 @@ Brand: SAMSUNG
 Release_Date: 2023-02-16T16:00:00+0000
 Rating: 0.0
 Price: $200
+Link: https://www.fortress.com.hk/en/product/vca-adb952-bespoke-jet™clean-station-dust-bag-5ea/p/12894401
 
 --
 Name: HIZERO F100 BIONIC HARD FLOOR CLEANER
@@ -1112,6 +1135,7 @@ Brand: Hizero
 Release_Date: 2023-04-11T16:00:00+0000
 Rating: 0.0
 Price: $3,580
+Link: https://www.fortress.com.hk/en/product/hizero-f100-bionic-hard-floor-cleaner/p/12982611
 
 --
 Name: Tapo RV10 Plus Robot Vacuum & Mop + Smart Auto-Empty Dock
@@ -1121,6 +1145,7 @@ Brand: TP-Link
 Release_Date: 2023-04-13T16:00:00+0000
 Rating: 3.5
 Price: $1,499
+Link: https://www.fortress.com.hk/en/product/tapo-rv10-plus-robot-vacuum-mop-smart-auto-empty-dock/p/12983956
 
 --
 Name: MC-SB53K Slim Tangle-Free Stick Type Vacuum Cleaner
@@ -1130,6 +1155,7 @@ Brand: PANASONIC
 Release_Date: 2023-05-02T16:00:00+0000
 Rating: 0.0
 Price: $2,769
+Link: https://www.fortress.com.hk/en/product/mc-sb53k-slim-tangle-free-stick-type-vacuum-cleaner/p/12987236
 
 --
 Name: MC-SB33J Slim Stick Type Vacuum Cleaner
@@ -1139,6 +1165,7 @@ Brand: PANASONIC
 Release_Date: 2023-05-02T16:00:00+0000
 Rating: 5.0
 Price: $2,199
+Link: https://www.fortress.com.hk/en/product/mc-sb33j-slim-stick-type-vacuum-cleaner/p/12987244
 
 --
 Name: MC-SB85K Tangle-Free Stick Type Vacuum Cleaner
@@ -1148,6 +1175,7 @@ Brand: PANASONIC
 Release_Date: 2023-04-20T16:00:00+0000
 Rating: 5.0
 Price: $4,200
+Link: https://www.fortress.com.hk/en/product/mc-sb85k-tangle-free-stick-type-vacuum-cleaner/p/12988757
 
 --
 Name: MC-CL603 Bagless Vacuum Cleaner
@@ -1157,6 +1185,7 @@ Brand: PANASONIC
 Release_Date: 2023-08-02T16:00:00+0000
 Rating: 5.0
 Price: $1,109
+Link: https://www.fortress.com.hk/en/product/mc-cl603-bagless-vacuum-cleaner/p/13042621
 
 --
 Name: ESKW5 Complete filter kit for UltimateHome 700
@@ -1166,168 +1195,7 @@ Brand: ELECTROLUX
 Release_Date: 2023-09-15T16:00:00+0000
 Rating: 0.0
 Price: $280
-
---
-Name: I517800 Roomba Combo™ i5
-Description: Double up on cleaning tasks with one machine. Vacuum only or attach the Roomba Combo™ Bin and be able to vacuum & mop your hard floors. The Roomba Combo™  i5 robot learns your cleaning habits to make personalised suggestions.
-Country: China
-Brand: Irobot
-Release_Date: 2023-11-08T16:00:00+0000
-Rating: 0.0
-Price: $4,999
-
---
-Name: VM4 Self Cleaning Vacuum Cleaner
-Description: Autobot has launched the "VM4" portable vacuum cleaner, which integrates three modes: automatic cleaning, vacuuming, and blowing.
-Country: China
-Brand: Autobot
-Release_Date: 2024-01-03T16:00:00+0000
-Rating: 0.0
-Price: $599
-
---
-Name: Compatible replacement 2-in-1 HEPA Filter for Dyson V10 Animal Fluffy Absolute SV12 Vacuum Cleaner
-Description: Replacement 2-in-1 HEPA Filter for Dyson V10 Animal Fluffy Absolute SV12 Cyclone Vacuum Cleaners
-Country: China
-Brand: Pureburg
-Release_Date: 2024-01-31T16:00:00+0000
-Rating: 0.0
-Price: $179
-
---
-Name: SE6.100 Spray Extraction Cleaner
-Description: The SE 6.100 spray extraction cleaner (Kärcher Home Line) is available in white. This spray extraction cleaner leaves textile surfaces hygienically clean. Cleaning solution is sprayed deep into the fibres under pressure and removed together with the dissolved dirt – ideal for allergy sufferers and households with pets.
-Country: Europe
-Brand: KARCHER
-Release_Date: 2013-05-15T16:00:00+0000
-Rating: 4.0
-Price: $5,280
-
---
-Name: SV7 Steam Vacuum Cleaner
-Description: The Kärcher SV 7 steam vacuum cleaner combines the advantages of steam cleaners with the power of dry vacuum cleaners. For example, it picks up crumbs, wipes wet and subsequently dries floors, all in one easy procedure. These impressive all-round devices and matching accessories can clean any home easily, conveniently, quickly and without chemicals.
-Country: Europe
-Brand: KARCHER
-Release_Date: 2015-05-12T16:00:00+0000
-Rating: 0.0
-Price: $9,880
-
---
-Name: TW2253 Bagged Vacuum Cleaner
-Description: Designed to provide good cleaning solutions for small-surface living spaces, Micro Space delivers all the convenience of an ultra-compact vacuum cleaner with cleaning performance you can count on.
-Country: China
-Brand: TEFAL
-Release_Date: 2015-07-13T16:00:00+0000
-Rating: 4.14
-Price: $668
-
---
-Name: 64146310 Vacuum Cleaner Filter
-Description: None
-Country: Germany
-Brand: KARCHER
-Release_Date: 2014-07-08T16:00:00+0000
-Rating: 5.0
-Price: $288
-
---
-Name: DS6-PREMIUM Water Filter Vacuum Cleaner
-Description: Water filter ensures no filter bags in which allergenes could accumulate are required, and mite secretions are eliminated when the water is thrown out
-Country: Europe
-Brand: KARCHER
-Release_Date: 2018-08-14T16:00:00+0000
-Rating: 5.0
-Price: $4,980
-
---
-Name: VC3-PREMIUM-PLUS Bagless Vacuum Cleaner
-Description: Multi-cyclone technology produces a strong centrifugal force, dust separation & compression. 6-layer high-performance filter design, with HEPA 13 and HV filter, vacuums 99.95% of dust and particles
-Country: China
-Brand: KARCHER
-Release_Date: 2018-01-07T16:00:00+0000
-Rating: 5.0
-Price: $1,380
-
---
-Name: CV-950F/PG Commercial Use Vacuum Cleaner
-Description: Hitachi Vacuum Cleaner
-Country: Thailand
-Brand: HITACHI
-Release_Date: 2018-12-12T16:00:00+0000
-Rating: 4.56
-Price: $1,480
-
---
-Name: VNZ-PM01N Power Drive MOP
-Description: Power Drive Mop, sweep and mop the floor simultaneously
-Country: Korea, Republic of
-Brand: LG
-Release_Date: 2018-12-18T16:00:00+0000
-Rating: 4.5
-Price: $1,400
-
---
-Name: HX FILTER Fine Dust Filter for Triflex Cordless Stick Vacuum Cleaner
-Description: MIELE Fine Dust Filter for Triflex
-Country: Germany
-Brand: MIELE
-Release_Date: 2020-06-11T16:00:00+0000
-Rating: 5.0
-Price: $360
-
---
-Name: SEB 23 Electro Compact Brush for Triflex Cordless Stick Vacuum Cleaner
-Description: MIELE Electro Compact Brush for Triflex
-Country: Germany
-Brand: MIELE
-Release_Date: 2020-06-11T16:00:00+0000
-Rating: 0.0
-Price: $950
-
---
-Name: ESKW1 Replacement Filter Set for Well Q6 Cordless Stick for WQ61-1OGG/WQ61-1EDBF/WQ71-2BSWF
-Description: Washable Replacement Filter Set for Electrolux Cordless Vacuum Cleaner models WQ61-1OGG/WQ61-1EDBF/WQ71-2BSWF
-Country: China
-Brand: ELECTROLUX
-Release_Date: 2020-12-06T16:00:00+0000
-Rating: 0.0
-Price: $280
-
---
-Name: T2520 HomeVac H11 Pure Cordless Handheld Vacuum Cleaner with Ozone Purification
-Description: reddot award 2020 winner,Cordless Handheld Vacuum Cleaner, Ozone Purification, Lightweight & compact, 5500Pa Suction Power, 2-in-1 Crevice Tool, Washable HEPA Filter, USB Charging
-Country: China
-Brand: Anker
-Release_Date: 2020-11-11T16:00:00+0000
-Rating: 4.8
-Price: $528
-
---
-Name: BHR4774GL Vacuum Cleaner G10/G9 Extended Battery Pack
-Description: Backup Battery, Cleaning Anytime
-Country: China
-Brand: Mi
-Release_Date: 2021-01-18T16:00:00+0000
-Rating: 4.81
-Price: $499
-
---
-Name: RV-2005 MAO Clean M7 flagship electric wet mop cordless vacuum cleaner
-Description: Bmxmao MAO Clean M7 flagship electric wet mop cordless vacuum cleaner.  It has come with luxurious 16 accessory set (remove dust mite/dual battery/pet cleaning).
-Country: China
-Brand: Bmxmao
-Release_Date: 2021-01-04T16:00:00+0000
-Rating: 3.6
-Price: $2,498
-
---
-Name: VX / V mini Vacuum Cleaner HEPA Filter
-Description: HEPA Filter
-Country: China
-Brand: Autobot
-Release_Date: 2021-06-17T16:00:00+0000
-Rating: 5.0
-Price: $60
+Link: https://www.fortress.com.hk/en/product/eskw5-complete-filter-kit-for-ultimatehome-700/p/13105944
 
 --
 Name: XV1792/01 AquaTrio 3-in-1 Floor Cleaning Solution
@@ -1337,6 +1205,7 @@ Brand: PHILIPS
 Release_Date: 2023-09-06T16:00:00+0000
 Rating: 0.0
 Price: $88
+Link: https://www.fortress.com.hk/en/product/xv1792-01-aquatrio-3-in-1-floor-cleaning-solution/p/13106218
 
 --
 Name: ZQ600H Multifunctional Steam Cleaner
@@ -1346,744 +1215,287 @@ Brand: Deerma
 Release_Date: 2023-11-09T16:00:00+0000
 Rating: 5.0
 Price: $798
+Link: https://www.fortress.com.hk/en/product/zq600h-multifunctional-steam-cleaner/p/13140838
 
 --
-Name: V10 Turbo Wireless vacuum cleaner
-Description: Stainless steel filter + Hepa filter double filtration,H13 HEPA filter, can filter 0.3 micron bacterial dust up to 99%, filter can be cleaned with a soft bristled toothbrush, dried and recycled
+Name: I517800 Roomba Combo™ i5
+Description: Double up on cleaning tasks with one machine. Vacuum only or attach the Roomba Combo™ Bin and be able to vacuum & mop your hard floors. The Roomba Combo™  i5 robot learns your cleaning habits to make personalised suggestions.
 Country: China
-Brand: Lohas
-Release_Date: 2020-04-12T16:00:00+0000
-Rating: 1.0
-Price: $998
-
---
-Name: SPD 20 Wide upholstery nozzle
-Description: For easy, quick and thorough cleaning of upholstered furniture.
-Country: Germany
-Brand: MIELE
-Release_Date: 2021-07-04T16:00:00+0000
+Brand: Irobot
+Release_Date: 2023-11-08T16:00:00+0000
 Rating: 0.0
-Price: $280
+Price: $4,999
+Link: https://www.fortress.com.hk/en/product/i517800-roomba-combo™-i5/p/13138560
 
 --
-Name: AC66 UV sterilization electric wet mop head compatible with Dyson V6 series Cordless Vacuum Cleaner
-Description: Anewpow AC66 (compatible with Dyson V6 series) UV sterilization electric wet mop head, can remove stains, dust and bacteria at the same time, UV ultraviolet can kill bacteria on the ground.
-Country: China
-Brand: Anewpow
-Release_Date: 2021-06-21T16:00:00+0000
-Rating: 0.0
-Price: $798
-
---
-Name: V3 Vacuum Cleaner HEPA Filter
-Description: HEPA Filter
+Name: VM4 Self Cleaning Vacuum Cleaner
+Description: Autobot has launched the "VM4" portable vacuum cleaner, which integrates three modes: automatic cleaning, vacuuming, and blowing.
 Country: China
 Brand: Autobot
-Release_Date: 2021-09-16T16:00:00+0000
-Rating: 5.0
-Price: $60
+Release_Date: 2024-01-03T16:00:00+0000
+Rating: 0.0
+Price: $599
+Link: https://www.fortress.com.hk/en/product/vm4-self-cleaning-vacuum-cleaner/p/13170914
 
 --
-Name: CX1C-OB Boost CX1 Bagless Vacuum Cleaner (Cat&Dog)
-Description: The new bagless cylinder vacuum cleaner, Miele Boost CX1, equipped with Vortex Technology ensures powerful cleaning performance.  Enjoy easy handling with the new TrackDrive and Compact Design.  Quality tested for 20 years of usage.
+Name: VX PRO Handheld Vacuum Cleaner
+Description: The Upgraded AutoBot VX PRO vacuum cleaner is equipped with the FLIPCOVER system, which can be used for one-click turning and ashing. The new fan motor integrated machine can reach a suction power of 16000 pa.
 Country: China
-Brand: MIELE
-Release_Date: 2021-10-05T16:00:00+0000
-Rating: 5.0
-Price: $4,088
+Brand: Autobot
+Release_Date: 2021-07-27T16:00:00+0000
+Rating: 4.36
+Price: $629
+Link: https://www.fortress.com.hk/en/product/vx-pro-handheld-vacuum-cleaner/p/12463651
 
 --
-Name: CX1-W Boost CX1 Bagless Vacuum Cleaner (White)
-Description: The new bagless cylinder vacuum cleaner, Miele Boost CX1, equipped with Vortex Technology ensures powerful cleaning performance.  Enjoy easy handling with the new TrackDrive and Compact Design.  Quality tested for 20 years of usage.
-Country: China
-Brand: MIELE
-Release_Date: 2021-10-05T16:00:00+0000
-Rating: 0.0
-Price: $4,188
-
---
-Name: SF-HA60 HEPA AirClean Filter
-Description: safely traps fine dust and allergens.
-Country: Germany
-Brand: MIELE
-Release_Date: 2021-11-15T16:00:00+0000
-Rating: 0.0
-Price: $380
-
---
-Name: CX-FSF Fine dust filter
-Description: To maintain suction power.
-Country: Germany
-Brand: MIELE
-Release_Date: 2021-11-15T16:00:00+0000
-Rating: 0.0
-Price: $440
-
---
-Name: SF-HY60 Hygiene AirClean Filter
-Description: Capture 99.9% of household dust
-Country: Germany
-Brand: MIELE
-Release_Date: 2021-11-15T16:00:00+0000
-Rating: 0.0
-Price: $240
-
---
-Name: SBD365-3 AllTeQ Floorhead
-Description: Universal and suitable for cleaning carpets and hard floors
-Country: China
-Brand: MIELE
-Release_Date: 2021-11-15T16:00:00+0000
-Rating: 0.0
-Price: $800
-
---
-Name: PV-XL300J Stick Handy Type Vacuum Cleaner
-Description: Stick Handy Type Vacuum Cleaner
-Country: Japan
-Brand: HITACHI
-Release_Date: 2021-12-16T16:00:00+0000
-Rating: 0.0
-Price: $4,180
-
---
-Name: CordZero™ A9Komp - A9K ULTIMATE Stick Vacuum Cleaner
-Description: AEROScience™ “3-in-1” vacuuming & mopping   Kompressor™   Washable filter & cyclone, 5-step Filtration   DUAL PowerPack™   Bundled 4 Power Drive Nozzles   10-year motor warranty
-Country: Viet Nam
-Brand: LG
-Release_Date: 2021-12-12T16:00:00+0000
-Rating: 0.0
-Price: $4,680
-
---
-Name: ZB6214IGM Rapido 14.4V Handheld Vacuum Cleaner
-Description: Rapido 14.4V Handheld Vacuum Cleaner
+Name: ZB6307DB Rapido Wet & Dry Handheld Vacuum Cleaner
+Description: Rapido Wet & Dry Handheld Vacuum Cleaner
 Country: China
 Brand: ELECTROLUX
-Release_Date: 2021-12-15T16:00:00+0000
+Release_Date: 2021-07-25T16:00:00+0000
 Rating: 5.0
-Price: $679
+Price: $788
+Link: https://www.fortress.com.hk/en/product/zb6307db-rapido-wet-dry-handheld-vacuum-cleaner/p/12476701
 
 --
-Name: NE-Q11 NoMo Q11 Self Emptying Robot Vacuum
-Description: 91% Cleaning Rate   Latest AI technology for obstacle avoidance and anti-drop   Auto Sketch floor plan for setting restriction area   4000Pa Suction   Support both iOS and Android   Support Google Assistant and Amazon Alexa
-Country: China
-Brand: Neabot
-Release_Date: 2022-02-13T16:00:00+0000
-Rating: 5.0
-Price: $3,980
-
---
-Name: A9NCORE1V CordZero 3-in-1 Cordless Vacuum Cleaner
-Description: AEROScience™ “3-in-1” vacuuming & mopping   Washable filter & cyclone   5-step Filtration   Opti-Balance™   Dual Battery Pack   10-year motor warranty
-Country: Viet Nam
-Brand: LG
-Release_Date: 2021-12-12T16:00:00+0000
-Rating: 0.0
-Price: $3,080
-
---
-Name: A9NCORE1G CordZero 3-in-1 Cordless Vacuum Cleaner
-Description: AEROScience™ “3-in-1” vacuuming & mopping   Washable filter & cyclone   5-step Filtration   Opti-Balance™   Dual Battery Pack   10-year motor warranty
-Country: Viet Nam
-Brand: LG
-Release_Date: 2021-12-12T16:00:00+0000
-Rating: 5.0
-Price: $3,080
-
---
-Name: Houssen UV-C Sterilization Mites Bedding Vacuum Cleaner
-Description: Made in Korea! With authoritative certifications sterilization rate up to 99.9%, the world's first: ECO DRY SYSTEM dehumidification rate to 95.6%, making mites difficult to breed.
-Country: Korea, Republic of
-Brand: Carewin
-Release_Date: 2018-07-05T16:00:00+0000
-Rating: 4.0
-Price: $2,480
-
---
-Name: SV-8080 “Smart Vac” Powerful Intelligent Cordless Cyclonic Vacuum Cleaner
-Description: Cyclonic system with strong power Cordless design Washable dust cup Metal filter & HEPA H13 filter Digital LED display 3 speeds control & auto mode Operation: Approx.10-55mins(different speed) Charging:Approx.5hours Multi Accessories
+Name: SV-1788 "Smart Slim" Multi Cyclonic HEPA Vacuum Cleaner
+Description: Powerful cyclonic vacuum system Compact size for easy storage Washable HEPA H13 filter-filtering 99.9% fine dust Detachable and washable dust cup Accessories: floor brush, crevice nozzle, round brush, extension tube 220-240V- 50/60Hz,400W
 Country: China
 Brand: SMARTECH
 Release_Date: 2021-12-29T16:00:00+0000
 Rating: 5.0
-Price: $1,498
+Price: $498
+Link: https://www.fortress.com.hk/en/product/sv-1788-smart-slim-multi-cyclonic-hepa-vacuum-cleaner/p/12616013
 
 --
-Name: PV-XL2K Stick Handy Type Vacuum Cleaner
-Description: Stick Handy Type Vacuum Cleaner
-Country: Thailand
-Brand: HITACHI
-Release_Date: 2021-12-16T16:00:00+0000
-Rating: 5.0
-Price: $3,080
-
---
-Name: DX1000W Cord Handheld Vacuum Cleaner
-Description: High-speed Powerful Motor  3 Big Brush Heads  3-fold Filtration System  HEPA Filter
+Name: 4137/00 VAPORÌ JET Steam Gun
+Description: No corner of the house will be spared. With Ariete’s Vaporì Jet handheld steam cleaner you will manage to deep clean even the most awkward corners in your house, relying on the natural effectiveness of steam against germs and bacteria.
 Country: China
-Brand: Deerma
-Release_Date: 2021-10-31T16:00:00+0000
+Brand: Ariete
+Release_Date: 2022-02-27T16:00:00+0000
 Rating: 5.0
-Price: $588
+Price: $480
+Link: https://www.fortress.com.hk/en/product/4137-00-vaporì-jet-steam-gun/p/12630309
 
 --
-Name: VCS7P Cord Stick Vacuum Cleaner
-Description: Cord Stick Vacuum Cleaner
+Name: VCCLS1BFR Ultra-Lightweight 2-in-1 Cordless Vacuum Cleaner
+Description: Ultra-Lightweight 2-in-1 Cordless Vacuum Cleaner
 Country: China
-Brand: MIDEA
-Release_Date: 2021-05-20T16:00:00+0000
-Rating: 0.0
-Price: $519
+Brand: TOSHIBA
+Release_Date: 2022-03-30T16:00:00+0000
+Rating: 4.83
+Price: $1,510
+Link: https://www.fortress.com.hk/en/product/vccls1bfr-ultra-lightweight-2-in-1-cordless-vacuum-cleaner/p/12682272
 
 --
-Name: DCL282FWX9 18V cordless vacuum cleaner set (white) (with cyclone) (fast charge/2.0Ah)
-Description: Features: Extension wand with lock function, Dust bag, Touch button switch
+Name: MC-SB52K Tangle-Free Stick Type Vacuum Cleaner
+Description: Tangle-Free power nozzle features dual conical brushes to prevent hair tangles and its double motors allow smooth movement to the dust box / Outstanding suction power 100W/ Light weighted 1.8 kg/ Dust sensor which detect tiny dust particles
 Country: China
-Brand: Makita
-Release_Date: 2021-06-29T16:00:00+0000
-Rating: 0.0
-Price: $2,200
-
---
-Name: A9KPro CordZero™ A9Komp Cordless Vacuum Cleaner
-Description: AEROScience™   Kompressor™   Washable filter & cyclone, 5-step Filtration   DUAL PowerPack™   Bundled 2 Power Drive Nozzles   10-year motor warranty
-Country: Viet Nam
-Brand: LG
-Release_Date: 2021-12-12T16:00:00+0000
+Brand: PANASONIC
+Release_Date: 2022-07-14T16:00:00+0000
 Rating: 5.0
-Price: $2,849
+Price: $2,289
+Link: https://www.fortress.com.hk/en/product/mc-sb52k-tangle-free-stick-type-vacuum-cleaner/p/12723265
 
 --
-Name: FH50700-SAA Power Dash Carpet Cleaner
-Description: Wired Vacuum, Easily Tackles Pet Mess and Tough Stains, Two Tank System, Powerful Cleaning, Compact Design for Easy Storage
-Country: China
-Brand: HOOVER
-Release_Date: 2022-01-27T16:00:00+0000
-Rating: 5.0
-Price: $959
-
---
-Name: Scout RX3 Home Vision HD Robot Vacuum Cleaner
-Description: 3D Smart Navigation by stereo camera system and gyro sensors for mapping with reliable and systematic cleaning
-Country: Korea, Republic of
-Brand: MIELE
-Release_Date: 2022-05-31T16:00:00+0000
-Rating: 3.0
-Price: $6,388
-
---
-Name: P11 Vacuum Cleaner Robot (Anion+UV)
-Description: Korean new technology: smart vacuum cleaner + air purifier = dual-purpose machine, with patented non-curl edge brush & Catchmop patent mop for easy cleaning
-Country: Korea, Republic of
-Brand: Moneual
-Release_Date: 2022-04-05T16:00:00+0000
-Rating: 0.0
-Price: $2,280
-
---
-Name: P10 Vacuum & Mop Robot Cleaner (With UV lamp)
-Description: 5-in-1 function: vacuum, sweep ,wet mop, dry mop, ultraviolet germicidal lamp disinfection floor. With Intelligent path planning, switchable suction
-Country: China
-Brand: Moneual
-Release_Date: 2022-04-05T16:00:00+0000
-Rating: 5.0
-Price: $1,880
-
---
-Name: HX2P Triflex HX2 Pro Stick Vacuum Cleaner
+Name: HX1FLW Triflex HX1 Stick Vacuum Cleaner
 Description: Made in Germany, Miele cordless stick vacuum cleaners are ready to use in an instant.  With no cord, they offer maxmium flexibility while a high-capacity rechargeable battery means they can clean large areas without interruption.
 Country: Germany
 Brand: MIELE
 Release_Date: 2022-08-23T16:00:00+0000
 Rating: 0.0
-Price: $6,988
+Price: $3,688
+Link: https://www.fortress.com.hk/en/product/hx1flw-triflex-hx1-stick-vacuum-cleaner/p/12739339
 
 --
-Name: HX2W Triflex HX2 Stick Vacuum Cleaner
-Description: Made in Germany, Miele cordless stick vacuum cleaners are ready to use in an instant.  With no cord, they offer maxmium flexibility while a high-capacity rechargeable battery means they can clean large areas without interruption.
-Country: Germany
-Brand: MIELE
-Release_Date: 2022-08-23T16:00:00+0000
-Rating: 5.0
-Price: $4,488
-
---
-Name: HX2C Triflex Cat & Dog Stick Vacuum Cleaner
-Description: Made in Germany, Miele cordless stick vacuum cleaners are ready to use in an instant.  With no cord, they offer maxmium flexibility while a high-capacity rechargeable battery means they can clean large areas without interruption.
-Country: Germany
-Brand: MIELE
-Release_Date: 2022-08-23T16:00:00+0000
-Rating: 4.4
-Price: $5,588
-
---
-Name: WU036.9 20V Cordless Brushless Wet/Dry Vacuum
-Description: WU036.9 16000pa vacuum without damage and large suction, cyclone suction without damage structure, quickly separates dust and gas, greatly reduces the resistance caused by air circulation, and the suction is always stable
-Country: China
-Brand: Worx
-Release_Date: 2022-07-03T16:00:00+0000
-Rating: 0.0
-Price: $880
-
---
-Name: BGBS4HYGGB Series 4 ProHygienic bagged vacuum cleaner
-Description: Bosch BGBS4HYGGB, Series 4, ProHygienic bagged vacuum cleaner. Made in Germany. UltraAllergy hygienic filter   Power Control   AirFresh Dustbag   PowerProtect System.
-Country: Germany
-Brand: BOSCH
-Release_Date: 2022-07-31T16:00:00+0000
-Rating: 5.0
-Price: $1,998
-
---
-Name: V mini max 2 Handheld Vacuum Cleaner
-Description: The biggest selling point of Vmini MAX2 is that it has strong suction and small size. It has two suction modes to meet different use environments. The ordinary suction is 6500pa, and the maximum suction is increased to 12000pa.
-Country: China
-Brand: Autobot
-Release_Date: 2022-09-08T16:00:00+0000
-Rating: 5.0
-Price: $588
-
---
-Name: Disney Donald Duck Vacuum Cleaner
-Description: Wireless vacuum cleaner with big head  eyes will change w/suction  powerful suction13000Pa lightweight,can be used in private cars equipped w/HEPA filter TypeC charging large Capacity 2000mAh battery two-level operation mode 8000Pa/13000Pa
-Country: China
-Brand: I-smart
-Release_Date: 2022-11-13T16:00:00+0000
-Rating: 0.0
-Price: $998
-
---
-Name: BHR6263GL Ultra Light Vacuum Cleaner Filter
-Description: High Efficiency Filter Intercepts 0.3µm Particles
+Name: BHR5919TY Robot Vacuum-Mop 2 Pro/2 Lite Side Brush
+Description: Bristles Clean Thoroughly the Floor Gaps
 Country: China
 Brand: Mi
 Release_Date: 2022-11-29T16:00:00+0000
-Rating: 4.78
-Price: $79
+Rating: 4.33
+Price: $29
+Link: https://www.fortress.com.hk/en/product/bhr5919ty-robot-vacuum-mop-2-pro-2-lite-side-brush/p/12817051
 
 --
-Name: BHR5984TY Vacuum Cleaner G11 Extended Battery Pack
-Description: 60 mins Long Battery Life
-Country: China
-Brand: Mi
-Release_Date: 2022-11-29T16:00:00+0000
-Rating: 5.0
-Price: $699
-
---
-Name: BHR5921TY Robot Vacuum-Mop 2 Pro/2 Lite Brush Cover
-Description: Strudy Structure and Anti-Wear
+Name: BHR5920TY Robot Vacuum-Mop 2 Pro/2 Lite Brush
+Description: Bristles Made no Harms During Floor Cleaning
 Country: China
 Brand: Mi
 Release_Date: 2022-11-29T16:00:00+0000
 Rating: 5.0
 Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr5920ty-robot-vacuum-mop-2-pro-2-lite-brush/p/12817077
 
 --
-Name: HX2ACCHOLDER HX-AH Accessory Holder
-Description: Simply clips onto the Triflex tube, Compatible with all Triflex HX1 and HX2 models.
-Country: Germany
-Brand: MIELE
-Release_Date: 2022-12-15T16:00:00+0000
+Name: BHR5327TY Robot Vacuum-Mop/2 Pro+/2/2 Ultra Brush Cover
+Description: Strudy Structure and Anti-Wear
+Country: China
+Brand: Mi
+Release_Date: 2022-11-29T16:00:00+0000
 Rating: 0.0
-Price: $250
+Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr5327ty-robot-vacuum-mop-2-pro-2-2-ultra-brush-cover/p/12817114
 
 --
-Name: DEEBOT T10 Robotic Vacuum Cleaner
-Description: Advanced AIVI 3.0 Obstacle Avoidance Technology, Top-of-the-range TrueMapping 2.0 Mapping and Navigation
-Country: China
-Brand: Ecovacs
-Release_Date: 2023-01-05T16:00:00+0000
-Rating: 5.0
-Price: $3,299
-
---
-Name: VCP7 Cordless Cyclone Vacuum Cleaner
-Description: Cordless Cyclone Vacuum Cleaner
-Country: China
-Brand: MIDEA
-Release_Date: 2023-02-02T16:00:00+0000
-Rating: 0.0
-Price: $1,688
-
---
-Name: VCW40 Wet & Dry Cordless Vacuum Cleaner
-Description: Multi-functional Wet & Dry Cordless Vacuum Cleaner
-Country: China
-Brand: MIDEA
-Release_Date: 2023-01-31T16:00:00+0000
-Rating: 5.0
-Price: $2,474
-
---
-Name: SK-DT01 Multifunctional Cordless Vacuum Cleaner
-Description: SK-DT01 Multifunctional Cordless Vacuum Cleaner, Wet and dry use, Without manual Cleaning, UV lamp sterilization, more assured health and safety, noise as low as 72dB, seamless fit to the corner
-Country: China
-Brand: Senki
-Release_Date: 2022-12-13T16:00:00+0000
-Rating: 4.67
-Price: $1,980
-
---
-Name: PV-XH850M Stick Handy Type Vacuum Cleaner
-Description: Stick Handy Type Vacuum Cleaner
-Country: China
-Brand: HITACHI
-Release_Date: 2022-12-13T16:00:00+0000
-Rating: 0.0
-Price: $3,680
-
---
-Name: VCA-SAPA95/VEU BESPOKE Jet™ LI-ION 21.9V Battery
-Description: BESPOKE Jet™ LI-ION 21.9V Battery
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2023-02-16T16:00:00+0000
+Name: SE6.100 Spray Extraction Cleaner
+Description: The SE 6.100 spray extraction cleaner (Kärcher Home Line) is available in white. This spray extraction cleaner leaves textile surfaces hygienically clean. Cleaning solution is sprayed deep into the fibres under pressure and removed together with the dissolved dirt – ideal for allergy sufferers and households with pets.
+Country: Europe
+Brand: KARCHER
+Release_Date: 2013-05-15T16:00:00+0000
 Rating: 4.0
-Price: $903
+Price: $5,280
+Link: https://www.fortress.com.hk/en/product/se6.100-spray-extraction-cleaner/p/11129491
 
 --
-Name: J755800 Roomba j7+ Self-Emptying Robot Vacuum
-Description: the j7+ robot vacuum identifies and avoids obstacles like solid pet waste and charging cords to get the whole job done.You don’t have to touch dust and dirt for up to 60 days  because j7+ robot automatically empties into the Clean Base
-Country: China
-Brand: Irobot
-Release_Date: 2023-03-16T16:00:00+0000
-Rating: 5.0
-Price: $8,999
-
---
-Name: I215800 Roomba i2 Robot Vacuum
-Description: iRobot Roomba i2 messes are no match for a 3-Stage Cleaning System with Dual Multi-Surface Rubber Brushes, an Edge-Sweeping Brush, and 10x the Power-Lifting Suction.
-Country: China
-Brand: Irobot
-Release_Date: 2023-03-16T16:00:00+0000
-Rating: 5.0
-Price: $3,999
-
---
-Name: WVC21DC Cordless Wet & Dry Vacuum Cleaner
-Description: Vacuum & mop floor 2 in 1,11kPa super cyclonic suction power,Self-propell wheels pull vacuum cleaner,HEPA filter,Anion purification cleans air, Separates Dry & Wet,Cordless rechargeable, Self-cleaning roller brush with auto-dry function
-Country: China
-Brand: GERMAN POOL
-Release_Date: 2023-03-28T16:00:00+0000
-Rating: 5.0
-Price: $3,850
-
---
-Name: MKC211 Cordless UVC Anti-Mite Cleaner
-Description: 11kPa super cyclone suction power,3,000rpm roller brush beats up hidden mites,Eliminates 99.99%^,HEPA double filter design captures ,UVC sterilization lamp kills 99.9%*bacteria, 2,000mAh battery provides up to 25 minutes run time
-Country: China
-Brand: GERMAN POOL
-Release_Date: 2023-03-28T16:00:00+0000
+Name: SV7 Steam Vacuum Cleaner
+Description: The Kärcher SV 7 steam vacuum cleaner combines the advantages of steam cleaners with the power of dry vacuum cleaners. For example, it picks up crumbs, wipes wet and subsequently dries floors, all in one easy procedure. These impressive all-round devices and matching accessories can clean any home easily, conveniently, quickly and without chemicals.
+Country: Europe
+Brand: KARCHER
+Release_Date: 2015-05-12T16:00:00+0000
 Rating: 0.0
-Price: $1,330
+Price: $9,880
+Link: https://www.fortress.com.hk/en/product/sv7-steam-vacuum-cleaner/p/11374913
 
 --
-Name: DirtyKiller Dust Washer SE
-Description: DirtyKiller dust washing machine SE weighs only 1.9kg but with dust removal, dust wash & mite removal functions. The UV function can auto-detect & sterilize at once. Body adopts 2 independent water tanks which can dump the sewage easily.
+Name: TW2253 Bagged Vacuum Cleaner
+Description: Designed to provide good cleaning solutions for small-surface living spaces, Micro Space delivers all the convenience of an ultra-compact vacuum cleaner with cleaning performance you can count on.
 Country: China
-Brand: Future Lab
-Release_Date: 2023-06-30T16:00:00+0000
-Rating: 5.0
-Price: $1,499
+Brand: TEFAL
+Release_Date: 2015-07-13T16:00:00+0000
+Rating: 4.14
+Price: $668
+Link: https://www.fortress.com.hk/en/product/tw2253-bagged-vacuum-cleaner/p/11400368
 
 --
-Name: V30 Omini Cordless Double Roller Vacuum Cleaner
-Description: V30 has upgraded double-axis roller brush ensures twice as clean results. The 360° free universal control effortlessly navigates any narrow corners. Experience faster vacuuming with the ultra-high 16kPa suction power
-Country: China
-Brand: Power Living
-Release_Date: 2023-08-02T16:00:00+0000
-Rating: 0.0
-Price: $1,138
-
---
-Name: HSV-SLP-SAA Slim Cordless Vacuum
-Description: Lightweight, Dusttracker LED Headlight (Patent), High Performance Brushless Motor, Versatile Cleaning, Built-in Lithium Battery, Up to 35 Minutes Runtime (Eco Mode), With Mini Motorised Tool & 3 in 1 Tool & Long Crevice Tool, Wall Mount
-Country: China
-Brand: HOOVER
-Release_Date: 2023-08-02T16:00:00+0000
-Rating: 5.0
-Price: $1,289
-
---
-Name: BGBS2BA1GB Serie 2 ProEco Bagged Vacuum Cleaner
-Description: Bosch BGBS2BA1GB is a compact, high-performance bagged vacuum cleaner made in Germany. New innovative HiSpin Motor with aerodynamic blades and perfectly calibrated air flow for high dust pick-up.  Provides effortless and thorough cleaning.
+Name: 64146310 Vacuum Cleaner Filter
+Description: None
 Country: Germany
-Brand: BOSCH
-Release_Date: 2023-08-10T16:00:00+0000
-Rating: 0.0
-Price: $998
+Brand: KARCHER
+Release_Date: 2014-07-08T16:00:00+0000
+Rating: 5.0
+Price: $288
+Link: https://www.fortress.com.hk/en/product/64146310-vacuum-cleaner-filter/p/11269355
 
 --
-Name: SCC-WL60 Cordless Upholstery Fabric Cleaner
-Description: Efficiently cleans stains on any fabric,High pressure jet spray, penetrates fabrics to loosen dirt,7,200rpm roller brush scrubs off stubborn stains,8kPa strong suction power,echargeable design, 2,500mAh battery for up to 30 min
-Country: China
-Brand: GERMAN POOL
-Release_Date: 2023-08-10T16:00:00+0000
-Rating: 0.0
-Price: $1,880
+Name: DS6-PREMIUM Water Filter Vacuum Cleaner
+Description: Water filter ensures no filter bags in which allergenes could accumulate are required, and mite secretions are eliminated when the water is thrown out
+Country: Europe
+Brand: KARCHER
+Release_Date: 2018-08-14T16:00:00+0000
+Rating: 5.0
+Price: $4,980
+Link: https://www.fortress.com.hk/en/product/ds6-premium-water-filter-vacuum-cleaner/p/11784664
 
 --
-Name: CVC-210 Multifunctional Cordless Vacuum Cleaner
-Description: 15kPa super cyclonic suction power,Vacuum cleaner,blower & vacuum sealer all in1,HEPA double filter is washable & eco-friendly, handheld design,USB charges,2,000mAh battery provides up to 25 minutes run time,530g lightweight,storage case
+Name: VC3-PREMIUM-PLUS Bagless Vacuum Cleaner
+Description: Multi-cyclone technology produces a strong centrifugal force, dust separation & compression. 6-layer high-performance filter design, with HEPA 13 and HV filter, vacuums 99.95% of dust and particles
 Country: China
-Brand: GERMAN POOL
-Release_Date: 2023-09-16T16:00:00+0000
-Rating: 0.0
+Brand: KARCHER
+Release_Date: 2018-01-07T16:00:00+0000
+Rating: 5.0
 Price: $1,380
+Link: https://www.fortress.com.hk/en/product/vc3-premium-plus-bagless-vacuum-cleaner/p/11784672
 
 --
-Name: ZE168 PowerPro mop nozzle
-Description: PowerPro mop nozzle
-Country: China
-Brand: ELECTROLUX
-Release_Date: 2023-09-21T16:00:00+0000
-Rating: 0.0
-Price: $1,200
+Name: CV-950F/PG Commercial Use Vacuum Cleaner
+Description: Hitachi Vacuum Cleaner
+Country: Thailand
+Brand: HITACHI
+Release_Date: 2018-12-12T16:00:00+0000
+Rating: 4.56
+Price: $1,480
+Link: https://www.fortress.com.hk/en/product/cv-950f-pg-commercial-use-vacuum-cleaner/p/11827661
 
 --
-Name: EPPCS2 PowerPro cleaning station
-Description: PowerPro cleaning station
-Country: China
-Brand: ELECTROLUX
-Release_Date: 2023-09-21T16:00:00+0000
-Rating: 0.0
-Price: $580
+Name: VNZ-PM01N Power Drive MOP
+Description: Power Drive Mop, sweep and mop the floor simultaneously
+Country: Korea, Republic of
+Brand: LG
+Release_Date: 2018-12-18T16:00:00+0000
+Rating: 4.5
+Price: $1,400
+Link: https://www.fortress.com.hk/en/product/vnz-pm01n-power-drive-mop/p/11827687
 
 --
-Name: V12s Origin Submarine wet and dry vacuum cleaner
-Description: Now washes hard floors. All in one machine. Removes spills and tough stains. Capture and filter fine particles. Captures hair without tangling.
-Country: Malaysia
-Brand: DYSON
-Release_Date: 2023-09-21T16:00:00+0000
-Rating: 5.0
-Price: $5,180
-
---
-Name: NSS270 Nano Steam Sanitizer
-Description: 120-degree high-temperature nano vapor combined with negative ions clean and kill 99.99% virus, bed bugs and bacteria, Nano steam will be released with in 40s
-Country: China
-Brand: JNC
-Release_Date: 2023-11-09T16:00:00+0000
-Rating: 5.0
-Price: $998
-
---
-Name: C755800 Roomba Combo j7+ (Robot Vacuum & Mop)
-Description: Roomba Combo™ j7+ is the first truly hands-free 2-in-1 in the world. Just let it do its thing, and your carpet and hard floors get clean in a single mission – mop up to 1,000 square feet on one full tank.
-Country: China
-Brand: Irobot
-Release_Date: 2023-11-08T16:00:00+0000
-Rating: 0.0
-Price: $10,999
-
---
-Name: VCWX10 Multi-functional MOP and Vacuum Cleaner
-Description: Multi-functional Mop and Vacuum Cleaner
-Country: China
-Brand: MIDEA
-Release_Date: 2023-11-08T16:00:00+0000
-Rating: 0.0
-Price: $2,769
-
---
-Name: VCL10 2-in-1 Ultralight Cordless Vacuum Cleaner
-Description: 2-in-1 Ultralight Cordless Vacuum Cleaner
-Country: Hong Kong
-Brand: MIDEA
-Release_Date: 2023-11-08T16:00:00+0000
-Rating: 0.0
-Price: $1,299
-
---
-Name: ZQ610H Multifunctional Steam Cleaner
-Description: Equipped with 5 brushes to adapt to cleaning any surface. Equipped with 2 extension tubes to adapt the extension range. Continuous steam reaching high temperatures. Thick aluminum kettle  High resistance to the corrosion.
-Country: China
-Brand: Deerma
-Release_Date: 2023-11-09T16:00:00+0000
-Rating: 0.0
-Price: $798
-
---
-Name: 1558E SpotClean Pro
-Description: TIME FOR SPOTS & STAINS TO GO - Spots and stains come off in seconds, wherever they are. A broader brush head and larger, longer hose with slightly more power boosts the performance beyond the rest of the range.
-Country: China
-Brand: Bissell
-Release_Date: 2023-12-21T16:00:00+0000
-Rating: 0.0
-Price: $1,980
-
---
-Name: J557800 Roomba Combo j5+ (Robot Vacuum & Mop)
-Description: Swap in the Roomba Combo™ Bin and your robot instantly becomes a vacuuming and wet mopping robot—with a tank that holds enough water to mop up to 500 sq. ft. using a compatible cleaning solution or just water
-Country: China
-Brand: Irobot
-Release_Date: 2023-12-08T16:00:00+0000
-Rating: 0.0
-Price: $5,399
-
---
-Name: Triflex HX2GY125 cordless stick vacuum cleaner
-Description: Made in Germany, Miele cordless stick vacuum cleaners are ready to use in an instant.  With no cord, they offer maxmium flexibility while a high-capacity rechargeable battery means they can clean large areas without interruption.
+Name: HX FILTER Fine Dust Filter for Triflex Cordless Stick Vacuum Cleaner
+Description: MIELE Fine Dust Filter for Triflex
 Country: Germany
 Brand: MIELE
-Release_Date: 2024-01-30T16:00:00+0000
-Rating: 0.0
-Price: $3,988
+Release_Date: 2020-06-11T16:00:00+0000
+Rating: 5.0
+Price: $360
+Link: https://www.fortress.com.hk/en/product/hx-filter-fine-dust-filter-for-triflex-cordless-stick-vacuum-cleaner/p/12021431
 
 --
-Name: Compatible Replacement HEPA Filter for Dyson V12 Series SV20 Vacuum Cleaner
-Description: Replacement HEPA Filter for Dyson V12 Digital Detect Slim Fluffy Total Clean SV20 Vacuum Cleaner
+Name: SEB 23 Electro Compact Brush for Triflex Cordless Stick Vacuum Cleaner
+Description: MIELE Electro Compact Brush for Triflex
+Country: Germany
+Brand: MIELE
+Release_Date: 2020-06-11T16:00:00+0000
+Rating: 0.0
+Price: $950
+Link: https://www.fortress.com.hk/en/product/seb-23-electro-compact-brush-for-triflex-cordless-stick-vacuum-cleaner/p/12021440
+
+--
+Name: ESKW1 Replacement Filter Set for Well Q6 Cordless Stick for WQ61-1OGG/WQ61-1EDBF/WQ71-2BSWF
+Description: Washable Replacement Filter Set for Electrolux Cordless Vacuum Cleaner models WQ61-1OGG/WQ61-1EDBF/WQ71-2BSWF
+Country: China
+Brand: ELECTROLUX
+Release_Date: 2020-12-06T16:00:00+0000
+Rating: 0.0
+Price: $280
+Link: https://www.fortress.com.hk/en/product/eskw1-replacement-filter-set-for-well-q6-cordless-stick-for-wq61-1ogg-wq61-1edbf-wq71-2bswf/p/12231834
+
+--
+Name: T2520 HomeVac H11 Pure Cordless Handheld Vacuum Cleaner with Ozone Purification
+Description: reddot award 2020 winner,Cordless Handheld Vacuum Cleaner, Ozone Purification, Lightweight & compact, 5500Pa Suction Power, 2-in-1 Crevice Tool, Washable HEPA Filter, USB Charging
+Country: China
+Brand: Anker
+Release_Date: 2020-11-11T16:00:00+0000
+Rating: 4.8
+Price: $528
+Link: https://www.fortress.com.hk/en/product/t2520-homevac-h11-pure-cordless-handheld-vacuum-cleaner-with-ozone-purification/p/12241194
+
+--
+Name: BHR4774GL Vacuum Cleaner G10/G9 Extended Battery Pack
+Description: Backup Battery, Cleaning Anytime
+Country: China
+Brand: Mi
+Release_Date: 2021-01-18T16:00:00+0000
+Rating: 4.81
+Price: $499
+Link: https://www.fortress.com.hk/en/product/bhr4774gl-vacuum-cleaner-g10-g9-extended-battery-pack/p/12244723
+
+--
+Name: RV-2005 MAO Clean M7 flagship electric wet mop cordless vacuum cleaner
+Description: Bmxmao MAO Clean M7 flagship electric wet mop cordless vacuum cleaner.  It has come with luxurious 16 accessory set (remove dust mite/dual battery/pet cleaning).
+Country: China
+Brand: Bmxmao
+Release_Date: 2021-01-04T16:00:00+0000
+Rating: 3.6
+Price: $2,498
+Link: https://www.fortress.com.hk/en/product/rv-2005-mao-clean-m7-flagship-electric-wet-mop-cordless-vacuum-cleaner/p/12274463
+
+--
+Name: VX / V mini Vacuum Cleaner HEPA Filter
+Description: HEPA Filter
+Country: China
+Brand: Autobot
+Release_Date: 2021-06-17T16:00:00+0000
+Rating: 5.0
+Price: $60
+Link: https://www.fortress.com.hk/en/product/vx-v-mini-vacuum-cleaner-hepa-filter/p/12358843
+
+--
+Name: Compatible replacement 2-in-1 HEPA Filter for Dyson V10 Animal Fluffy Absolute SV12 Vacuum Cleaner
+Description: Replacement 2-in-1 HEPA Filter for Dyson V10 Animal Fluffy Absolute SV12 Cyclone Vacuum Cleaners
 Country: China
 Brand: Pureburg
 Release_Date: 2024-01-31T16:00:00+0000
 Rating: 0.0
-Price: $199
-
---
-Name: XV1631/01 Lightweight Cordless Vacuum Cleaner Washable Filter
-Description: Filter replacement compatible with Philips Cordless Vacuum 2000 & 3000 Series. Includes washable foam filter and inlet filter with frame. The foam filter can be easily washed for longer performance.
-Country: China
-Brand: PHILIPS
-Release_Date: 2024-02-29T16:00:00+0000
-Rating: 0.0
-Price: $148
-
---
-Name: FC8054 Soft Dusting Brush
-Description: None
-Country: Hungary
-Brand: PHILIPS
-Release_Date: 2012-07-12T16:00:00+0000
-Rating: 0.0
-Price: $228
-
---
-Name: KIT10A Nozzle
-Description: None
-Country: China
-Brand: ELECTROLUX
-Release_Date: 2014-11-13T16:00:00+0000
-Rating: 4.0
-Price: $350
-
---
-Name: 28602730 Vacuum Cleaner Filter
-Description: None
-Country: Germany
-Brand: KARCHER
-Release_Date: 2014-07-08T16:00:00+0000
-Rating: 5.0
-Price: $298
-
---
-Name: 69041430 Vacuum Cleaner Filter
-Description: None
-Country: Germany
-Brand: KARCHER
-Release_Date: 2014-07-08T16:00:00+0000
-Rating: 0.0
-Price: $198
-
---
-Name: 28602290 Vacuum Cleaner Filter
-Description: None
-Country: Italy
-Brand: KARCHER
-Release_Date: 2014-07-08T16:00:00+0000
-Rating: 0.0
-Price: $398
-
---
-Name: 64144980 Vacuum Cleaner Filter
-Description: None
-Country: Poland
-Brand: KARCHER
-Release_Date: 2014-07-08T16:00:00+0000
-Rating: 0.0
-Price: $138
-
---
-Name: 64148050 Vacuum Cleaner Filter
-Description: None
-Country: Germany
-Brand: KARCHER
-Release_Date: 2014-07-08T16:00:00+0000
-Rating: 0.0
-Price: $298
-
---
-Name: 69043290 Vacuum Cleaner Filter
-Description: None
-Country: Germany
-Brand: KARCHER
-Release_Date: 2014-07-08T16:00:00+0000
-Rating: 0.0
-Price: $158
-
---
-Name: VC2PREMIUM Bagless Vacuum Cleaner
-Description: 
-Country: China
-Brand: KARCHER
-Release_Date: 2017-02-23T16:00:00+0000
-Rating: 0.0
-Price: $1,280
-
---
-Name: EF129, UltraFlex fine dust filter
-Description: None
-Country: China
-Brand: ELECTROLUX
-Release_Date: 2017-04-17T16:00:00+0000
-Rating: 0.0
-Price: $180
-
---
-Name: MBC500UV082
-Description: None
-Country: China
-Brand: CANDY
-Release_Date: 2017-05-22T16:00:00+0000
-Rating: 0.0
-Price: $1,499
-
---
-Name: FC8021PK Dust Bag
-Description: s-bag® is the universal dust bag for all Philips, and Electrolux (Electrolux, AEG, Volta, Tornado) vacuum cleaners with bag. When buying replacement bags, just look for the s-bag® logo. Usage of non-original bags can damage your cleaner.
-Country: Sweden
-Brand: PHILIPS
-Release_Date: 2005-02-13T16:00:00+0000
-Rating: 4.87
-Price: $68
-
---
-Name: BBZ102TBB Nozzle
-Description: None
-Country: Germany
-Brand: BOSCH
-Release_Date: 2011-05-19T16:00:00+0000
-Rating: 5.0
-Price: $500
-
---
-Name: BBZ42TB Nozzle
-Description: None
-Country: Germany
-Brand: BOSCH
-Release_Date: 2011-05-19T16:00:00+0000
-Rating: 0.0
-Price: $400
-
---
-Name: SPD10 Nozzle
-Description: None
-Country: Germany
-Brand: MIELE
-Release_Date: 2016-12-27T16:00:00+0000
-Rating: 0.0
-Price: $250
+Price: $179
+Link: https://www.fortress.com.hk/en/product/compatible-replacement-2-in-1-hepa-filter-for-dyson-v10-animal-fluffy-absolute-sv12-vacuum-cleaner/p/13206462
 
 --
 Name: VC5 Premium Handheld Vacuum Cleaner
@@ -2093,690 +1505,47 @@ Brand: KARCHER
 Release_Date: 2017-06-05T16:00:00+0000
 Rating: 4.0
 Price: $2,380
+Link: https://www.fortress.com.hk/en/product/vc5-premium-handheld-vacuum-cleaner/p/11646536
 
 --
-Name: ZR9032 Nozzle
-Description: Engineered for tougher tasks. The motorised brush is built to effortlessly remove dust and hair from upholstery
-Country: China
-Brand: TEFAL
-Release_Date: 2017-11-27T16:00:00+0000
-Rating: 0.0
-Price: $600
-
---
-Name: ZR9033 Nozzle
-Description: Slim, extendable rubber head provides flexibility to remove dust and dirt from hard to reach corners and gaps. Perfect for cleaning spaces inside the car
-Country: China
-Brand: TEFAL
-Release_Date: 2017-12-19T16:00:00+0000
-Rating: 0.0
-Price: $420
-
---
-Name: VS2511 Stick Vacuum Cleaner
-Description: 2-in-1 Li-ion vacuum cleaner can be used in handheld or stick option with strong suction power. Cleaning up the dust is easy by simply removing the dust cup. Rotating brush helps to pick up the dust and hair quickly. Its self-standing parking with foldable handle is easy to store.
-Country: China
-Brand: WHIRLPOOL
-Release_Date: 2018-05-10T16:00:00+0000
-Rating: 4.33
-Price: $1,990
-
---
-Name: SKV4008CN, Mi Robot Vacuum Brush Cover
-Description: 1. Sealed handling &reduced damage with cushion 2. Sturdy structure&anti-winding design 3. One-hand operation, convenient to disassemble
-Country: China
-Brand: Mijia
-Release_Date: 2018-06-17T16:00:00+0000
-Rating: 0.0
-Price: $30
-
---
-Name: BHZTKIT1 Home & Car Accessory
-Description: The perfect accessory to increase versatility of Move handheld and Readyy'y 2in1 - Suitable for Bosch model BBH22451, BBH22042, BBH21631 and BBH21830L.
-Country: Hong Kong
-Brand: BOSCH
-Release_Date: 2018-07-18T16:00:00+0000
-Rating: 0.0
-Price: $498
-
---
-Name: CV-SF16/BRE Bagless Vacuum Cleaner
-Description: Hitachi Vacuum Cleaner
-Country: Thailand
-Brand: HITACHI
-Release_Date: 2018-08-09T16:00:00+0000
-Rating: 0.0
-Price: $880
-
---
-Name: CV-930F Commercial Use Vacuum Cleaner
-Description: Hitachi Vacuum Cleaner
-Country: Thailand
-Brand: HITACHI
-Release_Date: 2018-08-08T16:00:00+0000
-Rating: 4.0
-Price: $1,080
-
---
-Name: C3A-TB Bagged Vacuum Cleaner
-Description: Made in Germany, Miele vacuum cleaners are manufactured to the very highest standards and rigorous quality controls. Each Miele vacuum cleaner must pass stringent tests and is made to last for 20 years.
-Country: Germany
-Brand: MIELE
-Release_Date: 2018-11-01T16:00:00+0000
-Rating: 4.89
-Price: $4,288
-
---
-Name: C1-AR Bagged Vacuum Cleaner
-Description: Floorhead with extendable brushes
-Country: Germany
-Brand: MIELE
-Release_Date: 2018-11-01T16:00:00+0000
-Rating: 5.0
-Price: $1,688
-
---
-Name: SKV4038TY Robot Vacuum Brush Cover
-Description: Sealed handling &reduced damage with cushion；Sturdy structure&anti-winding design；One-hand operation, convenient to disassemble
-Country: China
-Brand: Mijia
-Release_Date: 2019-07-17T16:00:00+0000
-Rating: 0.0
-Price: $30
-
---
-Name: CV-940Y/PG Commercial Use Vacuum Cleaner
-Description: Hitachi Commercial Use Vacuum Cleaner
-Country: Thailand
-Brand: HITACHI
-Release_Date: 2019-08-01T16:00:00+0000
-Rating: 4.0
-Price: $1,280
-
---
-Name: SKV4039TY Robot Vacuum Corner Brush (2-pack)
-Description: Dynamic speed side brush & high cleanliness/ Wear-resistant nylon hairs, safe to use
-Country: China
-Brand: Mijia
-Release_Date: 2019-03-14T16:00:00+0000
-Rating: 5.0
-Price: $49
-
---
-Name: SKV4040TY Robot Vacuum Filter (2-pack)
-Description: One-piece molding, convenient replacement/Good seal,&zero pressure loss
-Country: China
-Brand: Mijia
-Release_Date: 2019-03-14T16:00:00+0000
-Rating: 4.83
-Price: $59
-
---
-Name: SKV4036TY Robot Vacuum Barrier Tape
-Description: Slim and lightweight magnetic strip with  high-strength/ Arbitrary cutting, random shape display
-Country: China
-Brand: Mijia
-Release_Date: 2019-03-14T16:00:00+0000
-Rating: 3.33
-Price: $30
-
---
-Name: FC3-CORDLESS-P Cordless Floor Cleaner
-Description: Non-stop cleaning with fresh water? The FC 3 Cordless with innovative self-cleaning function makes it possible – say goodbye to the conventional mop.
-Country: Europe
-Brand: KARCHER
-Release_Date: 2019-08-13T16:00:00+0000
-Rating: 0.0
-Price: $3,380
-
---
-Name: Complete C2 Marine Blue Bagged Vacuum Cleaner
-Description: Miele vacuum cleaners are manufactured to the very highest standards and rigorous quality controls. Each Miele vacuum cleaner must pass stringent tests and is made to last for 20 years.
-Country: China
-Brand: MIELE
-Release_Date: 2019-06-30T16:00:00+0000
-Rating: 5.0
-Price: $3,188
-
---
-Name: V Mini Handheld Vacuum Cleaner
-Description: The AutoBot V Mini  vacuum cleaner is equipped with the FLIPCOVER system, which can be used for one-click turning and ashing. The new fan motor integrated machine can reach a suction power of 4200 pa.
+Name: V3 Vacuum Cleaner HEPA Filter
+Description: HEPA Filter
 Country: China
 Brand: Autobot
-Release_Date: 2020-01-16T16:00:00+0000
-Rating: 4.43
-Price: $399
+Release_Date: 2021-09-16T16:00:00+0000
+Rating: 5.0
+Price: $60
+Link: https://www.fortress.com.hk/en/product/v3-vacuum-cleaner-hepa-filter/p/12488699
 
 --
-Name: Robot Vacuum-Mop 1C (SKV4092HK) Brush
-Description: Strong dust collection, suitable for various floor cleaning/ 1300 rpm high-speed operation, fine dust removal
-Country: China
-Brand: Mijia
-Release_Date: 2020-03-23T16:00:00+0000
-Rating: 4.14
-Price: $59
-
---
-Name: Robot Vacuum-Mop 1C (SKV4092HK) Waterproof Mat
-Description: ABS waterproof material is used to effectively isolate moisture/ Triple positioning hole + non-slip mat at the bottom of the board
-Country: China
-Brand: Mijia
-Release_Date: 2020-03-23T16:00:00+0000
-Rating: 4.75
-Price: $69
-
---
-Name: Robot Vacuum-Mop 1C (SKV4092HK) Brush Cover
-Description: Strong dust collection, suitable for various floor cleaning/ 1300 rpm high-speed operation, fine dust removal
-Country: China
-Brand: Mijia
-Release_Date: 2020-03-26T16:00:00+0000
-Rating: 4.33
-Price: $59
-
---
-Name: SMD10 Mattress Nozzle
-Description: SMD10 Mattress Nozzle
+Name: HX2ACCHOLDER HX-AH Accessory Holder
+Description: Simply clips onto the Triflex tube, Compatible with all Triflex HX1 and HX2 models.
 Country: Germany
 Brand: MIELE
-Release_Date: 2020-06-30T16:00:00+0000
+Release_Date: 2022-12-15T16:00:00+0000
 Rating: 0.0
-Price: $230
+Price: $250
+Link: https://www.fortress.com.hk/en/product/hx2accholder-hx-ah-accessory-holder/p/12827267
 
 --
-Name: IVD-385 UV Vacuum Cleaner
-Description: Kill and remove dust mites, working with anit-bacterial UV light
-Country: China
-Brand: IMARFLEX
-Release_Date: 2020-06-04T16:00:00+0000
-Rating: 3.5
-Price: $699
-
---
-Name: Lithium-Ion Battery for Triflex Cordless Stick Vacuum Cleaner
-Description: MIELE Lithium-Ion Battery for Triflex
-Country: Romania
-Brand: MIELE
-Release_Date: 2020-06-11T16:00:00+0000
-Rating: 5.0
-Price: $1,500
-
---
-Name: Charger Cradle for Triflex Cordless Vacuum Cleaner
-Description: MIELE Charger Cradle for Triflex
-Country: Germany
-Brand: MIELE
-Release_Date: 2020-07-09T16:00:00+0000
-Rating: 5.0
-Price: $950
-
---
-Name: IVD-100LT Rechargeable UV bed vacuum cleaner
-Description: anti-bacterial UV light, over heating protection
-Country: China
-Brand: IMARFLEX
-Release_Date: 2020-06-04T16:00:00+0000
-Rating: 4.0
-Price: $999
-
---
-Name: DC3G DEEBOT 500 Robotic Vacuum Cleaner
-Description: Get more time back in your day with the DEEBOT 500. With its accessible technology including Max Mode, an integrated 3-Stage Cleaning System, and the ability to be controlled by smart home devices, the DEEBOT 500 is ready to give your home an effortless deep clean.
+Name: DEEBOT T10 Robotic Vacuum Cleaner
+Description: Advanced AIVI 3.0 Obstacle Avoidance Technology, Top-of-the-range TrueMapping 2.0 Mapping and Navigation
 Country: China
 Brand: Ecovacs
-Release_Date: 2020-06-01T16:00:00+0000
-Rating: 4.22
-Price: $1,299
-
---
-Name: SKV4114TY Robot Vacuum-Mop P Disposable Mop Pad
-Description: Non-woven Mop Pad, One-off Usage  (30 Pieces)
-Country: China
-Brand: Mijia
-Release_Date: 2020-08-05T16:00:00+0000
-Rating: 4.67
-Price: $40
-
---
-Name: SKV4121TY Robot Vacuum-Mop P Brush Cover (Black)
-Description: Flooring freindly, High Cleaning Efficiency
-Country: China
-Brand: Mijia
-Release_Date: 2020-08-05T16:00:00+0000
+Release_Date: 2023-01-05T16:00:00+0000
 Rating: 5.0
-Price: $39
+Price: $3,299
+Link: https://www.fortress.com.hk/en/product/deebot-t10-robotic-vacuum-cleaner/p/12833077
 
 --
-Name: SKV4117TY Robot Vacuum-Mop P Side Brush (Black)
-Description: Regular Replacement, High Cleaning Efficiency
+Name: VCW40 Wet & Dry Cordless Vacuum Cleaner
+Description: Multi-functional Wet & Dry Cordless Vacuum Cleaner
 Country: China
-Brand: Mijia
-Release_Date: 2020-08-05T16:00:00+0000
+Brand: MIDEA
+Release_Date: 2023-01-31T16:00:00+0000
 Rating: 5.0
-Price: $29
-
---
-Name: SKV4119TY Robot Vacuum-Mop P Brush
-Description: Additilonal Cleaning Tool, High Cleaning Efficiency
-Country: China
-Brand: Mijia
-Release_Date: 2020-08-05T16:00:00+0000
-Rating: 5.0
-Price: $39
-
---
-Name: SKV4124TY Robot Vacuum-Mop P Water Tank
-Description: Large Capacity, Sufficient for Cleaning
-Country: China
-Brand: Mijia
-Release_Date: 2020-08-05T16:00:00+0000
-Rating: 4.33
-Price: $129
-
---
-Name: SKV4123TY Robot Vacuum-Mop P Mop Pad
-Description: Fine Fiber Mop Pad, Effective Cleaning
-Country: China
-Brand: Mijia
-Release_Date: 2020-08-05T16:00:00+0000
-Rating: 5.0
-Price: $39
-
---
-Name: BHZUC18NGB Quick Charger for Unlimited Series Vacuum Cleaner (For BCS122GB & BCS612GB)
-Description: Bosch Quick Charger for Unlimited Series Vacuum Cleaner, BCS122GB & BCS612GB. The fast one, allows for longer runtime thanks to additional fast charging option of spare batteries.
-Country: China
-Brand: BOSCH
-Release_Date: 2020-09-09T16:00:00+0000
-Rating: 0.0
-Price: $900
-
---
-Name: IVC-800 600W Stand Vacuum Cleaner
-Description: Separating Handle, Washable dust room, soundproof rollers
-Country: China
-Brand: IMARFLEX
-Release_Date: 2020-11-18T16:00:00+0000
-Rating: 5.0
-Price: $399
-
---
-Name: SV-8028 "Smart Comet" Variable speed Powerful Water Filtration Vacuum Cleaner
-Description: Capture most of the dust by water filtration system No need to use dust bag Washable accessories Air blowing and water spray function Washable HEPA filter Variable speed control Detachable large water tank 220-240V 50/60Hz,1200-1400W
-Country: China
-Brand: SMARTECH
-Release_Date: 2020-11-20T16:00:00+0000
-Rating: 4.43
-Price: $1,099
-
---
-Name: V3 Handheld Vacuum Cleaner
-Description: AutoBot V3 has suction power up to 10000 pa
-Country: China
-Brand: Autobot
-Release_Date: 2020-12-07T16:00:00+0000
-Rating: 4.5
-Price: $499
-
---
-Name: BHR4615CN Vacuum Cleaner G10 Mop Kit
-Description: Fiber Mop Harmless to Floor Water Seepage Filter Evenly Discharges Water to Prevent Side Leakage
-Country: China
-Brand: Mijia
-Release_Date: 2020-12-16T16:00:00+0000
-Rating: 4.31
-Price: $39
-
---
-Name: WQ71-2BSWF Well Q7 POWERPRO cordless vacuum cleaner
-Description: New POWERPRO nozzle – the hard floor expert nozzle removing XXL sized dirt and fine dust with superior performance. Upgraded BedPro Power nozzle with UV light. Self -standing, 5 -layer filtration
-Country: China
-Brand: ELECTROLUX
-Release_Date: 2020-12-06T16:00:00+0000
-Rating: 0.0
-Price: $3,998
-
---
-Name: SUB10 Universal brush
-Description: for cleaning of heavy duty surfaces thanks to premium synthetic bristles.
-Country: Germany
-Brand: MIELE
-Release_Date: 2020-11-26T16:00:00+0000
-Rating: 0.0
-Price: $300
-
---
-Name: B20T new generation sweeper and mop household floor cleaner
-Description: WYPE allows you to put down the mop, vacuum cleaner and sweeping robot in your hand in one second! Combine sweeping, mopping, and automatic cleaning three in one, reducing cleaning time by twice! Automatic cleaning technology.
-Country: China
-Brand: WYPE
-Release_Date: 2020-12-29T16:00:00+0000
-Rating: 5.0
-Price: $890
-
---
-Name: ZR0095 Aqua Mop for TY9471
-Description: Tefal ZR0095 Aqua Mop (for TY9471)
-Country: China
-Brand: TEFAL
-Release_Date: 2020-11-15T16:00:00+0000
-Rating: 0.0
-Price: $488
-
---
-Name: FZ-STS2M Glue Sheet for FP-JM30A
-Description: SHARP Glue Sheet FZ-STS2M For FP-JM30A (Filter Life: 2 months)
-Country: China
-Brand: SHARP
-Release_Date: 2021-02-01T16:00:00+0000
-Rating: 0.0
-Price: $300
-
---
-Name: CV-995HC/CGB 2400W Commercial Use Vacuum Cleaner
-Description: Hitachi Commercial Use Vacuum Cleaner
-Country: Thailand
-Brand: HITACHI
-Release_Date: 2021-01-05T16:00:00+0000
-Rating: 5.0
-Price: $2,380
-
---
-Name: T2501 HomeVac S11 Go Cordless Stick-Vacuum Cleaner
-Description: Cordless Stick-Vacuum Cleaner, Lightweight, Max. 120AW/20kpa Suction Power, 5-tier filtration system, Dual-Vortex Technology, up to 40 mins of cleaning time, 5 Cleaning Head, Detachable Battery
-Country: China
-Brand: Anker
-Release_Date: 2020-11-11T16:00:00+0000
-Rating: 0.0
-Price: $2,099
-
---
-Name: CV-985HC/CGB 2300W Commercial Use Vacuum Cleaner
-Description: Hitachi Commercial Use Vacuum Cleaner
-Country: Thailand
-Brand: HITACHI
-Release_Date: 2021-01-05T16:00:00+0000
-Rating: 4.17
-Price: $2,080
-
---
-Name: VCASHF90 Fine dust filter for VS20T7538T5
-Description: Fine dust filter
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2021-04-26T16:00:00+0000
-Rating: 0.0
-Price: $158
-
---
-Name: MC-RSC10 Robot Cleaner
-Description: Robot Cleaner
-Country: Japan
-Brand: PANASONIC
-Release_Date: 2021-05-04T16:00:00+0000
-Rating: 4.5
-Price: $4,400
-
---
-Name: MC-CL573 1800W Bagless Vacuum Cleaner
-Description: Bagless Vacuum Cleaner (1800W)
-Country: Malaysia
-Brand: PANASONIC
-Release_Date: 2021-05-04T16:00:00+0000
-Rating: 0.0
-Price: $1,100
-
---
-Name: 4164/01 Steam mop 10 in 1
-Description: The steamer , with the power of the high-temperature steam alone, is effective in the thorough cleaning of every corner of the house: it sanitizes floors and carpets, removes dirt and stubborn grease from hobs,
-Country: China
-Brand: Ariete
-Release_Date: 2021-04-25T16:00:00+0000
-Rating: 3.67
-Price: $680
-
---
-Name: VCASPA90 Disposable Wet Pad for VS20T7538T5
-Description: Disposable Wet Pad
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2021-04-25T16:00:00+0000
-Rating: 0.0
-Price: $120
-
---
-Name: VCASAB90 Jet Soft Action Brush for VS20T7538T5
-Description: Jet Soft Action Brush
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2021-04-25T16:00:00+0000
-Rating: 0.0
-Price: $700
-
---
-Name: VCASHF90B Fine dust filter for VS15T7033R4
-Description: Fine dust filter
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2021-04-26T16:00:00+0000
-Rating: 0.0
-Price: $158
-
---
-Name: Fine dust filter VCASHF90A for VS20T7534T1
-Description: Fine dust filter
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2021-04-26T16:00:00+0000
-Rating: 0.0
-Price: $158
-
---
-Name: VCASBT90E Vacuum Cleaner replacement Battery for VS15T7033R4
-Description: Battery
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2021-04-25T16:00:00+0000
-Rating: 0.0
-Price: $920
-
---
-Name: VCASBT90 Battery for VS20T7534T1 & VS20T7538T5
-Description: Battery
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2021-04-25T16:00:00+0000
-Rating: 0.0
-Price: $1,115
-
---
-Name: SSP 10 Dusting brush
-Description: Dusting brush with flexible swivel joint for gentle cleaning of high-quality floors
-Country: Germany
-Brand: MIELE
-Release_Date: 2021-06-10T16:00:00+0000
-Rating: 0.0
-Price: $210
-
---
-Name: FBA4099TY Handheld Vacuum Cleaner Docking Station
-Description: One-handed operation, easy to pick and put /Multiple brush head storage, beautiful and neat and convenient/charging and storage in one
-Country: China
-Brand: Mijia
-Release_Date: 2019-07-08T16:00:00+0000
-Rating: 5.0
-Price: $119
-
---
-Name: GF3039 X-Combo Vacuum Mop
-Description: aerospin technology robust scrubbing up to 300x  per minute, , 215W power, boost trigger, 21.6V li-ion battery, 110 minutes autonomy (wet mopping mode), 3 cleaning modes (vacuuming, wet mopping and 2-in-1 cleaning),
-Country: China
-Brand: TEFAL
-Release_Date: 2023-05-14T16:00:00+0000
-Rating: 0.0
-Price: $3,388
-
---
-Name: RCM-F51WB Cordless Electric Spray Mop
-Description: Rasonic Cordless Electric Spray Mop
-Country: China
-Brand: RASONIC
-Release_Date: 2023-07-13T16:00:00+0000
-Rating: 5.0
-Price: $798
-
---
-Name: XV1793/01 AquaTrio 3-in-1 Replacement Brushes
-Description: Compatible with Philips AquaTrio Cordless Wet & Dry Vacuum 7000 Series range
-Country: China
-Brand: PHILIPS
-Release_Date: 2023-09-06T16:00:00+0000
-Rating: 0.0
-Price: $298
-
---
-Name: PV-XL300K Stick Handy Type Vacuum Cleaner
-Description: Stick Handy Type Vacuum Cleaner
-Country: Japan
-Brand: HITACHI
-Release_Date: 2024-03-26T16:00:00+0000
-Rating: 0.0
-Price: $4,380
-
---
-Name: VS20B95993B BESPOKE Jet™ Plus Elite Extra Cordless Stick Vacuum Cleaner - Midnight Blue
-Description: 210w suction power, an easy way of emptying and charging the vacuum. An All-in-one Clean Station™ empties the dustbin with "Air Pulse" technology. Traps 99.999% fine dust and an anti-bacterial dust bag inhibits 99.9% of bacterial growth.
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2024-05-07T16:00:00+0000
-Rating: 0.0
-Price: $6,990
-
---
-Name: VS20B95843W/SH BESPOKE Jet Plus Complete Cordless Stick Vacuum Cleaner - Misty White
-Description: 210w suction power, an easy way of emptying and charging the vacuum. An All-in-one Clean Station™ empties the dustbin with "Air Pulse" technology. Traps 99.999% fine dust and an anti-bacterial dust bag inhibits 99.9% of bacterial growth.
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2024-05-09T16:00:00+0000
-Rating: 0.0
-Price: $5,590
-
---
-Name: TY9890 X-Force Flex 11.60 Vacuum Cleaner
-Description: Digital force motor, 130 Air Watts, Flex tube, 180° suction head with LED light, 3 modes (Eco, Max, Boost), 45 minutes autonomy, Stop & Go position, Aqua head, control display, battery indicator, 99.9% filtration, dust container 0.9L
-Country: China
-Brand: TEFAL
-Release_Date: 2022-03-31T16:00:00+0000
-Rating: 5.0
-Price: $3,388
-
---
-Name: JHA-UVC-MUV3-BU 3-in-1 Dust mite UV vacuum cleaner
-Description: UV ultraviolet disinfection to kill bacteria, viruses, microorganisms and dust mites up to 99.9%. UV light equipped with sensor can avoid eye damage. Suitable for bed school, comb, pillow, curtain and puppets. With washable HEPA filter.
-Country: China
-Brand: JNC
-Release_Date: 2020-06-28T16:00:00+0000
-Rating: 0.0
-Price: $718
-
---
-Name: Complete C3 Cat & Dog Vacuum Cleaner
-Description: Cylinder vacuum cleaner<BR>With turbobrush and odour filter/ ideal for pet lovers.
-Country: Germany
-Brand: MIELE
-Release_Date: 2018-12-27T16:00:00+0000
-Rating: 4.69
-Price: $3,388
-
---
-Name: TY1238 XTREM Compact 2 in 1Cordless Vacuum Cleaner
-Description: Innovative 2-in-1 cordless vacuum cleaner,  Bi-directional Flex Technology, LED motorized brush head, lightweight design,  40 minutes autonomy (Eco handheld mode),  2 automatic speed suction mode, filtration up to 99%, cyclonic system
-Country: China
-Brand: TEFAL
-Release_Date: 2023-08-10T16:00:00+0000
-Rating: 0.0
-Price: $1,638
-
---
-Name: BCS611P4A Unlimited S6 Rechargeable vacuum cleaner
-Description: Outstanding Performance: Effective cleaning: AllFloor Power brush and compact DigitalSpin Motor let you clean on all kinds of floors. Made in Germany: high quality standards and thorough testing for enduring satisfaction.
-Country: Germany
-Brand: BOSCH
-Release_Date: 2021-01-14T16:00:00+0000
-Rating: 4.5
-Price: $2,598
-
---
-Name: CX1-G Boost Bagless Vacuum Cleaner (Graphite Grey)
-Description: The new bagless cylinder vacuum cleaner, Miele Boost CX1, equipped with Vortex Technology ensures powerful cleaning performance.  Enjoy easy handling with the new TrackDrive and Compact Design.  Quality tested for 20 years of usage.
-Country: China
-Brand: MIELE
-Release_Date: 2021-09-30T16:00:00+0000
-Rating: 4.75
-Price: $2,988
-
---
-Name: DouflexHX1R Cordless Stick Vacuum Cleaner
-Description: The powerful clean for any moment. Suits your spontaneous life.
-Country: China
-Brand: MIELE
-Release_Date: 2024-05-07T16:00:00+0000
-Rating: 0.0
-Price: $3,088
-
---
-Name: EC-SC75H-H Cordless Vacuum Cleaner
-Description: SHARP EC-SC75H-H Cordless Vacuum Cleaner
-Country: China
-Brand: SHARP
-Release_Date: 2023-09-28T16:00:00+0000
-Rating: 3.33
-Price: $1,180
-
---
-Name: GVC100BK STICK / HANDHELD RECHARGEABLE VACUUM CLEANER
-Description: GEMINI STICK / HANDHELD RECHARGEABLE VACUUM CLEANER
-Country: China
-Brand: GEMINI
-Release_Date: 2023-11-08T16:00:00+0000
-Rating: 0.0
-Price: $519
-
---
-Name: K10+ Mini Robot Vacuum
-Description: SwitchBot mini robot vacuum K10+ is compact and offers a 50% smaller size than traditional vacuums, enabling easy maneuvering into room corners and under tables.
-Country: China
-Brand: SwitchBot
-Release_Date: 2024-01-18T16:00:00+0000
-Rating: 0.0
-Price: $2,398
-
---
-Name: DEEBOT T20 OMNI Robotic Vacuum Cleaner
-Description: A New Generation of All-in-One DEEBOT with Hot-water Mop Washing
-Country: China
-Brand: Ecovacs
-Release_Date: 2023-05-31T16:00:00+0000
-Rating: 4.71
-Price: $5,799
-
---
-Name: DuoflexHX1TC cordless stick vacuum cleaner
-Description: The powerful clean for any moment. Suits your spontaneous life.  So stylish!  So powerful! So compact and flexible!
-Country: China
-Brand: MIELE
-Release_Date: 2024-05-07T16:00:00+0000
-Rating: 0.0
-Price: $4,588
-
---
-Name: DuoflexHX1B cordless stick vacuum cleaner
-Description: The powerful clean for any moment. Suits your spontaneous life.
-Country: China
-Brand: MIELE
-Release_Date: 2024-05-07T16:00:00+0000
-Rating: 0.0
-Price: $3,288
+Price: $2,474
+Link: https://www.fortress.com.hk/en/product/vcw40-wet-dry-cordless-vacuum-cleaner/p/12838556
 
 --
 Name: MC22 Cordless Vacuum Cleaner
@@ -2786,15 +1555,227 @@ Brand: Machino
 Release_Date: 2023-02-19T16:00:00+0000
 Rating: 4.57
 Price: $1,580
+Link: https://www.fortress.com.hk/en/product/mc22-cordless-vacuum-cleaner/p/12842660
 
 --
-Name: DuoflexHX1C&D cordless stick vacuum cleaner
-Description: The powerful clean for any moment.  Suits your spontaneous life.  Flexible operation creates a comfortable pet home.
+Name: SK-DT01 Multifunctional Cordless Vacuum Cleaner
+Description: SK-DT01 Multifunctional Cordless Vacuum Cleaner, Wet and dry use, Without manual Cleaning, UV lamp sterilization, more assured health and safety, noise as low as 72dB, seamless fit to the corner
 Country: China
-Brand: MIELE
-Release_Date: 2024-05-07T16:00:00+0000
+Brand: Senki
+Release_Date: 2022-12-13T16:00:00+0000
+Rating: 4.67
+Price: $1,980
+Link: https://www.fortress.com.hk/en/product/sk-dt01-multifunctional-cordless-vacuum-cleaner/p/12823936
+
+--
+Name: PV-XH850M Stick Handy Type Vacuum Cleaner
+Description: Stick Handy Type Vacuum Cleaner
+Country: China
+Brand: HITACHI
+Release_Date: 2022-12-13T16:00:00+0000
 Rating: 0.0
-Price: $3,888
+Price: $3,680
+Link: https://www.fortress.com.hk/en/product/pv-xh850m-stick-handy-type-vacuum-cleaner/p/12823952
+
+--
+Name: VCA-SAPA95/VEU BESPOKE Jet™ LI-ION 21.9V Battery
+Description: BESPOKE Jet™ LI-ION 21.9V Battery
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2023-02-16T16:00:00+0000
+Rating: 4.0
+Price: $903
+Link: https://www.fortress.com.hk/en/product/vca-sapa95-veu-bespoke-jet™-li-ion-21.9v-battery/p/12894427
+
+--
+Name: WVC21DC Cordless Wet & Dry Vacuum Cleaner
+Description: Vacuum & mop floor 2 in 1,11kPa super cyclonic suction power,Self-propell wheels pull vacuum cleaner,HEPA filter,Anion purification cleans air, Separates Dry & Wet,Cordless rechargeable, Self-cleaning roller brush with auto-dry function
+Country: China
+Brand: GERMAN POOL
+Release_Date: 2023-03-28T16:00:00+0000
+Rating: 5.0
+Price: $3,850
+Link: https://www.fortress.com.hk/en/product/wvc21dc-cordless-wet-dry-vacuum-cleaner/p/12974507
+
+--
+Name: J755800 Roomba j7+ Self-Emptying Robot Vacuum
+Description: the j7+ robot vacuum identifies and avoids obstacles like solid pet waste and charging cords to get the whole job done.You don’t have to touch dust and dirt for up to 60 days  because j7+ robot automatically empties into the Clean Base
+Country: China
+Brand: Irobot
+Release_Date: 2023-03-16T16:00:00+0000
+Rating: 5.0
+Price: $8,999
+Link: https://www.fortress.com.hk/en/product/j755800-roomba-j7-self-emptying-robot-vacuum/p/12960615
+
+--
+Name: I215800 Roomba i2 Robot Vacuum
+Description: iRobot Roomba i2 messes are no match for a 3-Stage Cleaning System with Dual Multi-Surface Rubber Brushes, an Edge-Sweeping Brush, and 10x the Power-Lifting Suction.
+Country: China
+Brand: Irobot
+Release_Date: 2023-03-16T16:00:00+0000
+Rating: 5.0
+Price: $3,999
+Link: https://www.fortress.com.hk/en/product/i215800-roomba-i2-robot-vacuum/p/12960623
+
+--
+Name: MKC211 Cordless UVC Anti-Mite Cleaner
+Description: 11kPa super cyclone suction power,3,000rpm roller brush beats up hidden mites,Eliminates 99.99%^,HEPA double filter design captures ,UVC sterilization lamp kills 99.9%*bacteria, 2,000mAh battery provides up to 25 minutes run time
+Country: China
+Brand: GERMAN POOL
+Release_Date: 2023-03-28T16:00:00+0000
+Rating: 0.0
+Price: $1,330
+Link: https://www.fortress.com.hk/en/product/mkc211-cordless-uvc-anti-mite-cleaner/p/12975198
+
+--
+Name: GF3039 X-Combo Vacuum Mop
+Description: aerospin technology robust scrubbing up to 300x  per minute, , 215W power, boost trigger, 21.6V li-ion battery, 110 minutes autonomy (wet mopping mode), 3 cleaning modes (vacuuming, wet mopping and 2-in-1 cleaning),
+Country: China
+Brand: TEFAL
+Release_Date: 2023-05-14T16:00:00+0000
+Rating: 0.0
+Price: $3,388
+Link: https://www.fortress.com.hk/en/product/gf3039-x-combo-vacuum-mop/p/12996167
+
+--
+Name: DEEBOT T20 OMNI Robotic Vacuum Cleaner
+Description: A New Generation of All-in-One DEEBOT with Hot-water Mop Washing
+Country: China
+Brand: Ecovacs
+Release_Date: 2023-05-31T16:00:00+0000
+Rating: 4.71
+Price: $5,799
+Link: https://www.fortress.com.hk/en/product/deebot-t20-omni-robotic-vacuum-cleaner/p/13007181
+
+--
+Name: DirtyKiller Dust Washer SE
+Description: DirtyKiller dust washing machine SE weighs only 1.9kg but with dust removal, dust wash & mite removal functions. The UV function can auto-detect & sterilize at once. Body adopts 2 independent water tanks which can dump the sewage easily.
+Country: China
+Brand: Future Lab
+Release_Date: 2023-06-30T16:00:00+0000
+Rating: 5.0
+Price: $1,499
+Link: https://www.fortress.com.hk/en/product/dirtykiller-dust-washer-se/p/13017725
+
+--
+Name: RCM-F51WB Cordless Electric Spray Mop
+Description: Rasonic Cordless Electric Spray Mop
+Country: China
+Brand: RASONIC
+Release_Date: 2023-07-13T16:00:00+0000
+Rating: 5.0
+Price: $798
+Link: https://www.fortress.com.hk/en/product/rcm-f51wb-cordless-electric-spray-mop/p/13036774
+
+--
+Name: V30 Omini Cordless Double Roller Vacuum Cleaner
+Description: V30 has upgraded double-axis roller brush ensures twice as clean results. The 360° free universal control effortlessly navigates any narrow corners. Experience faster vacuuming with the ultra-high 16kPa suction power
+Country: China
+Brand: Power Living
+Release_Date: 2023-08-02T16:00:00+0000
+Rating: 0.0
+Price: $1,138
+Link: https://www.fortress.com.hk/en/product/v30-omini-cordless-double-roller-vacuum-cleaner/p/13042429
+
+--
+Name: HSV-SLP-SAA Slim Cordless Vacuum
+Description: Lightweight, Dusttracker LED Headlight (Patent), High Performance Brushless Motor, Versatile Cleaning, Built-in Lithium Battery, Up to 35 Minutes Runtime (Eco Mode), With Mini Motorised Tool & 3 in 1 Tool & Long Crevice Tool, Wall Mount
+Country: China
+Brand: HOOVER
+Release_Date: 2023-08-02T16:00:00+0000
+Rating: 5.0
+Price: $1,289
+Link: https://www.fortress.com.hk/en/product/hsv-slp-saa-slim-cordless-vacuum/p/13042437
+
+--
+Name: BGBS2BA1GB Serie 2 ProEco Bagged Vacuum Cleaner
+Description: Bosch BGBS2BA1GB is a compact, high-performance bagged vacuum cleaner made in Germany. New innovative HiSpin Motor with aerodynamic blades and perfectly calibrated air flow for high dust pick-up.  Provides effortless and thorough cleaning.
+Country: Germany
+Brand: BOSCH
+Release_Date: 2023-08-10T16:00:00+0000
+Rating: 0.0
+Price: $998
+Link: https://www.fortress.com.hk/en/product/bgbs2ba1gb-serie-2-proeco-bagged-vacuum-cleaner/p/13042445
+
+--
+Name: SCC-WL60 Cordless Upholstery Fabric Cleaner
+Description: Efficiently cleans stains on any fabric,High pressure jet spray, penetrates fabrics to loosen dirt,7,200rpm roller brush scrubs off stubborn stains,8kPa strong suction power,echargeable design, 2,500mAh battery for up to 30 min
+Country: China
+Brand: GERMAN POOL
+Release_Date: 2023-08-10T16:00:00+0000
+Rating: 0.0
+Price: $1,880
+Link: https://www.fortress.com.hk/en/product/scc-wl60-cordless-upholstery-fabric-cleaner/p/13042605
+
+--
+Name: TY1238 XTREM Compact 2 in 1Cordless Vacuum Cleaner
+Description: Innovative 2-in-1 cordless vacuum cleaner,  Bi-directional Flex Technology, LED motorized brush head, lightweight design,  40 minutes autonomy (Eco handheld mode),  2 automatic speed suction mode, filtration up to 99%, cyclonic system
+Country: China
+Brand: TEFAL
+Release_Date: 2023-08-10T16:00:00+0000
+Rating: 0.0
+Price: $1,638
+Link: https://www.fortress.com.hk/en/product/ty1238-xtrem-compact-2-in-1cordless-vacuum-cleaner/p/13042613
+
+--
+Name: CVC-210 Multifunctional Cordless Vacuum Cleaner
+Description: 15kPa super cyclonic suction power,Vacuum cleaner,blower & vacuum sealer all in1,HEPA double filter is washable & eco-friendly, handheld design,USB charges,2,000mAh battery provides up to 25 minutes run time,530g lightweight,storage case
+Country: China
+Brand: GERMAN POOL
+Release_Date: 2023-09-16T16:00:00+0000
+Rating: 0.0
+Price: $1,380
+Link: https://www.fortress.com.hk/en/product/cvc-210-multifunctional-cordless-vacuum-cleaner/p/13106251
+
+--
+Name: ZE168 PowerPro mop nozzle
+Description: PowerPro mop nozzle
+Country: China
+Brand: ELECTROLUX
+Release_Date: 2023-09-21T16:00:00+0000
+Rating: 0.0
+Price: $1,200
+Link: https://www.fortress.com.hk/en/product/ze168-powerpro-mop-nozzle/p/13107317
+
+--
+Name: EPPCS2 PowerPro cleaning station
+Description: PowerPro cleaning station
+Country: China
+Brand: ELECTROLUX
+Release_Date: 2023-09-21T16:00:00+0000
+Rating: 0.0
+Price: $580
+Link: https://www.fortress.com.hk/en/product/eppcs2-powerpro-cleaning-station/p/13107325
+
+--
+Name: V12s Origin Submarine wet and dry vacuum cleaner
+Description: Now washes hard floors. All in one machine. Removes spills and tough stains. Capture and filter fine particles. Captures hair without tangling.
+Country: Malaysia
+Brand: DYSON
+Release_Date: 2023-09-21T16:00:00+0000
+Rating: 5.0
+Price: $5,680
+Link: https://www.fortress.com.hk/en/product/v12s-origin-submarine-wet-and-dry-vacuum-cleaner/p/13107966
+
+--
+Name: XV1793/01 AquaTrio 3-in-1 Replacement Brushes
+Description: Compatible with Philips AquaTrio Cordless Wet & Dry Vacuum 7000 Series range
+Country: China
+Brand: PHILIPS
+Release_Date: 2023-09-06T16:00:00+0000
+Rating: 0.0
+Price: $298
+Link: https://www.fortress.com.hk/en/product/xv1793-01-aquatrio-3-in-1-replacement-brushes/p/13106234
+
+--
+Name: EC-SC75H-H Cordless Vacuum Cleaner
+Description: SHARP EC-SC75H-H Cordless Vacuum Cleaner
+Country: China
+Brand: SHARP
+Release_Date: 2023-09-28T16:00:00+0000
+Rating: 3.33
+Price: $1,180
+Link: https://www.fortress.com.hk/en/product/ec-sc75h-h-cordless-vacuum-cleaner/p/13111480
 
 --
 Name: YS1010 Multi-purpose dry and wet washing whole house off-the-floor cleaning machine Pro+
@@ -2804,6 +1785,1327 @@ Brand: Double Clean
 Release_Date: 2023-10-13T16:00:00+0000
 Rating: 5.0
 Price: $1,499
+Link: https://www.fortress.com.hk/en/product/ys1010-multi-purpose-dry-and-wet-washing-whole-house-off-the-floor-cleaning-machine-pro/p/13117793
+
+--
+Name: ZQ610H Multifunctional Steam Cleaner
+Description: Equipped with 5 brushes to adapt to cleaning any surface. Equipped with 2 extension tubes to adapt the extension range. Continuous steam reaching high temperatures. Thick aluminum kettle  High resistance to the corrosion.
+Country: China
+Brand: Deerma
+Release_Date: 2023-11-09T16:00:00+0000
+Rating: 0.0
+Price: $798
+Link: https://www.fortress.com.hk/en/product/zq610h-multifunctional-steam-cleaner/p/13140846
+
+--
+Name: NSS270 Nano Steam Sanitizer
+Description: 120-degree high-temperature nano vapor combined with negative ions clean and kill 99.99% virus, bed bugs and bacteria, Nano steam will be released with in 40s
+Country: China
+Brand: JNC
+Release_Date: 2023-11-09T16:00:00+0000
+Rating: 5.0
+Price: $998
+Link: https://www.fortress.com.hk/en/product/nss270-nano-steam-sanitizer/p/13141401
+
+--
+Name: C755800 Roomba Combo j7+ (Robot Vacuum & Mop)
+Description: Roomba Combo™ j7+ is the first truly hands-free 2-in-1 in the world. Just let it do its thing, and your carpet and hard floors get clean in a single mission – mop up to 1,000 square feet on one full tank.
+Country: China
+Brand: Irobot
+Release_Date: 2023-11-08T16:00:00+0000
+Rating: 0.0
+Price: $10,999
+Link: https://www.fortress.com.hk/en/product/c755800-roomba-combo-j7-robot-vacuum-mop/p/13138367
+
+--
+Name: GVC100BK STICK / HANDHELD RECHARGEABLE VACUUM CLEANER
+Description: GEMINI STICK / HANDHELD RECHARGEABLE VACUUM CLEANER
+Country: China
+Brand: GEMINI
+Release_Date: 2023-11-08T16:00:00+0000
+Rating: 0.0
+Price: $519
+Link: https://www.fortress.com.hk/en/product/gvc100bk-stick-handheld-rechargeable-vacuum-cleaner/p/13138404
+
+--
+Name: VCWX10 Multi-functional MOP and Vacuum Cleaner
+Description: Multi-functional Mop and Vacuum Cleaner
+Country: China
+Brand: MIDEA
+Release_Date: 2023-11-08T16:00:00+0000
+Rating: 0.0
+Price: $2,769
+Link: https://www.fortress.com.hk/en/product/vcwx10-multi-functional-mop-and-vacuum-cleaner/p/13138421
+
+--
+Name: VCL10 2-in-1 Ultralight Cordless Vacuum Cleaner
+Description: 2-in-1 Ultralight Cordless Vacuum Cleaner
+Country: Hong Kong
+Brand: MIDEA
+Release_Date: 2023-11-08T16:00:00+0000
+Rating: 0.0
+Price: $1,299
+Link: https://www.fortress.com.hk/en/product/vcl10-2-in-1-ultralight-cordless-vacuum-cleaner/p/13138501
+
+--
+Name: 1558E SpotClean Pro
+Description: TIME FOR SPOTS & STAINS TO GO - Spots and stains come off in seconds, wherever they are. A broader brush head and larger, longer hose with slightly more power boosts the performance beyond the rest of the range.
+Country: China
+Brand: Bissell
+Release_Date: 2023-12-21T16:00:00+0000
+Rating: 0.0
+Price: $1,980
+Link: https://www.fortress.com.hk/en/product/1558e-spotclean-pro/p/13169690
+
+--
+Name: J557800 Roomba Combo j5+ (Robot Vacuum & Mop)
+Description: Swap in the Roomba Combo™ Bin and your robot instantly becomes a vacuuming and wet mopping robot—with a tank that holds enough water to mop up to 500 sq. ft. using a compatible cleaning solution or just water
+Country: China
+Brand: Irobot
+Release_Date: 2023-12-08T16:00:00+0000
+Rating: 0.0
+Price: $5,399
+Link: https://www.fortress.com.hk/en/product/j557800-roomba-combo-j5-robot-vacuum-mop/p/13164485
+
+--
+Name: Triflex HX2GY125 cordless stick vacuum cleaner
+Description: Made in Germany, Miele cordless stick vacuum cleaners are ready to use in an instant.  With no cord, they offer maxmium flexibility while a high-capacity rechargeable battery means they can clean large areas without interruption.
+Country: Germany
+Brand: MIELE
+Release_Date: 2024-01-30T16:00:00+0000
+Rating: 0.0
+Price: $3,988
+Link: https://www.fortress.com.hk/en/product/triflex-hx2gy125-cordless-stick-vacuum-cleaner/p/13194967
+
+--
+Name: K10+ Mini Robot Vacuum
+Description: SwitchBot mini robot vacuum K10+ is compact and offers a 50% smaller size than traditional vacuums, enabling easy maneuvering into room corners and under tables.
+Country: China
+Brand: SwitchBot
+Release_Date: 2024-01-18T16:00:00+0000
+Rating: 0.0
+Price: $2,398
+Link: https://www.fortress.com.hk/en/product/k10-mini-robot-vacuum/p/13204328
+
+--
+Name: SKV4040TY Robot Vacuum Filter (2-pack)
+Description: One-piece molding, convenient replacement/Good seal,&zero pressure loss
+Country: China
+Brand: Mijia
+Release_Date: 2019-03-14T16:00:00+0000
+Rating: 4.83
+Price: $59
+Link: https://www.fortress.com.hk/en/product/skv4040ty-robot-vacuum-filter-2-pack/p/11849931
+
+--
+Name: SKV4038TY Robot Vacuum Brush Cover
+Description: Sealed handling &reduced damage with cushion；Sturdy structure&anti-winding design；One-hand operation, convenient to disassemble
+Country: China
+Brand: Mijia
+Release_Date: 2019-07-17T16:00:00+0000
+Rating: 0.0
+Price: $30
+Link: https://www.fortress.com.hk/en/product/skv4038ty-robot-vacuum-brush-cover/p/11898098
+
+--
+Name: CV-940Y/PG Commercial Use Vacuum Cleaner
+Description: Hitachi Commercial Use Vacuum Cleaner
+Country: Thailand
+Brand: HITACHI
+Release_Date: 2019-08-01T16:00:00+0000
+Rating: 4.0
+Price: $1,280
+Link: https://www.fortress.com.hk/en/product/cv-940y-pg-commercial-use-vacuum-cleaner/p/11901470
+
+--
+Name: FBA4099TY Handheld Vacuum Cleaner Docking Station
+Description: One-handed operation, easy to pick and put /Multiple brush head storage, beautiful and neat and convenient/charging and storage in one
+Country: China
+Brand: Mijia
+Release_Date: 2019-07-08T16:00:00+0000
+Rating: 5.0
+Price: $119
+Link: https://www.fortress.com.hk/en/product/fba4099ty-handheld-vacuum-cleaner-docking-station/p/11886311
+
+--
+Name: SMD10 Mattress Nozzle
+Description: SMD10 Mattress Nozzle
+Country: Germany
+Brand: MIELE
+Release_Date: 2020-06-30T16:00:00+0000
+Rating: 0.0
+Price: $230
+Link: https://www.fortress.com.hk/en/product/smd10-mattress-nozzle/p/12045863
+
+--
+Name: BHZUC18NGB Quick Charger for Unlimited Series Vacuum Cleaner (For BCS122GB & BCS612GB)
+Description: Bosch Quick Charger for Unlimited Series Vacuum Cleaner, BCS122GB & BCS612GB. The fast one, allows for longer runtime thanks to additional fast charging option of spare batteries.
+Country: China
+Brand: BOSCH
+Release_Date: 2020-09-09T16:00:00+0000
+Rating: 0.0
+Price: $900
+Link: https://www.fortress.com.hk/en/product/bhzuc18ngb-quick-charger-for-unlimited-series-vacuum-cleaner-for-bcs122gb-bcs612gb/p/12087810
+
+--
+Name: V3 Handheld Vacuum Cleaner
+Description: AutoBot V3 has suction power up to 10000 pa
+Country: China
+Brand: Autobot
+Release_Date: 2020-12-07T16:00:00+0000
+Rating: 4.5
+Price: $499
+Link: https://www.fortress.com.hk/en/product/v3-handheld-vacuum-cleaner/p/12228230
+
+--
+Name: SPD 20 Wide upholstery nozzle
+Description: For easy, quick and thorough cleaning of upholstered furniture.
+Country: Germany
+Brand: MIELE
+Release_Date: 2021-07-04T16:00:00+0000
+Rating: 0.0
+Price: $280
+Link: https://www.fortress.com.hk/en/product/spd-20-wide-upholstery-nozzle/p/12461197
+
+--
+Name: AC66 UV sterilization electric wet mop head compatible with Dyson V6 series Cordless Vacuum Cleaner
+Description: Anewpow AC66 (compatible with Dyson V6 series) UV sterilization electric wet mop head, can remove stains, dust and bacteria at the same time, UV ultraviolet can kill bacteria on the ground.
+Country: China
+Brand: Anewpow
+Release_Date: 2021-06-21T16:00:00+0000
+Rating: 0.0
+Price: $798
+Link: https://www.fortress.com.hk/en/product/ac66-uv-sterilization-electric-wet-mop-head-compatible-with-dyson-v6-series-cordless-vacuum-cleaner/p/12463723
+
+--
+Name: CX1C-OB Boost CX1 Bagless Vacuum Cleaner (Cat&Dog)
+Description: The new bagless cylinder vacuum cleaner, Miele Boost CX1, equipped with Vortex Technology ensures powerful cleaning performance.  Enjoy easy handling with the new TrackDrive and Compact Design.  Quality tested for 20 years of usage.
+Country: China
+Brand: MIELE
+Release_Date: 2021-10-05T16:00:00+0000
+Rating: 5.0
+Price: $4,088
+Link: https://www.fortress.com.hk/en/product/cx1c-ob-boost-cx1-bagless-vacuum-cleaner-cat-dog/p/12511289
+
+--
+Name: CX1-W Boost CX1 Bagless Vacuum Cleaner (White)
+Description: The new bagless cylinder vacuum cleaner, Miele Boost CX1, equipped with Vortex Technology ensures powerful cleaning performance.  Enjoy easy handling with the new TrackDrive and Compact Design.  Quality tested for 20 years of usage.
+Country: China
+Brand: MIELE
+Release_Date: 2021-10-05T16:00:00+0000
+Rating: 0.0
+Price: $4,188
+Link: https://www.fortress.com.hk/en/product/cx1-w-boost-cx1-bagless-vacuum-cleaner-white/p/12511318
+
+--
+Name: SF-HA60 HEPA AirClean Filter
+Description: safely traps fine dust and allergens.
+Country: Germany
+Brand: MIELE
+Release_Date: 2021-11-15T16:00:00+0000
+Rating: 0.0
+Price: $380
+Link: https://www.fortress.com.hk/en/product/sf-ha60-hepa-airclean-filter/p/12563100
+
+--
+Name: CX-FSF Fine dust filter
+Description: To maintain suction power.
+Country: Germany
+Brand: MIELE
+Release_Date: 2021-11-15T16:00:00+0000
+Rating: 0.0
+Price: $440
+Link: https://www.fortress.com.hk/en/product/cx-fsf-fine-dust-filter/p/12563118
+
+--
+Name: SF-HY60 Hygiene AirClean Filter
+Description: Capture 99.9% of household dust
+Country: Germany
+Brand: MIELE
+Release_Date: 2021-11-15T16:00:00+0000
+Rating: 0.0
+Price: $240
+Link: https://www.fortress.com.hk/en/product/sf-hy60-hygiene-airclean-filter/p/12563126
+
+--
+Name: SBD365-3 AllTeQ Floorhead
+Description: Universal and suitable for cleaning carpets and hard floors
+Country: China
+Brand: MIELE
+Release_Date: 2021-11-15T16:00:00+0000
+Rating: 0.0
+Price: $800
+Link: https://www.fortress.com.hk/en/product/sbd365-3-allteq-floorhead/p/12563134
+
+--
+Name: PV-XL300J Stick Handy Type Vacuum Cleaner
+Description: Stick Handy Type Vacuum Cleaner
+Country: Japan
+Brand: HITACHI
+Release_Date: 2021-12-16T16:00:00+0000
+Rating: 0.0
+Price: $4,180
+Link: https://www.fortress.com.hk/en/product/pv-xl300j-stick-handy-type-vacuum-cleaner/p/12587831
+
+--
+Name: CordZero™ A9Komp - A9K ULTIMATE Stick Vacuum Cleaner
+Description: AEROScience™ “3-in-1” vacuuming & mopping   Kompressor™   Washable filter & cyclone, 5-step Filtration   DUAL PowerPack™   Bundled 4 Power Drive Nozzles   10-year motor warranty
+Country: Viet Nam
+Brand: LG
+Release_Date: 2021-12-12T16:00:00+0000
+Rating: 0.0
+Price: $4,680
+Link: https://www.fortress.com.hk/en/product/cordzero™-a9komp-a9k-ultimate-stick-vacuum-cleaner/p/12590301
+
+--
+Name: ZB6214IGM Rapido 14.4V Handheld Vacuum Cleaner
+Description: Rapido 14.4V Handheld Vacuum Cleaner
+Country: China
+Brand: ELECTROLUX
+Release_Date: 2021-12-15T16:00:00+0000
+Rating: 5.0
+Price: $679
+Link: https://www.fortress.com.hk/en/product/zb6214igm-rapido-14.4v-handheld-vacuum-cleaner/p/12584728
+
+--
+Name: NE-Q11 NoMo Q11 Self Emptying Robot Vacuum
+Description: 91% Cleaning Rate   Latest AI technology for obstacle avoidance and anti-drop   Auto Sketch floor plan for setting restriction area   4000Pa Suction   Support both iOS and Android   Support Google Assistant and Amazon Alexa
+Country: China
+Brand: Neabot
+Release_Date: 2022-02-13T16:00:00+0000
+Rating: 5.0
+Price: $3,980
+Link: https://www.fortress.com.hk/en/product/ne-q11-nomo-q11-self-emptying-robot-vacuum/p/12617745
+
+--
+Name: A9NCORE1V CordZero 3-in-1 Cordless Vacuum Cleaner
+Description: AEROScience™ “3-in-1” vacuuming & mopping   Washable filter & cyclone   5-step Filtration   Opti-Balance™   Dual Battery Pack   10-year motor warranty
+Country: Viet Nam
+Brand: LG
+Release_Date: 2021-12-12T16:00:00+0000
+Rating: 0.0
+Price: $3,080
+Link: https://www.fortress.com.hk/en/product/a9ncore1v-cordzero-3-in-1-cordless-vacuum-cleaner/p/12627695
+
+--
+Name: A9NCORE1G CordZero 3-in-1 Cordless Vacuum Cleaner
+Description: AEROScience™ “3-in-1” vacuuming & mopping   Washable filter & cyclone   5-step Filtration   Opti-Balance™   Dual Battery Pack   10-year motor warranty
+Country: Viet Nam
+Brand: LG
+Release_Date: 2021-12-12T16:00:00+0000
+Rating: 5.0
+Price: $3,080
+Link: https://www.fortress.com.hk/en/product/a9ncore1g-cordzero-3-in-1-cordless-vacuum-cleaner/p/12629236
+
+--
+Name: Houssen UV-C Sterilization Mites Bedding Vacuum Cleaner
+Description: Made in Korea! With authoritative certifications sterilization rate up to 99.9%, the world's first: ECO DRY SYSTEM dehumidification rate to 95.6%, making mites difficult to breed.
+Country: Korea, Republic of
+Brand: Carewin
+Release_Date: 2018-07-05T16:00:00+0000
+Rating: 4.0
+Price: $2,480
+Link: https://www.fortress.com.hk/en/product/houssen-uv-c-sterilization-mites-bedding-vacuum-cleaner/p/12629316
+
+--
+Name: SV-8080 “Smart Vac” Powerful Intelligent Cordless Cyclonic Vacuum Cleaner
+Description: Cyclonic system with strong power Cordless design Washable dust cup Metal filter & HEPA H13 filter Digital LED display 3 speeds control & auto mode Operation: Approx.10-55mins(different speed) Charging:Approx.5hours Multi Accessories
+Country: China
+Brand: SMARTECH
+Release_Date: 2021-12-29T16:00:00+0000
+Rating: 5.0
+Price: $1,498
+Link: https://www.fortress.com.hk/en/product/sv-8080-“smart-vac”-powerful-intelligent-cordless-cyclonic-vacuum-cleaner/p/12630481
+
+--
+Name: PV-XL2K Stick Handy Type Vacuum Cleaner
+Description: Stick Handy Type Vacuum Cleaner
+Country: Thailand
+Brand: HITACHI
+Release_Date: 2021-12-16T16:00:00+0000
+Rating: 5.0
+Price: $3,080
+Link: https://www.fortress.com.hk/en/product/pv-xl2k-stick-handy-type-vacuum-cleaner/p/12630528
+
+--
+Name: DX1000W Cord Handheld Vacuum Cleaner
+Description: High-speed Powerful Motor  3 Big Brush Heads  3-fold Filtration System  HEPA Filter
+Country: China
+Brand: Deerma
+Release_Date: 2021-10-31T16:00:00+0000
+Rating: 5.0
+Price: $588
+Link: https://www.fortress.com.hk/en/product/dx1000w-cord-handheld-vacuum-cleaner/p/12640013
+
+--
+Name: VCS7P Cord Stick Vacuum Cleaner
+Description: Cord Stick Vacuum Cleaner
+Country: China
+Brand: MIDEA
+Release_Date: 2021-05-20T16:00:00+0000
+Rating: 0.0
+Price: $519
+Link: https://www.fortress.com.hk/en/product/vcs7p-cord-stick-vacuum-cleaner/p/12640030
+
+--
+Name: DCL282FWX9 18V cordless vacuum cleaner set (white) (with cyclone) (fast charge/2.0Ah)
+Description: Features: Extension wand with lock function, Dust bag, Touch button switch
+Country: China
+Brand: Makita
+Release_Date: 2021-06-29T16:00:00+0000
+Rating: 0.0
+Price: $2,200
+Link: https://www.fortress.com.hk/en/product/dcl282fwx9-18v-cordless-vacuum-cleaner-set-white-with-cyclone-fast-charge-2.0ah/p/12634043
+
+--
+Name: A9KPro CordZero™ A9Komp Cordless Vacuum Cleaner
+Description: AEROScience™   Kompressor™   Washable filter & cyclone, 5-step Filtration   DUAL PowerPack™   Bundled 2 Power Drive Nozzles   10-year motor warranty
+Country: Viet Nam
+Brand: LG
+Release_Date: 2021-12-12T16:00:00+0000
+Rating: 5.0
+Price: $2,849
+Link: https://www.fortress.com.hk/en/product/a9kpro-cordzero™-a9komp-cordless-vacuum-cleaner/p/12646221
+
+--
+Name: TY9890 X-Force Flex 11.60 Vacuum Cleaner
+Description: Digital force motor, 130 Air Watts, Flex tube, 180° suction head with LED light, 3 modes (Eco, Max, Boost), 45 minutes autonomy, Stop & Go position, Aqua head, control display, battery indicator, 99.9% filtration, dust container 0.9L
+Country: China
+Brand: TEFAL
+Release_Date: 2022-03-31T16:00:00+0000
+Rating: 5.0
+Price: $3,388
+Link: https://www.fortress.com.hk/en/product/ty9890-x-force-flex-11.60-vacuum-cleaner/p/12646319
+
+--
+Name: FH50700-SAA Power Dash Carpet Cleaner
+Description: Wired Vacuum, Easily Tackles Pet Mess and Tough Stains, Two Tank System, Powerful Cleaning, Compact Design for Easy Storage
+Country: China
+Brand: HOOVER
+Release_Date: 2022-01-27T16:00:00+0000
+Rating: 5.0
+Price: $959
+Link: https://www.fortress.com.hk/en/product/fh50700-saa-power-dash-carpet-cleaner/p/12646466
+
+--
+Name: Scout RX3 Home Vision HD Robot Vacuum Cleaner
+Description: 3D Smart Navigation by stereo camera system and gyro sensors for mapping with reliable and systematic cleaning
+Country: Korea, Republic of
+Brand: MIELE
+Release_Date: 2022-05-31T16:00:00+0000
+Rating: 3.0
+Price: $6,388
+Link: https://www.fortress.com.hk/en/product/scout-rx3-home-vision-hd-robot-vacuum-cleaner/p/12686610
+
+--
+Name: P11 Vacuum Cleaner Robot (Anion+UV)
+Description: Korean new technology: smart vacuum cleaner + air purifier = dual-purpose machine, with patented non-curl edge brush & Catchmop patent mop for easy cleaning
+Country: Korea, Republic of
+Brand: Moneual
+Release_Date: 2022-04-05T16:00:00+0000
+Rating: 0.0
+Price: $2,280
+Link: https://www.fortress.com.hk/en/product/p11-vacuum-cleaner-robot-anion-uv/p/12722836
+
+--
+Name: P10 Vacuum & Mop Robot Cleaner (With UV lamp)
+Description: 5-in-1 function: vacuum, sweep ,wet mop, dry mop, ultraviolet germicidal lamp disinfection floor. With Intelligent path planning, switchable suction
+Country: China
+Brand: Moneual
+Release_Date: 2022-04-05T16:00:00+0000
+Rating: 5.0
+Price: $1,880
+Link: https://www.fortress.com.hk/en/product/p10-vacuum-mop-robot-cleaner-with-uv-lamp/p/12722844
+
+--
+Name: HX2P Triflex HX2 Pro Stick Vacuum Cleaner
+Description: Made in Germany, Miele cordless stick vacuum cleaners are ready to use in an instant.  With no cord, they offer maxmium flexibility while a high-capacity rechargeable battery means they can clean large areas without interruption.
+Country: Germany
+Brand: MIELE
+Release_Date: 2022-08-23T16:00:00+0000
+Rating: 0.0
+Price: $6,988
+Link: https://www.fortress.com.hk/en/product/hx2p-triflex-hx2-pro-stick-vacuum-cleaner/p/12738686
+
+--
+Name: HX2W Triflex HX2 Stick Vacuum Cleaner
+Description: Made in Germany, Miele cordless stick vacuum cleaners are ready to use in an instant.  With no cord, they offer maxmium flexibility while a high-capacity rechargeable battery means they can clean large areas without interruption.
+Country: Germany
+Brand: MIELE
+Release_Date: 2022-08-23T16:00:00+0000
+Rating: 5.0
+Price: $4,488
+Link: https://www.fortress.com.hk/en/product/hx2w-triflex-hx2-stick-vacuum-cleaner/p/12738731
+
+--
+Name: HX2C Triflex Cat & Dog Stick Vacuum Cleaner
+Description: Made in Germany, Miele cordless stick vacuum cleaners are ready to use in an instant.  With no cord, they offer maxmium flexibility while a high-capacity rechargeable battery means they can clean large areas without interruption.
+Country: Germany
+Brand: MIELE
+Release_Date: 2022-08-23T16:00:00+0000
+Rating: 4.4
+Price: $5,588
+Link: https://www.fortress.com.hk/en/product/hx2c-triflex-cat-dog-stick-vacuum-cleaner/p/12739321
+
+--
+Name: WU036.9 20V Cordless Brushless Wet/Dry Vacuum
+Description: WU036.9 16000pa vacuum without damage and large suction, cyclone suction without damage structure, quickly separates dust and gas, greatly reduces the resistance caused by air circulation, and the suction is always stable
+Country: China
+Brand: Worx
+Release_Date: 2022-07-03T16:00:00+0000
+Rating: 0.0
+Price: $880
+Link: https://www.fortress.com.hk/en/product/wu036.9-20v-cordless-brushless-wet-dry-vacuum/p/12739734
+
+--
+Name: BGBS4HYGGB Series 4 ProHygienic bagged vacuum cleaner
+Description: Bosch BGBS4HYGGB, Series 4, ProHygienic bagged vacuum cleaner. Made in Germany. UltraAllergy hygienic filter   Power Control   AirFresh Dustbag   PowerProtect System.
+Country: Germany
+Brand: BOSCH
+Release_Date: 2022-07-31T16:00:00+0000
+Rating: 5.0
+Price: $1,998
+Link: https://www.fortress.com.hk/en/product/bgbs4hyggb-series-4-prohygienic-bagged-vacuum-cleaner/p/12739831
+
+--
+Name: V mini max 2 Handheld Vacuum Cleaner
+Description: The biggest selling point of Vmini MAX2 is that it has strong suction and small size. It has two suction modes to meet different use environments. The ordinary suction is 6500pa, and the maximum suction is increased to 12000pa.
+Country: China
+Brand: Autobot
+Release_Date: 2022-09-08T16:00:00+0000
+Rating: 5.0
+Price: $588
+Link: https://www.fortress.com.hk/en/product/v-mini-max-2-handheld-vacuum-cleaner/p/12748382
+
+--
+Name: Disney Donald Duck Vacuum Cleaner
+Description: Wireless vacuum cleaner with big head  eyes will change w/suction  powerful suction13000Pa lightweight,can be used in private cars equipped w/HEPA filter TypeC charging large Capacity 2000mAh battery two-level operation mode 8000Pa/13000Pa
+Country: China
+Brand: I-smart
+Release_Date: 2022-11-13T16:00:00+0000
+Rating: 0.0
+Price: $998
+Link: https://www.fortress.com.hk/en/product/disney-donald-duck-vacuum-cleaner/p/12796860
+
+--
+Name: BHR6263GL Ultra Light Vacuum Cleaner Filter
+Description: High Efficiency Filter Intercepts 0.3µm Particles
+Country: China
+Brand: Mi
+Release_Date: 2022-11-29T16:00:00+0000
+Rating: 4.78
+Price: $79
+Link: https://www.fortress.com.hk/en/product/bhr6263gl-ultra-light-vacuum-cleaner-filter/p/12817034
+
+--
+Name: BHR5984TY Vacuum Cleaner G11 Extended Battery Pack
+Description: 60 mins Long Battery Life
+Country: China
+Brand: Mi
+Release_Date: 2022-11-29T16:00:00+0000
+Rating: 5.0
+Price: $699
+Link: https://www.fortress.com.hk/en/product/bhr5984ty-vacuum-cleaner-g11-extended-battery-pack/p/12817085
+
+--
+Name: BHR5921TY Robot Vacuum-Mop 2 Pro/2 Lite Brush Cover
+Description: Strudy Structure and Anti-Wear
+Country: China
+Brand: Mi
+Release_Date: 2022-11-29T16:00:00+0000
+Rating: 5.0
+Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr5921ty-robot-vacuum-mop-2-pro-2-lite-brush-cover/p/12817106
+
+--
+Name: FC8054 Soft Dusting Brush
+Description: None
+Country: Hungary
+Brand: PHILIPS
+Release_Date: 2012-07-12T16:00:00+0000
+Rating: 0.0
+Price: $228
+Link: https://www.fortress.com.hk/en/product/fc8054-soft-dusting-brush/p/11034767
+
+--
+Name: KIT10A Nozzle
+Description: None
+Country: China
+Brand: ELECTROLUX
+Release_Date: 2014-11-13T16:00:00+0000
+Rating: 4.0
+Price: $350
+Link: https://www.fortress.com.hk/en/product/kit10a-nozzle/p/11312835
+
+--
+Name: 28602730 Vacuum Cleaner Filter
+Description: None
+Country: Germany
+Brand: KARCHER
+Release_Date: 2014-07-08T16:00:00+0000
+Rating: 5.0
+Price: $298
+Link: https://www.fortress.com.hk/en/product/28602730-vacuum-cleaner-filter/p/11269291
+
+--
+Name: 69041430 Vacuum Cleaner Filter
+Description: None
+Country: Germany
+Brand: KARCHER
+Release_Date: 2014-07-08T16:00:00+0000
+Rating: 0.0
+Price: $198
+Link: https://www.fortress.com.hk/en/product/69041430-vacuum-cleaner-filter/p/11269304
+
+--
+Name: 28602290 Vacuum Cleaner Filter
+Description: None
+Country: Italy
+Brand: KARCHER
+Release_Date: 2014-07-08T16:00:00+0000
+Rating: 0.0
+Price: $398
+Link: https://www.fortress.com.hk/en/product/28602290-vacuum-cleaner-filter/p/11269312
+
+--
+Name: 64144980 Vacuum Cleaner Filter
+Description: None
+Country: Poland
+Brand: KARCHER
+Release_Date: 2014-07-08T16:00:00+0000
+Rating: 0.0
+Price: $138
+Link: https://www.fortress.com.hk/en/product/64144980-vacuum-cleaner-filter/p/11269320
+
+--
+Name: 64148050 Vacuum Cleaner Filter
+Description: None
+Country: Germany
+Brand: KARCHER
+Release_Date: 2014-07-08T16:00:00+0000
+Rating: 0.0
+Price: $298
+Link: https://www.fortress.com.hk/en/product/64148050-vacuum-cleaner-filter/p/11269363
+
+--
+Name: 69043290 Vacuum Cleaner Filter
+Description: None
+Country: Germany
+Brand: KARCHER
+Release_Date: 2014-07-08T16:00:00+0000
+Rating: 0.0
+Price: $158
+Link: https://www.fortress.com.hk/en/product/69043290-vacuum-cleaner-filter/p/11269371
+
+--
+Name: VC2PREMIUM Bagless Vacuum Cleaner
+Description: 
+Country: China
+Brand: KARCHER
+Release_Date: 2017-02-23T16:00:00+0000
+Rating: 0.0
+Price: $1,280
+Link: https://www.fortress.com.hk/en/product/vc2premium-bagless-vacuum-cleaner/p/11627167
+
+--
+Name: EF129, UltraFlex fine dust filter
+Description: None
+Country: China
+Brand: ELECTROLUX
+Release_Date: 2017-04-17T16:00:00+0000
+Rating: 0.0
+Price: $180
+Link: https://www.fortress.com.hk/en/product/ef129-ultraflex-fine-dust-filter/p/11638149
+
+--
+Name: MBC500UV082
+Description: None
+Country: China
+Brand: CANDY
+Release_Date: 2017-05-22T16:00:00+0000
+Rating: 0.0
+Price: $1,499
+Link: https://www.fortress.com.hk/en/product/mbc500uv082/p/11642931
+
+--
+Name: FC8021PK Dust Bag
+Description: s-bag® is the universal dust bag for all Philips, and Electrolux (Electrolux, AEG, Volta, Tornado) vacuum cleaners with bag. When buying replacement bags, just look for the s-bag® logo. Usage of non-original bags can damage your cleaner.
+Country: Sweden
+Brand: PHILIPS
+Release_Date: 2005-02-13T16:00:00+0000
+Rating: 4.87
+Price: $68
+Link: https://www.fortress.com.hk/en/product/fc8021pk-dust-bag/p/10154855
+
+--
+Name: BBZ102TBB Nozzle
+Description: None
+Country: Germany
+Brand: BOSCH
+Release_Date: 2011-05-19T16:00:00+0000
+Rating: 5.0
+Price: $500
+Link: https://www.fortress.com.hk/en/product/bbz102tbb-nozzle/p/10889464
+
+--
+Name: BBZ42TB Nozzle
+Description: None
+Country: Germany
+Brand: BOSCH
+Release_Date: 2011-05-19T16:00:00+0000
+Rating: 0.0
+Price: $400
+Link: https://www.fortress.com.hk/en/product/bbz42tb-nozzle/p/10889480
+
+--
+Name: SPD10 Nozzle
+Description: None
+Country: Germany
+Brand: MIELE
+Release_Date: 2016-12-27T16:00:00+0000
+Rating: 0.0
+Price: $250
+Link: https://www.fortress.com.hk/en/product/spd10-nozzle/p/11598491
+
+--
+Name: ZR9032 Nozzle
+Description: Engineered for tougher tasks. The motorised brush is built to effortlessly remove dust and hair from upholstery
+Country: China
+Brand: TEFAL
+Release_Date: 2017-11-27T16:00:00+0000
+Rating: 0.0
+Price: $600
+Link: https://www.fortress.com.hk/en/product/zr9032-nozzle/p/11702526
+
+--
+Name: ZR9033 Nozzle
+Description: Slim, extendable rubber head provides flexibility to remove dust and dirt from hard to reach corners and gaps. Perfect for cleaning spaces inside the car
+Country: China
+Brand: TEFAL
+Release_Date: 2017-12-19T16:00:00+0000
+Rating: 0.0
+Price: $420
+Link: https://www.fortress.com.hk/en/product/zr9033-nozzle/p/11702534
+
+--
+Name: VS2511 Stick Vacuum Cleaner
+Description: 2-in-1 Li-ion vacuum cleaner can be used in handheld or stick option with strong suction power. Cleaning up the dust is easy by simply removing the dust cup. Rotating brush helps to pick up the dust and hair quickly. Its self-standing parking with foldable handle is easy to store.
+Country: China
+Brand: WHIRLPOOL
+Release_Date: 2018-05-10T16:00:00+0000
+Rating: 4.33
+Price: $1,990
+Link: https://www.fortress.com.hk/en/product/vs2511-stick-vacuum-cleaner/p/11753391
+
+--
+Name: SKV4008CN, Mi Robot Vacuum Brush Cover
+Description: 1. Sealed handling &reduced damage with cushion 2. Sturdy structure&anti-winding design 3. One-hand operation, convenient to disassemble
+Country: China
+Brand: Mijia
+Release_Date: 2018-06-17T16:00:00+0000
+Rating: 0.0
+Price: $30
+Link: https://www.fortress.com.hk/en/product/skv4008cn-mi-robot-vacuum-brush-cover/p/11757957
+
+--
+Name: BHZTKIT1 Home & Car Accessory
+Description: The perfect accessory to increase versatility of Move handheld and Readyy'y 2in1 - Suitable for Bosch model BBH22451, BBH22042, BBH21631 and BBH21830L.
+Country: Hong Kong
+Brand: BOSCH
+Release_Date: 2018-07-18T16:00:00+0000
+Rating: 0.0
+Price: $498
+Link: https://www.fortress.com.hk/en/product/bhztkit1-home-car-accessory/p/11781316
+
+--
+Name: CV-SF16/BRE Bagless Vacuum Cleaner
+Description: Hitachi Vacuum Cleaner
+Country: Thailand
+Brand: HITACHI
+Release_Date: 2018-08-09T16:00:00+0000
+Rating: 0.0
+Price: $880
+Link: https://www.fortress.com.hk/en/product/cv-sf16-bre-bagless-vacuum-cleaner/p/11784859
+
+--
+Name: CV-930F Commercial Use Vacuum Cleaner
+Description: Hitachi Vacuum Cleaner
+Country: Thailand
+Brand: HITACHI
+Release_Date: 2018-08-08T16:00:00+0000
+Rating: 4.0
+Price: $1,080
+Link: https://www.fortress.com.hk/en/product/cv-930f-commercial-use-vacuum-cleaner/p/11784867
+
+--
+Name: C3A-TB Bagged Vacuum Cleaner
+Description: Made in Germany, Miele vacuum cleaners are manufactured to the very highest standards and rigorous quality controls. Each Miele vacuum cleaner must pass stringent tests and is made to last for 20 years.
+Country: Germany
+Brand: MIELE
+Release_Date: 2018-11-01T16:00:00+0000
+Rating: 4.89
+Price: $4,288
+Link: https://www.fortress.com.hk/en/product/c3a-tb-bagged-vacuum-cleaner/p/11813331
+
+--
+Name: C1-AR Bagged Vacuum Cleaner
+Description: Floorhead with extendable brushes
+Country: Germany
+Brand: MIELE
+Release_Date: 2018-11-01T16:00:00+0000
+Rating: 5.0
+Price: $1,688
+Link: https://www.fortress.com.hk/en/product/c1-ar-bagged-vacuum-cleaner/p/11813349
+
+--
+Name: Complete C3 Cat & Dog Vacuum Cleaner
+Description: Cylinder vacuum cleaner<BR>With turbobrush and odour filter/ ideal for pet lovers.
+Country: Germany
+Brand: MIELE
+Release_Date: 2018-12-27T16:00:00+0000
+Rating: 4.69
+Price: $3,388
+Link: https://www.fortress.com.hk/en/product/complete-c3-cat-dog-vacuum-cleaner/p/11828612
+
+--
+Name: SKV4039TY Robot Vacuum Corner Brush (2-pack)
+Description: Dynamic speed side brush & high cleanliness/ Wear-resistant nylon hairs, safe to use
+Country: China
+Brand: Mijia
+Release_Date: 2019-03-14T16:00:00+0000
+Rating: 5.0
+Price: $49
+Link: https://www.fortress.com.hk/en/product/skv4039ty-robot-vacuum-corner-brush-2-pack/p/11849923
+
+--
+Name: SKV4036TY Robot Vacuum Barrier Tape
+Description: Slim and lightweight magnetic strip with  high-strength/ Arbitrary cutting, random shape display
+Country: China
+Brand: Mijia
+Release_Date: 2019-03-14T16:00:00+0000
+Rating: 3.33
+Price: $30
+Link: https://www.fortress.com.hk/en/product/skv4036ty-robot-vacuum-barrier-tape/p/11849991
+
+--
+Name: Complete C2 Marine Blue Bagged Vacuum Cleaner
+Description: Miele vacuum cleaners are manufactured to the very highest standards and rigorous quality controls. Each Miele vacuum cleaner must pass stringent tests and is made to last for 20 years.
+Country: China
+Brand: MIELE
+Release_Date: 2019-06-30T16:00:00+0000
+Rating: 5.0
+Price: $3,188
+Link: https://www.fortress.com.hk/en/product/complete-c2-marine-blue-bagged-vacuum-cleaner/p/11891081
+
+--
+Name: FC3-CORDLESS-P Cordless Floor Cleaner
+Description: Non-stop cleaning with fresh water? The FC 3 Cordless with innovative self-cleaning function makes it possible – say goodbye to the conventional mop.
+Country: Europe
+Brand: KARCHER
+Release_Date: 2019-08-13T16:00:00+0000
+Rating: 0.0
+Price: $3,380
+Link: https://www.fortress.com.hk/en/product/fc3-cordless-p-cordless-floor-cleaner/p/11906537
+
+--
+Name: V Mini Handheld Vacuum Cleaner
+Description: The AutoBot V Mini  vacuum cleaner is equipped with the FLIPCOVER system, which can be used for one-click turning and ashing. The new fan motor integrated machine can reach a suction power of 4200 pa.
+Country: China
+Brand: Autobot
+Release_Date: 2020-01-16T16:00:00+0000
+Rating: 4.43
+Price: $399
+Link: https://www.fortress.com.hk/en/product/v-mini-handheld-vacuum-cleaner/p/11963099
+
+--
+Name: Robot Vacuum-Mop 1C (SKV4092HK) Brush
+Description: Strong dust collection, suitable for various floor cleaning/ 1300 rpm high-speed operation, fine dust removal
+Country: China
+Brand: Mijia
+Release_Date: 2020-03-23T16:00:00+0000
+Rating: 4.14
+Price: $59
+Link: https://www.fortress.com.hk/en/product/robot-vacuum-mop-1c-skv4092hk-brush/p/11987832
+
+--
+Name: Robot Vacuum-Mop 1C (SKV4092HK) Waterproof Mat
+Description: ABS waterproof material is used to effectively isolate moisture/ Triple positioning hole + non-slip mat at the bottom of the board
+Country: China
+Brand: Mijia
+Release_Date: 2020-03-23T16:00:00+0000
+Rating: 4.75
+Price: $69
+Link: https://www.fortress.com.hk/en/product/robot-vacuum-mop-1c-skv4092hk-waterproof-mat/p/11989125
+
+--
+Name: Robot Vacuum-Mop 1C (SKV4092HK) Brush Cover
+Description: Strong dust collection, suitable for various floor cleaning/ 1300 rpm high-speed operation, fine dust removal
+Country: China
+Brand: Mijia
+Release_Date: 2020-03-26T16:00:00+0000
+Rating: 4.33
+Price: $59
+Link: https://www.fortress.com.hk/en/product/robot-vacuum-mop-1c-skv4092hk-brush-cover/p/11989141
+
+--
+Name: JHA-UVC-MUV3-BU 3-in-1 Dust mite UV vacuum cleaner
+Description: UV ultraviolet disinfection to kill bacteria, viruses, microorganisms and dust mites up to 99.9%. UV light equipped with sensor can avoid eye damage. Suitable for bed school, comb, pillow, curtain and puppets. With washable HEPA filter.
+Country: China
+Brand: JNC
+Release_Date: 2020-06-28T16:00:00+0000
+Rating: 0.0
+Price: $718
+Link: https://www.fortress.com.hk/en/product/jha-uvc-muv3-bu-3-in-1-dust-mite-uv-vacuum-cleaner/p/12038524
+
+--
+Name: DC3G DEEBOT 500 Robotic Vacuum Cleaner
+Description: Get more time back in your day with the DEEBOT 500. With its accessible technology including Max Mode, an integrated 3-Stage Cleaning System, and the ability to be controlled by smart home devices, the DEEBOT 500 is ready to give your home an effortless deep clean.
+Country: China
+Brand: Ecovacs
+Release_Date: 2020-06-01T16:00:00+0000
+Rating: 4.22
+Price: $1,299
+Link: https://www.fortress.com.hk/en/product/dc3g-deebot-500-robotic-vacuum-cleaner/p/12044975
+
+--
+Name: IVD-385 UV Vacuum Cleaner
+Description: Kill and remove dust mites, working with anit-bacterial UV light
+Country: China
+Brand: IMARFLEX
+Release_Date: 2020-06-04T16:00:00+0000
+Rating: 3.5
+Price: $699
+Link: https://www.fortress.com.hk/en/product/ivd-385-uv-vacuum-cleaner/p/12021087
+
+--
+Name: Lithium-Ion Battery for Triflex Cordless Stick Vacuum Cleaner
+Description: MIELE Lithium-Ion Battery for Triflex
+Country: Romania
+Brand: MIELE
+Release_Date: 2020-06-11T16:00:00+0000
+Rating: 5.0
+Price: $1,500
+Link: https://www.fortress.com.hk/en/product/lithium-ion-battery-for-triflex-cordless-stick-vacuum-cleaner/p/12021458
+
+--
+Name: Charger Cradle for Triflex Cordless Vacuum Cleaner
+Description: MIELE Charger Cradle for Triflex
+Country: Germany
+Brand: MIELE
+Release_Date: 2020-07-09T16:00:00+0000
+Rating: 5.0
+Price: $950
+Link: https://www.fortress.com.hk/en/product/charger-cradle-for-triflex-cordless-vacuum-cleaner/p/12021466
+
+--
+Name: IVD-100LT Rechargeable UV bed vacuum cleaner
+Description: anti-bacterial UV light, over heating protection
+Country: China
+Brand: IMARFLEX
+Release_Date: 2020-06-04T16:00:00+0000
+Rating: 4.0
+Price: $999
+Link: https://www.fortress.com.hk/en/product/ivd-100lt-rechargeable-uv-bed-vacuum-cleaner/p/12021491
+
+--
+Name: SKV4114TY Robot Vacuum-Mop P Disposable Mop Pad
+Description: Non-woven Mop Pad, One-off Usage  (30 Pieces)
+Country: China
+Brand: Mijia
+Release_Date: 2020-08-05T16:00:00+0000
+Rating: 4.67
+Price: $40
+Link: https://www.fortress.com.hk/en/product/skv4114ty-robot-vacuum-mop-p-disposable-mop-pad/p/12060140
+
+--
+Name: SKV4121TY Robot Vacuum-Mop P Brush Cover (Black)
+Description: Flooring freindly, High Cleaning Efficiency
+Country: China
+Brand: Mijia
+Release_Date: 2020-08-05T16:00:00+0000
+Rating: 5.0
+Price: $39
+Link: https://www.fortress.com.hk/en/product/skv4121ty-robot-vacuum-mop-p-brush-cover-black/p/12060158
+
+--
+Name: SKV4117TY Robot Vacuum-Mop P Side Brush (Black)
+Description: Regular Replacement, High Cleaning Efficiency
+Country: China
+Brand: Mijia
+Release_Date: 2020-08-05T16:00:00+0000
+Rating: 5.0
+Price: $29
+Link: https://www.fortress.com.hk/en/product/skv4117ty-robot-vacuum-mop-p-side-brush-black/p/12060174
+
+--
+Name: SKV4119TY Robot Vacuum-Mop P Brush
+Description: Additilonal Cleaning Tool, High Cleaning Efficiency
+Country: China
+Brand: Mijia
+Release_Date: 2020-08-05T16:00:00+0000
+Rating: 5.0
+Price: $39
+Link: https://www.fortress.com.hk/en/product/skv4119ty-robot-vacuum-mop-p-brush/p/12060220
+
+--
+Name: SKV4124TY Robot Vacuum-Mop P Water Tank
+Description: Large Capacity, Sufficient for Cleaning
+Country: China
+Brand: Mijia
+Release_Date: 2020-08-05T16:00:00+0000
+Rating: 4.33
+Price: $129
+Link: https://www.fortress.com.hk/en/product/skv4124ty-robot-vacuum-mop-p-water-tank/p/12060238
+
+--
+Name: SKV4123TY Robot Vacuum-Mop P Mop Pad
+Description: Fine Fiber Mop Pad, Effective Cleaning
+Country: China
+Brand: Mijia
+Release_Date: 2020-08-05T16:00:00+0000
+Rating: 5.0
+Price: $39
+Link: https://www.fortress.com.hk/en/product/skv4123ty-robot-vacuum-mop-p-mop-pad/p/12060246
+
+--
+Name: V10 Turbo Wireless vacuum cleaner
+Description: Stainless steel filter + Hepa filter double filtration,H13 HEPA filter, can filter 0.3 micron bacterial dust up to 99%, filter can be cleaned with a soft bristled toothbrush, dried and recycled
+Country: China
+Brand: Lohas
+Release_Date: 2020-04-12T16:00:00+0000
+Rating: 1.0
+Price: $998
+Link: https://www.fortress.com.hk/en/product/v10-turbo-wireless-vacuum-cleaner/p/12088652
+
+--
+Name: IVC-800 600W Stand Vacuum Cleaner
+Description: Separating Handle, Washable dust room, soundproof rollers
+Country: China
+Brand: IMARFLEX
+Release_Date: 2020-11-18T16:00:00+0000
+Rating: 5.0
+Price: $399
+Link: https://www.fortress.com.hk/en/product/ivc-800-600w-stand-vacuum-cleaner/p/12191799
+
+--
+Name: SV-8028 "Smart Comet" Variable speed Powerful Water Filtration Vacuum Cleaner
+Description: Capture most of the dust by water filtration system No need to use dust bag Washable accessories Air blowing and water spray function Washable HEPA filter Variable speed control Detachable large water tank 220-240V 50/60Hz,1200-1400W
+Country: China
+Brand: SMARTECH
+Release_Date: 2020-11-20T16:00:00+0000
+Rating: 4.43
+Price: $1,099
+Link: https://www.fortress.com.hk/en/product/sv-8028-smart-comet-variable-speed-powerful-water-filtration-vacuum-cleaner/p/12224116
+
+--
+Name: BHR4615CN Vacuum Cleaner G10 Mop Kit
+Description: Fiber Mop Harmless to Floor Water Seepage Filter Evenly Discharges Water to Prevent Side Leakage
+Country: China
+Brand: Mijia
+Release_Date: 2020-12-16T16:00:00+0000
+Rating: 4.31
+Price: $39
+Link: https://www.fortress.com.hk/en/product/bhr4615cn-vacuum-cleaner-g10-mop-kit/p/12231084
+
+--
+Name: WQ71-2BSWF Well Q7 POWERPRO cordless vacuum cleaner
+Description: New POWERPRO nozzle – the hard floor expert nozzle removing XXL sized dirt and fine dust with superior performance. Upgraded BedPro Power nozzle with UV light. Self -standing, 5 -layer filtration
+Country: China
+Brand: ELECTROLUX
+Release_Date: 2020-12-06T16:00:00+0000
+Rating: 0.0
+Price: $3,998
+Link: https://www.fortress.com.hk/en/product/wq71-2bswf-well-q7-powerpro-cordless-vacuum-cleaner/p/12232183
+
+--
+Name: SUB10 Universal brush
+Description: for cleaning of heavy duty surfaces thanks to premium synthetic bristles.
+Country: Germany
+Brand: MIELE
+Release_Date: 2020-11-26T16:00:00+0000
+Rating: 0.0
+Price: $300
+Link: https://www.fortress.com.hk/en/product/sub10-universal-brush/p/12234592
+
+--
+Name: BCS611P4A Unlimited S6 Rechargeable vacuum cleaner
+Description: Outstanding Performance: Effective cleaning: AllFloor Power brush and compact DigitalSpin Motor let you clean on all kinds of floors. Made in Germany: high quality standards and thorough testing for enduring satisfaction.
+Country: Germany
+Brand: BOSCH
+Release_Date: 2021-01-14T16:00:00+0000
+Rating: 4.5
+Price: $2,598
+Link: https://www.fortress.com.hk/en/product/bcs611p4a-unlimited-s6-rechargeable-vacuum-cleaner/p/12254665
+
+--
+Name: B20T new generation sweeper and mop household floor cleaner
+Description: WYPE allows you to put down the mop, vacuum cleaner and sweeping robot in your hand in one second! Combine sweeping, mopping, and automatic cleaning three in one, reducing cleaning time by twice! Automatic cleaning technology.
+Country: China
+Brand: WYPE
+Release_Date: 2020-12-29T16:00:00+0000
+Rating: 5.0
+Price: $890
+Link: https://www.fortress.com.hk/en/product/b20t-new-generation-sweeper-and-mop-household-floor-cleaner/p/12261540
+
+--
+Name: ZR0095 Aqua Mop for TY9471
+Description: Tefal ZR0095 Aqua Mop (for TY9471)
+Country: China
+Brand: TEFAL
+Release_Date: 2020-11-15T16:00:00+0000
+Rating: 0.0
+Price: $488
+Link: https://www.fortress.com.hk/en/product/zr0095-aqua-mop-for-ty9471/p/12268485
+
+--
+Name: FZ-STS2M Glue Sheet for FP-JM30A
+Description: SHARP Glue Sheet FZ-STS2M For FP-JM30A (Filter Life: 2 months)
+Country: China
+Brand: SHARP
+Release_Date: 2021-02-01T16:00:00+0000
+Rating: 0.0
+Price: $300
+Link: https://www.fortress.com.hk/en/product/fz-sts2m-glue-sheet-for-fp-jm30a/p/12270534
+
+--
+Name: CV-995HC/CGB 2400W Commercial Use Vacuum Cleaner
+Description: Hitachi Commercial Use Vacuum Cleaner
+Country: Thailand
+Brand: HITACHI
+Release_Date: 2021-01-05T16:00:00+0000
+Rating: 5.0
+Price: $2,380
+Link: https://www.fortress.com.hk/en/product/cv-995hc-cgb-2400w-commercial-use-vacuum-cleaner/p/12272337
+
+--
+Name: T2501 HomeVac S11 Go Cordless Stick-Vacuum Cleaner
+Description: Cordless Stick-Vacuum Cleaner, Lightweight, Max. 120AW/20kpa Suction Power, 5-tier filtration system, Dual-Vortex Technology, up to 40 mins of cleaning time, 5 Cleaning Head, Detachable Battery
+Country: China
+Brand: Anker
+Release_Date: 2020-11-11T16:00:00+0000
+Rating: 0.0
+Price: $2,099
+Link: https://www.fortress.com.hk/en/product/t2501-homevac-s11-go-cordless-stick-vacuum-cleaner/p/12304116
+
+--
+Name: CV-985HC/CGB 2300W Commercial Use Vacuum Cleaner
+Description: Hitachi Commercial Use Vacuum Cleaner
+Country: Thailand
+Brand: HITACHI
+Release_Date: 2021-01-05T16:00:00+0000
+Rating: 4.17
+Price: $2,080
+Link: https://www.fortress.com.hk/en/product/cv-985hc-cgb-2300w-commercial-use-vacuum-cleaner/p/12304141
+
+--
+Name: VCASHF90 Fine dust filter for VS20T7538T5
+Description: Fine dust filter
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2021-04-26T16:00:00+0000
+Rating: 0.0
+Price: $158
+Link: https://www.fortress.com.hk/en/product/vcashf90-fine-dust-filter-for-vs20t7538t5/p/12330787
+
+--
+Name: MC-RSC10 Robot Cleaner
+Description: Robot Cleaner
+Country: Japan
+Brand: PANASONIC
+Release_Date: 2021-05-04T16:00:00+0000
+Rating: 4.5
+Price: $4,400
+Link: https://www.fortress.com.hk/en/product/mc-rsc10-robot-cleaner/p/12337145
+
+--
+Name: MC-CL573 1800W Bagless Vacuum Cleaner
+Description: Bagless Vacuum Cleaner (1800W)
+Country: Malaysia
+Brand: PANASONIC
+Release_Date: 2021-05-04T16:00:00+0000
+Rating: 0.0
+Price: $1,100
+Link: https://www.fortress.com.hk/en/product/mc-cl573-1800w-bagless-vacuum-cleaner/p/12337612
+
+--
+Name: 4164/01 Steam mop 10 in 1
+Description: The steamer , with the power of the high-temperature steam alone, is effective in the thorough cleaning of every corner of the house: it sanitizes floors and carpets, removes dirt and stubborn grease from hobs,
+Country: China
+Brand: Ariete
+Release_Date: 2021-04-25T16:00:00+0000
+Rating: 3.67
+Price: $680
+Link: https://www.fortress.com.hk/en/product/4164-01-steam-mop-10-in-1/p/12339298
+
+--
+Name: VCASPA90 Disposable Wet Pad for VS20T7538T5
+Description: Disposable Wet Pad
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2021-04-25T16:00:00+0000
+Rating: 0.0
+Price: $120
+Link: https://www.fortress.com.hk/en/product/vcaspa90-disposable-wet-pad-for-vs20t7538t5/p/12339319
+
+--
+Name: VCASAB90 Jet Soft Action Brush for VS20T7538T5
+Description: Jet Soft Action Brush
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2021-04-25T16:00:00+0000
+Rating: 0.0
+Price: $700
+Link: https://www.fortress.com.hk/en/product/vcasab90-jet-soft-action-brush-for-vs20t7538t5/p/12339327
+
+--
+Name: VCASHF90B Fine dust filter for VS15T7033R4
+Description: Fine dust filter
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2021-04-26T16:00:00+0000
+Rating: 0.0
+Price: $158
+Link: https://www.fortress.com.hk/en/product/vcashf90b-fine-dust-filter-for-vs15t7033r4/p/12339343
+
+--
+Name: Fine dust filter VCASHF90A for VS20T7534T1
+Description: Fine dust filter
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2021-04-26T16:00:00+0000
+Rating: 0.0
+Price: $158
+Link: https://www.fortress.com.hk/en/product/fine-dust-filter-vcashf90a-for-vs20t7534t1/p/12339351
+
+--
+Name: VCASBT90E Vacuum Cleaner replacement Battery for VS15T7033R4
+Description: Battery
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2021-04-25T16:00:00+0000
+Rating: 0.0
+Price: $920
+Link: https://www.fortress.com.hk/en/product/vcasbt90e-vacuum-cleaner-replacement-battery-for-vs15t7033r4/p/12339909
+
+--
+Name: VCASBT90 Battery for VS20T7534T1 & VS20T7538T5
+Description: Battery
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2021-04-25T16:00:00+0000
+Rating: 0.0
+Price: $1,115
+Link: https://www.fortress.com.hk/en/product/vcasbt90-battery-for-vs20t7534t1-vs20t7538t5/p/12345604
+
+--
+Name: SSP 10 Dusting brush
+Description: Dusting brush with flexible swivel joint for gentle cleaning of high-quality floors
+Country: Germany
+Brand: MIELE
+Release_Date: 2021-06-10T16:00:00+0000
+Rating: 0.0
+Price: $210
+Link: https://www.fortress.com.hk/en/product/ssp-10-dusting-brush/p/12366034
+
+--
+Name: VCP7 Cordless Cyclone Vacuum Cleaner
+Description: Cordless Cyclone Vacuum Cleaner
+Country: China
+Brand: MIDEA
+Release_Date: 2023-02-02T16:00:00+0000
+Rating: 0.0
+Price: $1,688
+Link: https://www.fortress.com.hk/en/product/vcp7-cordless-cyclone-vacuum-cleaner/p/12838548
+
+--
+Name: Compatible Replacement HEPA Filter for Dyson V12 Series SV20 Vacuum Cleaner
+Description: Replacement HEPA Filter for Dyson V12 Digital Detect Slim Fluffy Total Clean SV20 Vacuum Cleaner
+Country: China
+Brand: Pureburg
+Release_Date: 2024-01-31T16:00:00+0000
+Rating: 0.0
+Price: $199
+Link: https://www.fortress.com.hk/en/product/compatible-replacement-hepa-filter-for-dyson-v12-series-sv20-vacuum-cleaner/p/13206948
+
+--
+Name: XV1631/01 Lightweight Cordless Vacuum Cleaner Washable Filter
+Description: Filter replacement compatible with Philips Cordless Vacuum 2000 & 3000 Series. Includes washable foam filter and inlet filter with frame. The foam filter can be easily washed for longer performance.
+Country: China
+Brand: PHILIPS
+Release_Date: 2024-02-29T16:00:00+0000
+Rating: 0.0
+Price: $148
+Link: https://www.fortress.com.hk/en/product/xv1631-01-lightweight-cordless-vacuum-cleaner-washable-filter/p/13207481
+
+--
+Name: PV-XL300K Stick Handy Type Vacuum Cleaner
+Description: Stick Handy Type Vacuum Cleaner
+Country: Japan
+Brand: HITACHI
+Release_Date: 2024-03-26T16:00:00+0000
+Rating: 0.0
+Price: $4,380
+Link: https://www.fortress.com.hk/en/product/pv-xl300k-stick-handy-type-vacuum-cleaner/p/13250252
+
+--
+Name: DuoflexHX1TC cordless stick vacuum cleaner
+Description: The powerful clean for any moment. Suits your spontaneous life.  So stylish!  So powerful! So compact and flexible!
+Country: China
+Brand: MIELE
+Release_Date: 2024-05-07T16:00:00+0000
+Rating: 0.0
+Price: $4,588
+Link: https://www.fortress.com.hk/en/product/duoflexhx1tc-cordless-stick-vacuum-cleaner/p/13291521
+
+--
+Name: DouflexHX1R Cordless Stick Vacuum Cleaner
+Description: The powerful clean for any moment. Suits your spontaneous life.
+Country: China
+Brand: MIELE
+Release_Date: 2024-05-07T16:00:00+0000
+Rating: 0.0
+Price: $3,088
+Link: https://www.fortress.com.hk/en/product/douflexhx1r-cordless-stick-vacuum-cleaner/p/13291628
+
+--
+Name: DuoflexHX1C&D cordless stick vacuum cleaner
+Description: The powerful clean for any moment.  Suits your spontaneous life.  Flexible operation creates a comfortable pet home.
+Country: China
+Brand: MIELE
+Release_Date: 2024-05-07T16:00:00+0000
+Rating: 0.0
+Price: $3,888
+Link: https://www.fortress.com.hk/en/product/duoflexhx1c-d-cordless-stick-vacuum-cleaner/p/13291636
+
+--
+Name: DuoflexHX1B cordless stick vacuum cleaner
+Description: The powerful clean for any moment. Suits your spontaneous life.
+Country: China
+Brand: MIELE
+Release_Date: 2024-05-07T16:00:00+0000
+Rating: 0.0
+Price: $3,288
+Link: https://www.fortress.com.hk/en/product/duoflexhx1b-cordless-stick-vacuum-cleaner/p/13291687
+
+--
+Name: VS20B95843W/SH BESPOKE Jet Plus Complete Cordless Stick Vacuum Cleaner - Misty White
+Description: 210w suction power, an easy way of emptying and charging the vacuum. An All-in-one Clean Station™ empties the dustbin with "Air Pulse" technology. Traps 99.999% fine dust and an anti-bacterial dust bag inhibits 99.9% of bacterial growth.
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2024-05-09T16:00:00+0000
+Rating: 0.0
+Price: $5,590
+Link: https://www.fortress.com.hk/en/product/vs20b95843w-sh-bespoke-jet-plus-complete-cordless-stick-vacuum-cleaner-misty-white/p/13294159
+
+--
+Name: VS20B95993B BESPOKE Jet™ Plus Elite Extra Cordless Stick Vacuum Cleaner - Midnight Blue
+Description: 210w suction power, an easy way of emptying and charging the vacuum. An All-in-one Clean Station™ empties the dustbin with "Air Pulse" technology. Traps 99.999% fine dust and an anti-bacterial dust bag inhibits 99.9% of bacterial growth.
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2024-05-07T16:00:00+0000
+Rating: 0.0
+Price: $6,990
+Link: https://www.fortress.com.hk/en/product/vs20b95993b-bespoke-jet™-plus-elite-extra-cordless-stick-vacuum-cleaner-midnight-blue/p/13297886
 
 --
 Name: FVCH22VB23 Cordless Handheld Vacuum Cleaner
@@ -2813,6 +3115,17 @@ Brand: FORTRESS
 Release_Date: 2023-10-30T16:00:00+0000
 Rating: 5.0
 Price: $1,099
+Link: https://www.fortress.com.hk/en/product/fvch22vb23-cordless-handheld-vacuum-cleaner/p/13111826
+
+--
+Name: CX1-G Boost Bagless Vacuum Cleaner (Graphite Grey)
+Description: The new bagless cylinder vacuum cleaner, Miele Boost CX1, equipped with Vortex Technology ensures powerful cleaning performance.  Enjoy easy handling with the new TrackDrive and Compact Design.  Quality tested for 20 years of usage.
+Country: China
+Brand: MIELE
+Release_Date: 2021-09-30T16:00:00+0000
+Rating: 4.75
+Price: $2,988
+Link: https://www.fortress.com.hk/en/product/cx1-g-boost-bagless-vacuum-cleaner-graphite-grey/p/12511334
 
 --
 Name: VX Max HEPA Filter 2 Units Set
@@ -2822,15 +3135,7 @@ Brand: Autobot
 Release_Date: 2021-08-19T16:00:00+0000
 Rating: 5.0
 Price: $80
-
---
-Name: Compatible replacement 2-in-1 HEPA Filter for Dyson SV18 Digital Slim / Fluffy Extra Vacuum Cleaner
-Description: Replacement 2-in-1 HEPA Filter for Dyson SV18 Digital Slim / Fluffy Extra Cordless Vacuum Cleaner
-Country: China
-Brand: Pureburg
-Release_Date: 2024-01-31T16:00:00+0000
-Rating: 5.0
-Price: $169
+Link: https://www.fortress.com.hk/en/product/vx-max-hepa-filter-2-units-set/p/12474246
 
 --
 Name: MC-YL633 2000W Business Use Vacuum Cleaner
@@ -2840,6 +3145,17 @@ Brand: PANASONIC
 Release_Date: 2021-05-04T16:00:00+0000
 Rating: 4.71
 Price: $1,279
+Link: https://www.fortress.com.hk/en/product/mc-yl633-2000w-business-use-vacuum-cleaner/p/12337188
+
+--
+Name: Compatible replacement 2-in-1 HEPA Filter for Dyson SV18 Digital Slim / Fluffy Extra Vacuum Cleaner
+Description: Replacement 2-in-1 HEPA Filter for Dyson SV18 Digital Slim / Fluffy Extra Cordless Vacuum Cleaner
+Country: China
+Brand: Pureburg
+Release_Date: 2024-01-31T16:00:00+0000
+Rating: 5.0
+Price: $169
+Link: https://www.fortress.com.hk/en/product/compatible-replacement-2-in-1-hepa-filter-for-dyson-sv18-digital-slim-fluffy-extra-vacuum-cleaner/p/13206542
 
 --
 Name: HW-CS-SAA Cleanslate Spot Cleaner
@@ -2849,24 +3165,7 @@ Brand: HOOVER
 Release_Date: 2022-05-26T16:00:00+0000
 Rating: 4.2
 Price: $958
-
---
-Name: BHZUC18 Quick Charger for Unlimited Series Vacuum Cleaner for BCS611P4A
-Description: Quick Charger for Unlimited Series Vacuum Cleaner, BCS611P4A. The fast one, allows for longer runtime thanks to additional fast charging option of spare batteries.
-Country: China
-Brand: BOSCH
-Release_Date: 2021-06-29T16:00:00+0000
-Rating: 0.0
-Price: $1,200
-
---
-Name: XJC-C030 Cordless Vacuum Cleaner
-Description: light weight - VC body only 0.85kg/ Long-lasting power- can use 75mins consecutively,/Detachable rechargable battery
-Country: China
-Brand: Plus Minus Zero
-Release_Date: 2019-06-04T16:00:00+0000
-Rating: 4.69
-Price: $2,198
+Link: https://www.fortress.com.hk/en/product/hw-cs-saa-cleanslate-spot-cleaner/p/12723273
 
 --
 Name: XJC-G040 Cordless Cleaner
@@ -2876,15 +3175,27 @@ Brand: Plus Minus Zero
 Release_Date: 2023-09-15T16:00:00+0000
 Rating: 0.0
 Price: $2,480
+Link: https://www.fortress.com.hk/en/product/xjc-g040-cordless-cleaner/p/13106171
 
 --
-Name: XV1632/01 Accessories set with 2-in-1 tool and crevice tool
-Description: Set of accessories compatible with Philips Cordless VC 2000 Series and 3000 Series. Includes 2-in-1 tool and crevice tool.
+Name: XJC-C030 Cordless Vacuum Cleaner
+Description: light weight - VC body only 0.85kg/ Long-lasting power- can use 75mins consecutively,/Detachable rechargable battery
 Country: China
-Brand: PHILIPS
-Release_Date: 2024-03-21T16:00:00+0000
+Brand: Plus Minus Zero
+Release_Date: 2019-06-04T16:00:00+0000
+Rating: 4.69
+Price: $2,198
+Link: https://www.fortress.com.hk/en/product/xjc-c030-cordless-vacuum-cleaner/p/11879858
+
+--
+Name: BHZUC18 Quick Charger for Unlimited Series Vacuum Cleaner for BCS611P4A
+Description: Quick Charger for Unlimited Series Vacuum Cleaner, BCS611P4A. The fast one, allows for longer runtime thanks to additional fast charging option of spare batteries.
+Country: China
+Brand: BOSCH
+Release_Date: 2021-06-29T16:00:00+0000
 Rating: 0.0
-Price: $298
+Price: $1,200
+Link: https://www.fortress.com.hk/en/product/bhzuc18-quick-charger-for-unlimited-series-vacuum-cleaner-for-bcs611p4a/p/12455395
 
 --
 Name: XJC-B021 Cordless Vacuum Cleaner
@@ -2894,6 +3205,7 @@ Brand: Plus Minus Zero
 Release_Date: 2018-10-28T16:00:00+0000
 Rating: 4.71
 Price: $1,828
+Link: https://www.fortress.com.hk/en/product/xjc-b021-cordless-vacuum-cleaner/p/11818262
 
 --
 Name: XL-pack 3D GN Dustbag
@@ -2903,6 +3215,7 @@ Brand: MIELE
 Release_Date: 2020-09-30T16:00:00+0000
 Rating: 5.0
 Price: $360
+Link: https://www.fortress.com.hk/en/product/xl-pack-3d-gn-dustbag/p/12109599
 
 --
 Name: CM800 Mite Remover
@@ -2912,6 +3225,7 @@ Brand: Deerma
 Release_Date: 2020-11-11T16:00:00+0000
 Rating: 4.6
 Price: $298
+Link: https://www.fortress.com.hk/en/product/cm800-mite-remover/p/12230495
 
 --
 Name: TB900 Weeping Mopping Floor Washer
@@ -2921,6 +3235,7 @@ Brand: Deerma
 Release_Date: 2020-11-11T16:00:00+0000
 Rating: 4.2
 Price: $299
+Link: https://www.fortress.com.hk/en/product/tb900-weeping-mopping-floor-washer/p/12244969
 
 --
 Name: T2150 G10 HYBRID 2-in-1 Sweeping + Mopping Robotic Vacuum Cleaner
@@ -2930,6 +3245,17 @@ Brand: Anker
 Release_Date: 2020-11-11T16:00:00+0000
 Rating: 5.0
 Price: $2,699
+Link: https://www.fortress.com.hk/en/product/t2150-g10-hybrid-2-in-1-sweeping-mopping-robotic-vacuum-cleaner/p/12304124
+
+--
+Name: XV1632/01 Accessories set with 2-in-1 tool and crevice tool
+Description: Set of accessories compatible with Philips Cordless VC 2000 Series and 3000 Series. Includes 2-in-1 tool and crevice tool.
+Country: China
+Brand: PHILIPS
+Release_Date: 2024-03-21T16:00:00+0000
+Rating: 0.0
+Price: $298
+Link: https://www.fortress.com.hk/en/product/xv1632-01-accessories-set-with-2-in-1-tool-and-crevice-tool/p/13242594
 
 --
 Name: LUN16 water spray window cleaning robot
@@ -2939,6 +3265,7 @@ Brand: Lunon
 Release_Date: 2024-03-27T16:00:00+0000
 Rating: 0.0
 Price: $1,999
+Link: https://www.fortress.com.hk/en/product/lun16-water-spray-window-cleaning-robot/p/13250279
 
 --
 Name: PV-X90N Stick Handy Type Vacuum Cleaner
@@ -2948,6 +3275,7 @@ Brand: HITACHI
 Release_Date: 2024-03-28T16:00:00+0000
 Rating: 0.0
 Price: $1,480
+Link: https://www.fortress.com.hk/en/product/pv-x90n-stick-handy-type-vacuum-cleaner/p/13250287
 
 --
 Name: BHR6459CN Vacuum Cleaner G9 Extended Battery Pack
@@ -2957,6 +3285,7 @@ Brand: Mi
 Release_Date: 2023-06-27T16:00:00+0000
 Rating: 0.0
 Price: $529
+Link: https://www.fortress.com.hk/en/product/bhr6459cn-vacuum-cleaner-g9-extended-battery-pack/p/13271408
 
 --
 Name: BHR7226GL Truclean W10 Ultra Wet Dry Vacuum Filter (2-Pack)
@@ -2966,6 +3295,7 @@ Brand: Mi
 Release_Date: 2023-02-26T16:00:00+0000
 Rating: 0.0
 Price: $49
+Link: https://www.fortress.com.hk/en/product/bhr7226gl-truclean-w10-ultra-wet-dry-vacuum-filter-2-pack/p/13271416
 
 --
 Name: BHR5985TY Vacuum Cleaner G11 Plus Filter Kit
@@ -2975,6 +3305,7 @@ Brand: Mi
 Release_Date: 2022-05-25T16:00:00+0000
 Rating: 0.0
 Price: $69
+Link: https://www.fortress.com.hk/en/product/bhr5985ty-vacuum-cleaner-g11-plus-filter-kit/p/13271432
 
 --
 Name: BHR6457CN Vacuum Cleaner G9 Plus Filter Kit
@@ -2984,6 +3315,7 @@ Brand: Mi
 Release_Date: 2023-06-27T16:00:00+0000
 Rating: 0.0
 Price: $69
+Link: https://www.fortress.com.hk/en/product/bhr6457cn-vacuum-cleaner-g9-plus-filter-kit/p/13271467
 
 --
 Name: BHR6460CN Vacuum Cleaner G10 Extended Battery Pack
@@ -2993,6 +3325,7 @@ Brand: Mi
 Release_Date: 2023-06-27T16:00:00+0000
 Rating: 0.0
 Price: $549
+Link: https://www.fortress.com.hk/en/product/bhr6460cn-vacuum-cleaner-g10-extended-battery-pack/p/13271475
 
 --
 Name: BHR6259TY Truclean W10 Ultra Wet Dry Vacuum Roller Brush
@@ -3002,6 +3335,7 @@ Brand: Mi
 Release_Date: 2023-02-26T16:00:00+0000
 Rating: 0.0
 Price: $129
+Link: https://www.fortress.com.hk/en/product/bhr6259ty-truclean-w10-ultra-wet-dry-vacuum-roller-brush/p/13271491
 
 --
 Name: BHR5329TY Robot Vacuum-Mop/2 Pro+/2 Waterproof Mat
@@ -3011,6 +3345,7 @@ Brand: Mi
 Release_Date: 2022-04-06T16:00:00+0000
 Rating: 0.0
 Price: $49
+Link: https://www.fortress.com.hk/en/product/bhr5329ty-robot-vacuum-mop-2-pro-2-waterproof-mat/p/13271504
 
 --
 Name: ZR009602 Aqua Mop
@@ -3020,6 +3355,7 @@ Brand: TEFAL
 Release_Date: 2024-04-25T16:00:00+0000
 Rating: 0.0
 Price: $488
+Link: https://www.fortress.com.hk/en/product/zr009602-aqua-mop/p/13273331
 
 --
 Name: VS20B958F3N/SP BESPOKE Jet™ Plus Premium Cordless Stick Vacuum Cleaner - Woody Green
@@ -3029,6 +3365,7 @@ Brand: SAMSUNG
 Release_Date: 2024-05-07T16:00:00+0000
 Rating: 0.0
 Price: $5,590
+Link: https://www.fortress.com.hk/en/product/vs20b958f3n-sp-bespoke-jet™-plus-premium-cordless-stick-vacuum-cleaner-woody-green/p/13297827
 
 --
 Name: VS20C852FTB/SH BESPOKE Jet Lite (Jet85) Cordless Stick Vacuum Cleaner
@@ -3038,6 +3375,7 @@ Brand: SAMSUNG
 Release_Date: 2024-05-07T16:00:00+0000
 Rating: 0.0
 Price: $3,990
+Link: https://www.fortress.com.hk/en/product/vs20c852ftb-sh-bespoke-jet-lite-jet85-cordless-stick-vacuum-cleaner/p/13297843
 
 --
 Name: VS20C852CTN/SH BESPOKE Jet Lite (Jet85) Cordless Stick Vacuum Cleaner
@@ -3047,6 +3385,7 @@ Brand: SAMSUNG
 Release_Date: 2024-05-07T16:00:00+0000
 Rating: 0.0
 Price: $3,490
+Link: https://www.fortress.com.hk/en/product/vs20c852ctn-sh-bespoke-jet-lite-jet85-cordless-stick-vacuum-cleaner/p/13297851
 
 --
 Name: EFP71512 Lightweight Handstick Vacuum Cleaner (Grey)
@@ -3056,6 +3395,7 @@ Brand: ELECTROLUX
 Release_Date: 2024-05-21T16:00:00+0000
 Rating: 0.0
 Price: $2,680
+Link: https://www.fortress.com.hk/en/product/efp71512-lightweight-handstick-vacuum-cleaner-grey/p/13298037
 
 --
 Name: CXC05APGY Wet & Dry Vacuum Cleaner
@@ -3065,6 +3405,7 @@ Brand: COMFEE
 Release_Date: 2024-05-26T16:00:00+0000
 Rating: 0.0
 Price: $2,480
+Link: https://www.fortress.com.hk/en/product/cxc05apgy-wet-dry-vacuum-cleaner/p/13298070
 
 --
 Name: GVCM20BK SmartClean Pro Wet and Dry Vacuum Cleaner
@@ -3074,15 +3415,7 @@ Brand: GEMINI
 Release_Date: 2024-05-24T16:00:00+0000
 Rating: 0.0
 Price: $2,998
-
---
-Name: VCA-SBTA95/VT BESPOKE Jet LI-ION 25.2V Battery
-Description: BESPOKE Jet™ LI-ION 25.2V Battery
-Country: Viet Nam
-Brand: SAMSUNG
-Release_Date: 2024-05-07T16:00:00+0000
-Rating: 0.0
-Price: $1,090
+Link: https://www.fortress.com.hk/en/product/gvcm20bk-smartclean-pro-wet-and-dry-vacuum-cleaner/p/13303351
 
 --
 Name: DEEBOT T30 PRO OMNI Robotic Vacuum Cleaner
@@ -3092,6 +3425,7 @@ Brand: Ecovacs
 Release_Date: 2024-05-26T16:00:00+0000
 Rating: 0.0
 Price: $4,999
+Link: https://www.fortress.com.hk/en/product/deebot-t30-pro-omni-robotic-vacuum-cleaner/p/13309242
 
 --
 Name: DEEBOTY1PRO Robotic Vacuum Cleaner
@@ -3101,6 +3435,17 @@ Brand: Ecovacs
 Release_Date: 2024-05-26T16:00:00+0000
 Rating: 0.0
 Price: $1,699
+Link: https://www.fortress.com.hk/en/product/deeboty1pro-robotic-vacuum-cleaner/p/13309285
+
+--
+Name: VCA-SBTA95/VT BESPOKE Jet LI-ION 25.2V Battery
+Description: BESPOKE Jet™ LI-ION 25.2V Battery
+Country: Viet Nam
+Brand: SAMSUNG
+Release_Date: 2024-05-07T16:00:00+0000
+Rating: 0.0
+Price: $1,090
+Link: https://www.fortress.com.hk/en/product/vca-sbta95-vt-bespoke-jet-li-ion-25.2v-battery/p/13312193
 
 --
 Name: VCA-TABA95 BESPOKE Jet Jet Dual Brush
@@ -3110,3 +3455,4 @@ Brand: SAMSUNG
 Release_Date: 2024-05-07T16:00:00+0000
 Rating: 0.0
 Price: $990
+Link: https://www.fortress.com.hk/en/product/vca-taba95-bespoke-jet-jet-dual-brush/p/13312206
