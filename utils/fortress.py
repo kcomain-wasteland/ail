@@ -73,7 +73,7 @@ if __name__ == "__main__":
     ]
 
     for thing in things:
-        _params = params(thing.value)
+        _params = params(thing.value, count=9999)
         logger.debug(_params)
 
         logger.debug(f"getting {thing.name}")
@@ -91,5 +91,5 @@ if __name__ == "__main__":
             logger.exception("Unhandled exception")
 
         logger.info("writing %s", thing.name)
-        with open(f"data/fortress_{thing.name}.json", "w+") as f:
+        with open(f"data/semiraw/fortress_{thing.name}.json", "w+") as f:
             f.write(reduce_junk(res.content))
