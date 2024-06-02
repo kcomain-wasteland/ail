@@ -17,5 +17,5 @@ Since 2024-05-31T12:32:21+08:00.
 EdUHK, the World Wide Web and in various dwellings.
 
 ## License
-Code are licensed under the Unlicense. Data included in `/data` are ARR to their respective owners:
+Code is licensed under the Unlicense. Data included in `/data` are ARR to their respective owners:
 - Fortress

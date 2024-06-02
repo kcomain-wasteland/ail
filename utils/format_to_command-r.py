@@ -25,7 +25,6 @@ if __name__ == "__main__":
                 print(f"\tProcessing datum {count}")
                 new_data.append(convert_entries(datum))
 
-
         print(f"{len(new_data)} entries in new data")
         print(f"writing to destination")
         with (FINAL / (filename + ".txt")).open("w+") as f:
