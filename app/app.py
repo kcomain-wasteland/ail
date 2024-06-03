@@ -51,6 +51,9 @@ def app():
                 break
         else:
             repeat = not repeat
+        if len(user_in.strip()) < 1:
+            # user didn't write anything, skip sending requests
+            continue
 
         if commands.check(user_in):
             # handle commands
