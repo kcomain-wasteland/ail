@@ -11,5 +11,5 @@ ail: AI Literacy Chatbot 2nd Generation
 __version__ = "0.1.1"
 
 ### Constants
-MODEL = "command-r-plus"
+MODEL = "command-r"
 TEMPERATURE = 0.2
