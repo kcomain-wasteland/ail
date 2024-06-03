@@ -16,6 +16,9 @@ Since 2024-05-31T12:32:21+08:00.
 ## Where
 EdUHK, the World Wide Web and in various dwellings.
 
+## Quirks
+When re-running the formatter script, remove `fortress-` prefix. The LLM hallucinates way too much.
+
 ## License
 Code is licensed under the Unlicense. Data included in `/data` are ARR to their respective owners:
 - Fortress

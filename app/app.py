@@ -16,6 +16,7 @@ from dotenv import load_dotenv
 from . import logging
 from .data import Data
 from .api import Client
+from .tools import handle
 from .state import History
 from .commands import Commands
 from .args import parse as parse_arguments
@@ -35,29 +36,57 @@ def app():
     load_dotenv()
 
     data = Data()
-    client = Client(getenv("COHERE_API_KEY"), data, history)
+    client = Client(getenv("COHERE_API_KEY"), data, history, args.document_mode)
+
+    tool_results = None
+    repeat = False
 
     while run_app:
-        try:
-            user_in = input("User: ")
-        except EOFError:
-            print()
-            break
+        if not repeat:
+            try:
+                tool_results = None
+                user_in = input("User: ")
+            except EOFError:
+                print()
+                break
+        else:
+            repeat = not repeat
+
         if commands.check(user_in):
             # handle commands
             out = commands.run(user_in)
             if out == "stop":
                 run_app = False
-        else:
-            print("Bot: ", end="")
-            sleep(0.2)
-            for event in client.send(user_in):
-                match event.event_type:
-                    case "text-generation":
-                        print(event.text, end="")
-                    case "stream-end":
-                        logger.info("ended with reason: %s", event.finish_reason)
+            continue
+
+        skip_rest = False
+        print("Bot: ", end="")
+        sleep(0.2)
+        for event in client.send(user_in, tool_results):
+            if skip_rest:
+                continue
+            logger.debug(event)
+            match event.event_type:
+                case "text-generation":
+                    print(event.text, end="")
+
+                case "tool-calls-generation":
+                    repeat = True
+                    logger.info("tool calls initiated")
+                    print("(tool requested, no output this turn)")
+                    tool_results = handle(data, event.tool_calls)
+                    break
+
+                case "stream-end":
+                    logger.info("ended with reason: %s", event.finish_reason)
+
+                    # HACK: because i cannot deal with this anymore
+                    try:
+                        for citation in event.response.get("citations", []):
+                            logger.info(f"Citation: %s", citation)
+                        history.set(event.response.get("chat_history"))
+                    except AttributeError:
                         for citation in event.response.citations or []:
-                            print(f"\nCitations: {citation}")
-                        history.set(event.response.chat_history or [])
-                        print("\n")
+                            logger.info(f"Citation: %s", citation)
+                        history.set(event.response.chat_history)
+                    print("\n")

@@ -17,7 +17,7 @@ datadir = (Path(__file__).parent / "../data").resolve()
 
 class Data:
     preamble: str = ""
-    documents: list[dict[str, str]] = []
+    documents: dict[str, str] = {}
 
     def __init__(self):
         self.logger = get_logger("data")
@@ -29,4 +29,4 @@ class Data:
         for doc in list((datadir / "processed").glob("*.txt")):
             self.logger.debug("loading document %s", doc)
             with doc.open() as f:
-                self.documents.append({"title": doc.name, "text": f.read()})
+                self.documents[doc.name] = f.read()

@@ -21,7 +21,7 @@ class History:
         self._history = []
 
     def get(self):
-        self.logger.debug("get history")
+        self.logger.debug("get history, %s", self._history)
         return self._history
 
     def set(self, new: list):

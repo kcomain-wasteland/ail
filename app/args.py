@@ -23,6 +23,10 @@ args.add_argument(
     help="be more verbose. specify multiple times to be more verbose",
 )
 
+args.add_argument(
+    "-d", "--document-mode", action="store_true", help="switch to document mode"
+)
+
 
 def parse():
     return args.parse_args()

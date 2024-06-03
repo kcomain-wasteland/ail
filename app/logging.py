@@ -16,7 +16,7 @@ VERBOSITY = [logging.WARNING, logging.INFO, logging.DEBUG]
 def configure_logging(args):
     logging.basicConfig(
         format="[%(asctime)s %(name)s:%(levelname)s] %(message)s",
-        level=VERBOSITY[min(len(VERBOSITY), args.verbose)],
+        level=VERBOSITY[min(len(VERBOSITY) - 1, args.verbose)],
     )
 
 def get_logger(name: str):
